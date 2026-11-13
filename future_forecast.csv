@@ -1,0 +1,2833 @@
+skill,week,horizon_weeks,forecast_demand,model_used
+airflow,2024-01-01,1,722.0,Moving Average
+airflow,2024-01-08,2,700.25,Moving Average
+airflow,2024-01-15,3,665.06,Moving Average
+airflow,2024-01-22,4,652.58,Moving Average
+airflow,2024-01-29,5,684.97,Moving Average
+airflow,2024-02-05,6,675.72,Moving Average
+airflow,2024-02-12,7,669.58,Moving Average
+airflow,2024-02-19,8,670.71,Moving Average
+airflow,2024-02-26,9,675.25,Moving Average
+airflow,2024-03-04,10,672.81,Moving Average
+airflow,2024-03-11,11,672.09,Moving Average
+airflow,2024-03-18,12,672.72,Moving Average
+airtable,2024-01-01,1,4.25,Moving Average
+airtable,2024-01-08,2,4.31,Moving Average
+airtable,2024-01-15,3,4.39,Moving Average
+airtable,2024-01-22,4,3.74,Moving Average
+airtable,2024-01-29,5,4.17,Moving Average
+airtable,2024-02-05,6,4.15,Moving Average
+airtable,2024-02-12,7,4.11,Moving Average
+airtable,2024-02-19,8,4.04,Moving Average
+airtable,2024-02-26,9,4.12,Moving Average
+airtable,2024-03-04,10,4.11,Moving Average
+airtable,2024-03-11,11,4.1,Moving Average
+airtable,2024-03-18,12,4.09,Moving Average
+alteryx,2024-01-01,1,154.0,Moving Average
+alteryx,2024-01-08,2,149.75,Moving Average
+alteryx,2024-01-15,3,140.69,Moving Average
+alteryx,2024-01-22,4,132.36,Moving Average
+alteryx,2024-01-29,5,144.2,Moving Average
+alteryx,2024-02-05,6,141.75,Moving Average
+alteryx,2024-02-12,7,139.75,Moving Average
+alteryx,2024-02-19,8,139.51,Moving Average
+alteryx,2024-02-26,9,141.3,Moving Average
+alteryx,2024-03-04,10,140.58,Moving Average
+alteryx,2024-03-11,11,140.29,Moving Average
+alteryx,2024-03-18,12,140.42,Moving Average
+angular,2024-01-01,1,89.0,Moving Average
+angular,2024-01-08,2,87.5,Moving Average
+angular,2024-01-15,3,86.88,Moving Average
+angular,2024-01-22,4,81.34,Moving Average
+angular,2024-01-29,5,86.18,Moving Average
+angular,2024-02-05,6,85.47,Moving Average
+angular,2024-02-12,7,84.97,Moving Average
+angular,2024-02-19,8,84.49,Moving Average
+angular,2024-02-26,9,85.28,Moving Average
+angular,2024-03-04,10,85.05,Moving Average
+angular,2024-03-11,11,84.95,Moving Average
+angular,2024-03-18,12,84.94,Moving Average
+angular.js,2024-01-01,1,0.25,Moving Average
+angular.js,2024-01-08,2,0.31,Moving Average
+angular.js,2024-01-15,3,0.39,Moving Average
+angular.js,2024-01-22,4,0.49,Moving Average
+angular.js,2024-01-29,5,0.36,Moving Average
+angular.js,2024-02-05,6,0.39,Moving Average
+angular.js,2024-02-12,7,0.41,Moving Average
+angular.js,2024-02-19,8,0.41,Moving Average
+angular.js,2024-02-26,9,0.39,Moving Average
+angular.js,2024-03-04,10,0.4,Moving Average
+angular.js,2024-03-11,11,0.4,Moving Average
+angular.js,2024-03-18,12,0.4,Moving Average
+ansible,2024-01-01,1,72.0,Previous Week
+ansible,2024-01-08,2,72.0,Previous Week
+ansible,2024-01-15,3,72.0,Previous Week
+ansible,2024-01-22,4,72.0,Previous Week
+ansible,2024-01-29,5,72.0,Previous Week
+ansible,2024-02-05,6,72.0,Previous Week
+ansible,2024-02-12,7,72.0,Previous Week
+ansible,2024-02-19,8,72.0,Previous Week
+ansible,2024-02-26,9,72.0,Previous Week
+ansible,2024-03-04,10,72.0,Previous Week
+ansible,2024-03-11,11,72.0,Previous Week
+ansible,2024-03-18,12,72.0,Previous Week
+apl,2024-01-01,1,2.75,Moving Average
+apl,2024-01-08,2,2.44,Moving Average
+apl,2024-01-15,3,3.05,Moving Average
+apl,2024-01-22,4,3.56,Moving Average
+apl,2024-01-29,5,2.95,Moving Average
+apl,2024-02-05,6,3.0,Moving Average
+apl,2024-02-12,7,3.14,Moving Average
+apl,2024-02-19,8,3.16,Moving Average
+apl,2024-02-26,9,3.06,Moving Average
+apl,2024-03-04,10,3.09,Moving Average
+apl,2024-03-11,11,3.11,Moving Average
+apl,2024-03-18,12,3.11,Moving Average
+arch,2024-01-01,1,5.5,Moving Average
+arch,2024-01-08,2,5.38,Moving Average
+arch,2024-01-15,3,5.47,Moving Average
+arch,2024-01-22,4,4.59,Moving Average
+arch,2024-01-29,5,5.23,Moving Average
+arch,2024-02-05,6,5.17,Moving Average
+arch,2024-02-12,7,5.11,Moving Average
+arch,2024-02-19,8,5.02,Moving Average
+arch,2024-02-26,9,5.13,Moving Average
+arch,2024-03-04,10,5.11,Moving Average
+arch,2024-03-11,11,5.1,Moving Average
+arch,2024-03-18,12,5.09,Moving Average
+asana,2024-01-01,1,6.39,XGBoost
+asana,2024-01-08,2,4.56,XGBoost
+asana,2024-01-15,3,7.27,XGBoost
+asana,2024-01-22,4,9.01,XGBoost
+asana,2024-01-29,5,10.54,XGBoost
+asana,2024-02-05,6,8.46,XGBoost
+asana,2024-02-12,7,5.87,XGBoost
+asana,2024-02-19,8,8.13,XGBoost
+asana,2024-02-26,9,8.38,XGBoost
+asana,2024-03-04,10,9.79,XGBoost
+asana,2024-03-11,11,10.23,XGBoost
+asana,2024-03-18,12,5.86,XGBoost
+asp.net,2024-01-01,1,17.75,Moving Average
+asp.net,2024-01-08,2,17.19,Moving Average
+asp.net,2024-01-15,3,16.73,Moving Average
+asp.net,2024-01-22,4,17.42,Moving Average
+asp.net,2024-01-29,5,17.27,Moving Average
+asp.net,2024-02-05,6,17.15,Moving Average
+asp.net,2024-02-12,7,17.14,Moving Average
+asp.net,2024-02-19,8,17.25,Moving Average
+asp.net,2024-02-26,9,17.2,Moving Average
+asp.net,2024-03-04,10,17.19,Moving Average
+asp.net,2024-03-11,11,17.2,Moving Average
+asp.net,2024-03-18,12,17.21,Moving Average
+asp.net core,2024-01-01,1,3.5,Moving Average
+asp.net core,2024-01-08,2,3.62,Moving Average
+asp.net core,2024-01-15,3,3.78,Moving Average
+asp.net core,2024-01-22,4,3.48,Moving Average
+asp.net core,2024-01-29,5,3.6,Moving Average
+asp.net core,2024-02-05,6,3.62,Moving Average
+asp.net core,2024-02-12,7,3.62,Moving Average
+asp.net core,2024-02-19,8,3.58,Moving Average
+asp.net core,2024-02-26,9,3.6,Moving Average
+asp.net core,2024-03-04,10,3.6,Moving Average
+asp.net core,2024-03-11,11,3.6,Moving Average
+asp.net core,2024-03-18,12,3.6,Moving Average
+assembly,2024-01-01,1,35.75,Moving Average
+assembly,2024-01-08,2,30.94,Moving Average
+assembly,2024-01-15,3,30.67,Moving Average
+assembly,2024-01-22,4,30.09,Moving Average
+assembly,2024-01-29,5,31.86,Moving Average
+assembly,2024-02-05,6,30.89,Moving Average
+assembly,2024-02-12,7,30.88,Moving Average
+assembly,2024-02-19,8,30.93,Moving Average
+assembly,2024-02-26,9,31.14,Moving Average
+assembly,2024-03-04,10,30.96,Moving Average
+assembly,2024-03-11,11,30.98,Moving Average
+assembly,2024-03-18,12,31.0,Moving Average
+atlassian,2024-01-01,1,38.5,Moving Average
+atlassian,2024-01-08,2,35.38,Moving Average
+atlassian,2024-01-15,3,33.72,Moving Average
+atlassian,2024-01-22,4,35.65,Moving Average
+atlassian,2024-01-29,5,35.81,Moving Average
+atlassian,2024-02-05,6,35.14,Moving Average
+atlassian,2024-02-12,7,35.08,Moving Average
+atlassian,2024-02-19,8,35.42,Moving Average
+atlassian,2024-02-26,9,35.36,Moving Average
+atlassian,2024-03-04,10,35.25,Moving Average
+atlassian,2024-03-11,11,35.28,Moving Average
+atlassian,2024-03-18,12,35.33,Moving Average
+aurora,2024-01-01,1,46.0,Moving Average
+aurora,2024-01-08,2,45.25,Moving Average
+aurora,2024-01-15,3,44.81,Moving Average
+aurora,2024-01-22,4,44.27,Moving Average
+aurora,2024-01-29,5,45.08,Moving Average
+aurora,2024-02-05,6,44.85,Moving Average
+aurora,2024-02-12,7,44.75,Moving Average
+aurora,2024-02-19,8,44.74,Moving Average
+aurora,2024-02-26,9,44.86,Moving Average
+aurora,2024-03-04,10,44.8,Moving Average
+aurora,2024-03-11,11,44.79,Moving Average
+aurora,2024-03-18,12,44.8,Moving Average
+aws,2024-01-01,1,1743.0,Previous Week
+aws,2024-01-08,2,1743.0,Previous Week
+aws,2024-01-15,3,1743.0,Previous Week
+aws,2024-01-22,4,1743.0,Previous Week
+aws,2024-01-29,5,1743.0,Previous Week
+aws,2024-02-05,6,1743.0,Previous Week
+aws,2024-02-12,7,1743.0,Previous Week
+aws,2024-02-19,8,1743.0,Previous Week
+aws,2024-02-26,9,1743.0,Previous Week
+aws,2024-03-04,10,1743.0,Previous Week
+aws,2024-03-11,11,1743.0,Previous Week
+aws,2024-03-18,12,1743.0,Previous Week
+azure,2024-01-01,1,1545.0,Previous Week
+azure,2024-01-08,2,1545.0,Previous Week
+azure,2024-01-15,3,1545.0,Previous Week
+azure,2024-01-22,4,1545.0,Previous Week
+azure,2024-01-29,5,1545.0,Previous Week
+azure,2024-02-05,6,1545.0,Previous Week
+azure,2024-02-12,7,1545.0,Previous Week
+azure,2024-02-19,8,1545.0,Previous Week
+azure,2024-02-26,9,1545.0,Previous Week
+azure,2024-03-04,10,1545.0,Previous Week
+azure,2024-03-11,11,1545.0,Previous Week
+azure,2024-03-18,12,1545.0,Previous Week
+bash,2024-01-01,1,147.5,Moving Average
+bash,2024-01-08,2,137.62,Moving Average
+bash,2024-01-15,3,131.78,Moving Average
+bash,2024-01-22,4,128.98,Moving Average
+bash,2024-01-29,5,136.47,Moving Average
+bash,2024-02-05,6,133.71,Moving Average
+bash,2024-02-12,7,132.74,Moving Average
+bash,2024-02-19,8,132.97,Moving Average
+bash,2024-02-26,9,133.97,Moving Average
+bash,2024-03-04,10,133.35,Moving Average
+bash,2024-03-11,11,133.26,Moving Average
+bash,2024-03-18,12,133.39,Moving Average
+bigquery,2024-01-01,1,224.0,Previous Week
+bigquery,2024-01-08,2,224.0,Previous Week
+bigquery,2024-01-15,3,224.0,Previous Week
+bigquery,2024-01-22,4,224.0,Previous Week
+bigquery,2024-01-29,5,224.0,Previous Week
+bigquery,2024-02-05,6,224.0,Previous Week
+bigquery,2024-02-12,7,224.0,Previous Week
+bigquery,2024-02-19,8,224.0,Previous Week
+bigquery,2024-02-26,9,224.0,Previous Week
+bigquery,2024-03-04,10,224.0,Previous Week
+bigquery,2024-03-11,11,224.0,Previous Week
+bigquery,2024-03-18,12,224.0,Previous Week
+bitbucket,2024-01-01,1,81.5,Moving Average
+bitbucket,2024-01-08,2,77.12,Moving Average
+bitbucket,2024-01-15,3,69.41,Moving Average
+bitbucket,2024-01-22,4,69.76,Moving Average
+bitbucket,2024-01-29,5,74.45,Moving Average
+bitbucket,2024-02-05,6,72.68,Moving Average
+bitbucket,2024-02-12,7,71.57,Moving Average
+bitbucket,2024-02-19,8,72.12,Moving Average
+bitbucket,2024-02-26,9,72.71,Moving Average
+bitbucket,2024-03-04,10,72.27,Moving Average
+bitbucket,2024-03-11,11,72.17,Moving Average
+bitbucket,2024-03-18,12,72.31,Moving Average
+blazor,2024-01-01,1,0.3,XGBoost
+blazor,2024-01-08,2,0.3,XGBoost
+blazor,2024-01-15,3,2.17,XGBoost
+blazor,2024-01-22,4,1.85,XGBoost
+blazor,2024-01-29,5,1.0,XGBoost
+blazor,2024-02-05,6,1.56,XGBoost
+blazor,2024-02-12,7,0.67,XGBoost
+blazor,2024-02-19,8,0.26,XGBoost
+blazor,2024-02-26,9,0.35,XGBoost
+blazor,2024-03-04,10,0.5,XGBoost
+blazor,2024-03-11,11,0.64,XGBoost
+blazor,2024-03-18,12,0.64,XGBoost
+c,2024-01-01,1,182.0,Previous Week
+c,2024-01-08,2,182.0,Previous Week
+c,2024-01-15,3,182.0,Previous Week
+c,2024-01-22,4,182.0,Previous Week
+c,2024-01-29,5,182.0,Previous Week
+c,2024-02-05,6,182.0,Previous Week
+c,2024-02-12,7,182.0,Previous Week
+c,2024-02-19,8,182.0,Previous Week
+c,2024-02-26,9,182.0,Previous Week
+c,2024-03-04,10,182.0,Previous Week
+c,2024-03-11,11,182.0,Previous Week
+c,2024-03-18,12,182.0,Previous Week
+c#,2024-01-01,1,253.25,Moving Average
+c#,2024-01-08,2,248.31,Moving Average
+c#,2024-01-15,3,231.14,Moving Average
+c#,2024-01-22,4,232.93,Moving Average
+c#,2024-01-29,5,241.41,Moving Average
+c#,2024-02-05,6,238.45,Moving Average
+c#,2024-02-12,7,235.98,Moving Average
+c#,2024-02-19,8,237.19,Moving Average
+c#,2024-02-26,9,238.26,Moving Average
+c#,2024-03-04,10,237.47,Moving Average
+c#,2024-03-11,11,237.22,Moving Average
+c#,2024-03-18,12,237.53,Moving Average
+c++,2024-01-01,1,261.0,Previous Week
+c++,2024-01-08,2,261.0,Previous Week
+c++,2024-01-15,3,261.0,Previous Week
+c++,2024-01-22,4,261.0,Previous Week
+c++,2024-01-29,5,261.0,Previous Week
+c++,2024-02-05,6,261.0,Previous Week
+c++,2024-02-12,7,261.0,Previous Week
+c++,2024-02-19,8,261.0,Previous Week
+c++,2024-02-26,9,261.0,Previous Week
+c++,2024-03-04,10,261.0,Previous Week
+c++,2024-03-11,11,261.0,Previous Week
+c++,2024-03-18,12,261.0,Previous Week
+capacitor,2024-01-01,1,0.25,Moving Average
+capacitor,2024-01-08,2,0.31,Moving Average
+capacitor,2024-01-15,3,0.14,Moving Average
+capacitor,2024-01-22,4,0.18,Moving Average
+capacitor,2024-01-29,5,0.22,Moving Average
+capacitor,2024-02-05,6,0.21,Moving Average
+capacitor,2024-02-12,7,0.19,Moving Average
+capacitor,2024-02-19,8,0.2,Moving Average
+capacitor,2024-02-26,9,0.2,Moving Average
+capacitor,2024-03-04,10,0.2,Moving Average
+capacitor,2024-03-11,11,0.2,Moving Average
+capacitor,2024-03-18,12,0.2,Moving Average
+cassandra,2024-01-01,1,201.0,Moving Average
+cassandra,2024-01-08,2,208.0,Moving Average
+cassandra,2024-01-15,3,197.5,Moving Average
+cassandra,2024-01-22,4,196.62,Moving Average
+cassandra,2024-01-29,5,200.78,Moving Average
+cassandra,2024-02-05,6,200.73,Moving Average
+cassandra,2024-02-12,7,198.91,Moving Average
+cassandra,2024-02-19,8,199.26,Moving Average
+cassandra,2024-02-26,9,199.92,Moving Average
+cassandra,2024-03-04,10,199.7,Moving Average
+cassandra,2024-03-11,11,199.45,Moving Average
+cassandra,2024-03-18,12,199.58,Moving Average
+centos,2024-01-01,1,12.51,XGBoost
+centos,2024-01-08,2,12.02,XGBoost
+centos,2024-01-15,3,13.18,XGBoost
+centos,2024-01-22,4,7.72,XGBoost
+centos,2024-01-29,5,10.77,XGBoost
+centos,2024-02-05,6,11.17,XGBoost
+centos,2024-02-12,7,16.52,XGBoost
+centos,2024-02-19,8,9.28,XGBoost
+centos,2024-02-26,9,7.84,XGBoost
+centos,2024-03-04,10,13.13,XGBoost
+centos,2024-03-11,11,9.44,XGBoost
+centos,2024-03-18,12,12.61,XGBoost
+chef,2024-01-01,1,59.5,Moving Average
+chef,2024-01-08,2,60.62,Moving Average
+chef,2024-01-15,3,56.53,Moving Average
+chef,2024-01-22,4,55.66,Moving Average
+chef,2024-01-29,5,58.08,Moving Average
+chef,2024-02-05,6,57.73,Moving Average
+chef,2024-02-12,7,57.0,Moving Average
+chef,2024-02-19,8,57.12,Moving Average
+chef,2024-02-26,9,57.48,Moving Average
+chef,2024-03-04,10,57.33,Moving Average
+chef,2024-03-11,11,57.23,Moving Average
+chef,2024-03-18,12,57.29,Moving Average
+clickup,2024-01-01,1,3.96,XGBoost
+clickup,2024-01-08,2,0.51,XGBoost
+clickup,2024-01-15,3,0.84,XGBoost
+clickup,2024-01-22,4,2.87,XGBoost
+clickup,2024-01-29,5,1.29,XGBoost
+clickup,2024-02-05,6,1.39,XGBoost
+clickup,2024-02-12,7,0.76,XGBoost
+clickup,2024-02-19,8,1.67,XGBoost
+clickup,2024-02-26,9,1.04,XGBoost
+clickup,2024-03-04,10,1.5,XGBoost
+clickup,2024-03-11,11,0.98,XGBoost
+clickup,2024-03-18,12,2.43,XGBoost
+clojure,2024-01-01,1,3.0,Moving Average
+clojure,2024-01-08,2,2.5,Moving Average
+clojure,2024-01-15,3,2.62,Moving Average
+clojure,2024-01-22,4,2.28,Moving Average
+clojure,2024-01-29,5,2.6,Moving Average
+clojure,2024-02-05,6,2.5,Moving Average
+clojure,2024-02-12,7,2.5,Moving Average
+clojure,2024-02-19,8,2.47,Moving Average
+clojure,2024-02-26,9,2.52,Moving Average
+clojure,2024-03-04,10,2.5,Moving Average
+clojure,2024-03-11,11,2.5,Moving Average
+clojure,2024-03-18,12,2.5,Moving Average
+cobol,2024-01-01,1,8.25,Moving Average
+cobol,2024-01-08,2,8.31,Moving Average
+cobol,2024-01-15,3,9.14,Moving Average
+cobol,2024-01-22,4,9.43,Moving Average
+cobol,2024-01-29,5,8.78,Moving Average
+cobol,2024-02-05,6,8.92,Moving Average
+cobol,2024-02-12,7,9.07,Moving Average
+cobol,2024-02-19,8,9.05,Moving Average
+cobol,2024-02-26,9,8.95,Moving Average
+cobol,2024-03-04,10,9.0,Moving Average
+cobol,2024-03-11,11,9.02,Moving Average
+cobol,2024-03-18,12,9.0,Moving Average
+codecommit,2024-01-01,1,3.5,Moving Average
+codecommit,2024-01-08,2,4.12,Moving Average
+codecommit,2024-01-15,3,4.41,Moving Average
+codecommit,2024-01-22,4,4.01,Moving Average
+codecommit,2024-01-29,5,4.01,Moving Average
+codecommit,2024-02-05,6,4.14,Moving Average
+codecommit,2024-02-12,7,4.14,Moving Average
+codecommit,2024-02-19,8,4.07,Moving Average
+codecommit,2024-02-26,9,4.09,Moving Average
+codecommit,2024-03-04,10,4.11,Moving Average
+codecommit,2024-03-11,11,4.1,Moving Average
+codecommit,2024-03-18,12,4.09,Moving Average
+cognos,2024-01-01,1,76.0,Moving Average
+cognos,2024-01-08,2,73.0,Moving Average
+cognos,2024-01-15,3,71.5,Moving Average
+cognos,2024-01-22,4,66.12,Moving Average
+cognos,2024-01-29,5,71.66,Moving Average
+cognos,2024-02-05,6,70.57,Moving Average
+cognos,2024-02-12,7,69.96,Moving Average
+cognos,2024-02-19,8,69.58,Moving Average
+cognos,2024-02-26,9,70.44,Moving Average
+cognos,2024-03-04,10,70.14,Moving Average
+cognos,2024-03-11,11,70.03,Moving Average
+cognos,2024-03-18,12,70.05,Moving Average
+colocation,2024-01-01,1,6.5,Moving Average
+colocation,2024-01-08,2,5.12,Moving Average
+colocation,2024-01-15,3,4.66,Moving Average
+colocation,2024-01-22,4,4.82,Moving Average
+colocation,2024-01-29,5,5.28,Moving Average
+colocation,2024-02-05,6,4.97,Moving Average
+colocation,2024-02-12,7,4.93,Moving Average
+colocation,2024-02-19,8,5.0,Moving Average
+colocation,2024-02-26,9,5.04,Moving Average
+colocation,2024-03-04,10,4.99,Moving Average
+colocation,2024-03-11,11,4.99,Moving Average
+colocation,2024-03-18,12,5.0,Moving Average
+confluence,2024-01-01,1,113.0,Previous Week
+confluence,2024-01-08,2,113.0,Previous Week
+confluence,2024-01-15,3,113.0,Previous Week
+confluence,2024-01-22,4,113.0,Previous Week
+confluence,2024-01-29,5,113.0,Previous Week
+confluence,2024-02-05,6,113.0,Previous Week
+confluence,2024-02-12,7,113.0,Previous Week
+confluence,2024-02-19,8,113.0,Previous Week
+confluence,2024-02-26,9,113.0,Previous Week
+confluence,2024-03-04,10,113.0,Previous Week
+confluence,2024-03-11,11,113.0,Previous Week
+confluence,2024-03-18,12,113.0,Previous Week
+cordova,2024-01-01,1,0.0,Previous Week
+cordova,2024-01-08,2,0.0,Previous Week
+cordova,2024-01-15,3,0.0,Previous Week
+cordova,2024-01-22,4,0.0,Previous Week
+cordova,2024-01-29,5,0.0,Previous Week
+cordova,2024-02-05,6,0.0,Previous Week
+cordova,2024-02-12,7,0.0,Previous Week
+cordova,2024-02-19,8,0.0,Previous Week
+cordova,2024-02-26,9,0.0,Previous Week
+cordova,2024-03-04,10,0.0,Previous Week
+cordova,2024-03-11,11,0.0,Previous Week
+cordova,2024-03-18,12,0.0,Previous Week
+couchbase,2024-01-01,1,9.25,Moving Average
+couchbase,2024-01-08,2,8.31,Moving Average
+couchbase,2024-01-15,3,7.39,Moving Average
+couchbase,2024-01-22,4,7.49,Moving Average
+couchbase,2024-01-29,5,8.11,Moving Average
+couchbase,2024-02-05,6,7.83,Moving Average
+couchbase,2024-02-12,7,7.7,Moving Average
+couchbase,2024-02-19,8,7.78,Moving Average
+couchbase,2024-02-26,9,7.86,Moving Average
+couchbase,2024-03-04,10,7.79,Moving Average
+couchbase,2024-03-11,11,7.78,Moving Average
+couchbase,2024-03-18,12,7.8,Moving Average
+couchdb,2024-01-01,1,7.44,XGBoost
+couchdb,2024-01-08,2,3.5,XGBoost
+couchdb,2024-01-15,3,4.69,XGBoost
+couchdb,2024-01-22,4,3.91,XGBoost
+couchdb,2024-01-29,5,2.08,XGBoost
+couchdb,2024-02-05,6,2.12,XGBoost
+couchdb,2024-02-12,7,3.23,XGBoost
+couchdb,2024-02-19,8,3.81,XGBoost
+couchdb,2024-02-26,9,6.1,XGBoost
+couchdb,2024-03-04,10,1.99,XGBoost
+couchdb,2024-03-11,11,4.97,XGBoost
+couchdb,2024-03-18,12,2.14,XGBoost
+crystal,2024-01-01,1,19.0,Previous Week
+crystal,2024-01-08,2,19.0,Previous Week
+crystal,2024-01-15,3,19.0,Previous Week
+crystal,2024-01-22,4,19.0,Previous Week
+crystal,2024-01-29,5,19.0,Previous Week
+crystal,2024-02-05,6,19.0,Previous Week
+crystal,2024-02-12,7,19.0,Previous Week
+crystal,2024-02-19,8,19.0,Previous Week
+crystal,2024-02-26,9,19.0,Previous Week
+crystal,2024-03-04,10,19.0,Previous Week
+crystal,2024-03-11,11,19.0,Previous Week
+crystal,2024-03-18,12,19.0,Previous Week
+css,2024-01-01,1,93.75,Moving Average
+css,2024-01-08,2,93.94,Moving Average
+css,2024-01-15,3,90.92,Moving Average
+css,2024-01-22,4,93.15,Moving Average
+css,2024-01-29,5,92.94,Moving Average
+css,2024-02-05,6,92.74,Moving Average
+css,2024-02-12,7,92.44,Moving Average
+css,2024-02-19,8,92.82,Moving Average
+css,2024-02-26,9,92.73,Moving Average
+css,2024-03-04,10,92.68,Moving Average
+css,2024-03-11,11,92.67,Moving Average
+css,2024-03-18,12,92.73,Moving Average
+dart,2024-01-01,1,4.54,XGBoost
+dart,2024-01-08,2,4.49,XGBoost
+dart,2024-01-15,3,4.57,XGBoost
+dart,2024-01-22,4,3.91,XGBoost
+dart,2024-01-29,5,6.25,XGBoost
+dart,2024-02-05,6,4.68,XGBoost
+dart,2024-02-12,7,4.94,XGBoost
+dart,2024-02-19,8,2.94,XGBoost
+dart,2024-02-26,9,4.8,XGBoost
+dart,2024-03-04,10,4.43,XGBoost
+dart,2024-03-11,11,5.19,XGBoost
+dart,2024-03-18,12,4.01,XGBoost
+databricks,2024-01-01,1,631.0,Previous Week
+databricks,2024-01-08,2,631.0,Previous Week
+databricks,2024-01-15,3,631.0,Previous Week
+databricks,2024-01-22,4,631.0,Previous Week
+databricks,2024-01-29,5,631.0,Previous Week
+databricks,2024-02-05,6,631.0,Previous Week
+databricks,2024-02-12,7,631.0,Previous Week
+databricks,2024-02-19,8,631.0,Previous Week
+databricks,2024-02-26,9,631.0,Previous Week
+databricks,2024-03-04,10,631.0,Previous Week
+databricks,2024-03-11,11,631.0,Previous Week
+databricks,2024-03-18,12,631.0,Previous Week
+datarobot,2024-01-01,1,7.0,Previous Week
+datarobot,2024-01-08,2,7.0,Previous Week
+datarobot,2024-01-15,3,7.0,Previous Week
+datarobot,2024-01-22,4,7.0,Previous Week
+datarobot,2024-01-29,5,7.0,Previous Week
+datarobot,2024-02-05,6,7.0,Previous Week
+datarobot,2024-02-12,7,7.0,Previous Week
+datarobot,2024-02-19,8,7.0,Previous Week
+datarobot,2024-02-26,9,7.0,Previous Week
+datarobot,2024-03-04,10,7.0,Previous Week
+datarobot,2024-03-11,11,7.0,Previous Week
+datarobot,2024-03-18,12,7.0,Previous Week
+dax,2024-01-01,1,147.0,Moving Average
+dax,2024-01-08,2,140.75,Moving Average
+dax,2024-01-15,3,130.19,Moving Average
+dax,2024-01-22,4,123.98,Moving Average
+dax,2024-01-29,5,135.48,Moving Average
+dax,2024-02-05,6,132.6,Moving Average
+dax,2024-02-12,7,130.56,Moving Average
+dax,2024-02-19,8,130.66,Moving Average
+dax,2024-02-26,9,132.33,Moving Average
+dax,2024-03-04,10,131.54,Moving Average
+dax,2024-03-11,11,131.27,Moving Average
+dax,2024-03-18,12,131.45,Moving Average
+db2,2024-01-01,1,68.0,Moving Average
+db2,2024-01-08,2,64.5,Moving Average
+db2,2024-01-15,3,61.62,Moving Average
+db2,2024-01-22,4,61.53,Moving Average
+db2,2024-01-29,5,63.91,Moving Average
+db2,2024-02-05,6,62.89,Moving Average
+db2,2024-02-12,7,62.49,Moving Average
+db2,2024-02-19,8,62.71,Moving Average
+db2,2024-02-26,9,63.0,Moving Average
+db2,2024-03-04,10,62.77,Moving Average
+db2,2024-03-11,11,62.74,Moving Average
+db2,2024-03-18,12,62.81,Moving Average
+debian,2024-01-01,1,6.02,XGBoost
+debian,2024-01-08,2,5.37,XGBoost
+debian,2024-01-15,3,6.52,XGBoost
+debian,2024-01-22,4,5.56,XGBoost
+debian,2024-01-29,5,6.1,XGBoost
+debian,2024-02-05,6,6.0,XGBoost
+debian,2024-02-12,7,6.04,XGBoost
+debian,2024-02-19,8,6.0,XGBoost
+debian,2024-02-26,9,6.0,XGBoost
+debian,2024-03-04,10,6.0,XGBoost
+debian,2024-03-11,11,6.0,XGBoost
+debian,2024-03-18,12,6.0,XGBoost
+delphi,2024-01-01,1,1.87,XGBoost
+delphi,2024-01-08,2,1.64,XGBoost
+delphi,2024-01-15,3,3.12,XGBoost
+delphi,2024-01-22,4,2.0,XGBoost
+delphi,2024-01-29,5,1.84,XGBoost
+delphi,2024-02-05,6,0.33,XGBoost
+delphi,2024-02-12,7,1.82,XGBoost
+delphi,2024-02-19,8,1.64,XGBoost
+delphi,2024-02-26,9,1.97,XGBoost
+delphi,2024-03-04,10,2.42,XGBoost
+delphi,2024-03-11,11,1.66,XGBoost
+delphi,2024-03-18,12,1.14,XGBoost
+digitalocean,2024-01-01,1,3.0,Moving Average
+digitalocean,2024-01-08,2,2.5,Moving Average
+digitalocean,2024-01-15,3,2.38,Moving Average
+digitalocean,2024-01-22,4,2.97,Moving Average
+digitalocean,2024-01-29,5,2.71,Moving Average
+digitalocean,2024-02-05,6,2.64,Moving Average
+digitalocean,2024-02-12,7,2.67,Moving Average
+digitalocean,2024-02-19,8,2.75,Moving Average
+digitalocean,2024-02-26,9,2.69,Moving Average
+digitalocean,2024-03-04,10,2.69,Moving Average
+digitalocean,2024-03-11,11,2.7,Moving Average
+digitalocean,2024-03-18,12,2.71,Moving Average
+django,2024-01-01,1,70.0,Moving Average
+django,2024-01-08,2,65.5,Moving Average
+django,2024-01-15,3,61.88,Moving Average
+django,2024-01-22,4,64.09,Moving Average
+django,2024-01-29,5,65.37,Moving Average
+django,2024-02-05,6,64.21,Moving Average
+django,2024-02-12,7,63.89,Moving Average
+django,2024-02-19,8,64.39,Moving Average
+django,2024-02-26,9,64.46,Moving Average
+django,2024-03-04,10,64.24,Moving Average
+django,2024-03-11,11,64.24,Moving Average
+django,2024-03-18,12,64.33,Moving Average
+dlib,2024-01-01,1,0.5,Moving Average
+dlib,2024-01-08,2,0.12,Moving Average
+dlib,2024-01-15,3,0.16,Moving Average
+dlib,2024-01-22,4,0.2,Moving Average
+dlib,2024-01-29,5,0.24,Moving Average
+dlib,2024-02-05,6,0.18,Moving Average
+dlib,2024-02-12,7,0.19,Moving Average
+dlib,2024-02-19,8,0.2,Moving Average
+dlib,2024-02-26,9,0.21,Moving Average
+dlib,2024-03-04,10,0.2,Moving Average
+dlib,2024-03-11,11,0.2,Moving Average
+dlib,2024-03-18,12,0.2,Moving Average
+docker,2024-01-01,1,475.0,Previous Week
+docker,2024-01-08,2,475.0,Previous Week
+docker,2024-01-15,3,475.0,Previous Week
+docker,2024-01-22,4,475.0,Previous Week
+docker,2024-01-29,5,475.0,Previous Week
+docker,2024-02-05,6,475.0,Previous Week
+docker,2024-02-12,7,475.0,Previous Week
+docker,2024-02-19,8,475.0,Previous Week
+docker,2024-02-26,9,475.0,Previous Week
+docker,2024-03-04,10,475.0,Previous Week
+docker,2024-03-11,11,475.0,Previous Week
+docker,2024-03-18,12,475.0,Previous Week
+dplyr,2024-01-01,1,8.0,Moving Average
+dplyr,2024-01-08,2,7.25,Moving Average
+dplyr,2024-01-15,3,6.81,Moving Average
+dplyr,2024-01-22,4,7.27,Moving Average
+dplyr,2024-01-29,5,7.33,Moving Average
+dplyr,2024-02-05,6,7.17,Moving Average
+dplyr,2024-02-12,7,7.14,Moving Average
+dplyr,2024-02-19,8,7.23,Moving Average
+dplyr,2024-02-26,9,7.22,Moving Average
+dplyr,2024-03-04,10,7.19,Moving Average
+dplyr,2024-03-11,11,7.19,Moving Average
+dplyr,2024-03-18,12,7.21,Moving Average
+drupal,2024-01-01,1,2.5,Moving Average
+drupal,2024-01-08,2,3.12,Moving Average
+drupal,2024-01-15,3,2.66,Moving Average
+drupal,2024-01-22,4,2.82,Moving Average
+drupal,2024-01-29,5,2.78,Moving Average
+drupal,2024-02-05,6,2.84,Moving Average
+drupal,2024-02-12,7,2.77,Moving Average
+drupal,2024-02-19,8,2.8,Moving Average
+drupal,2024-02-26,9,2.8,Moving Average
+drupal,2024-03-04,10,2.81,Moving Average
+drupal,2024-03-11,11,2.8,Moving Average
+drupal,2024-03-18,12,2.8,Moving Average
+dynamodb,2024-01-01,1,115.25,Moving Average
+dynamodb,2024-01-08,2,114.06,Moving Average
+dynamodb,2024-01-15,3,107.33,Moving Average
+dynamodb,2024-01-22,4,104.91,Moving Average
+dynamodb,2024-01-29,5,110.39,Moving Average
+dynamodb,2024-02-05,6,109.17,Moving Average
+dynamodb,2024-02-12,7,107.95,Moving Average
+dynamodb,2024-02-19,8,108.1,Moving Average
+dynamodb,2024-02-26,9,108.9,Moving Average
+dynamodb,2024-03-04,10,108.53,Moving Average
+dynamodb,2024-03-11,11,108.37,Moving Average
+dynamodb,2024-03-18,12,108.48,Moving Average
+elasticsearch,2024-01-01,1,138.5,Moving Average
+elasticsearch,2024-01-08,2,137.88,Moving Average
+elasticsearch,2024-01-15,3,124.59,Moving Average
+elasticsearch,2024-01-22,4,126.24,Moving Average
+elasticsearch,2024-01-29,5,131.8,Moving Average
+elasticsearch,2024-02-05,6,130.13,Moving Average
+elasticsearch,2024-02-12,7,128.19,Moving Average
+elasticsearch,2024-02-19,8,129.09,Moving Average
+elasticsearch,2024-02-26,9,129.8,Moving Average
+elasticsearch,2024-03-04,10,129.3,Moving Average
+elasticsearch,2024-03-11,11,129.1,Moving Average
+elasticsearch,2024-03-18,12,129.32,Moving Average
+electron,2024-01-01,1,3.0,Moving Average
+electron,2024-01-08,2,3.0,Moving Average
+electron,2024-01-15,3,2.5,Moving Average
+electron,2024-01-22,4,2.88,Moving Average
+electron,2024-01-29,5,2.84,Moving Average
+electron,2024-02-05,6,2.8,Moving Average
+electron,2024-02-12,7,2.76,Moving Average
+electron,2024-02-19,8,2.82,Moving Average
+electron,2024-02-26,9,2.81,Moving Average
+electron,2024-03-04,10,2.8,Moving Average
+electron,2024-03-11,11,2.79,Moving Average
+electron,2024-03-18,12,2.8,Moving Average
+elixir,2024-01-01,1,5.25,Moving Average
+elixir,2024-01-08,2,3.56,Moving Average
+elixir,2024-01-15,3,3.95,Moving Average
+elixir,2024-01-22,4,4.19,Moving Average
+elixir,2024-01-29,5,4.24,Moving Average
+elixir,2024-02-05,6,3.99,Moving Average
+elixir,2024-02-12,7,4.09,Moving Average
+elixir,2024-02-19,8,4.13,Moving Average
+elixir,2024-02-26,9,4.11,Moving Average
+elixir,2024-03-04,10,4.08,Moving Average
+elixir,2024-03-11,11,4.1,Moving Average
+elixir,2024-03-18,12,4.11,Moving Average
+erlang,2024-01-01,1,1.0,Moving Average
+erlang,2024-01-08,2,1.0,Moving Average
+erlang,2024-01-15,3,1.0,Moving Average
+erlang,2024-01-22,4,0.75,Moving Average
+erlang,2024-01-29,5,0.94,Moving Average
+erlang,2024-02-05,6,0.92,Moving Average
+erlang,2024-02-12,7,0.9,Moving Average
+erlang,2024-02-19,8,0.88,Moving Average
+erlang,2024-02-26,9,0.91,Moving Average
+erlang,2024-03-04,10,0.9,Moving Average
+erlang,2024-03-11,11,0.9,Moving Average
+erlang,2024-03-18,12,0.9,Moving Average
+excel,2024-01-01,1,1926.25,Moving Average
+excel,2024-01-08,2,1840.31,Moving Average
+excel,2024-01-15,3,1747.64,Moving Average
+excel,2024-01-22,4,1680.55,Moving Average
+excel,2024-01-29,5,1798.69,Moving Average
+excel,2024-02-05,6,1766.8,Moving Average
+excel,2024-02-12,7,1748.42,Moving Average
+excel,2024-02-19,8,1748.61,Moving Average
+excel,2024-02-26,9,1765.63,Moving Average
+excel,2024-03-04,10,1757.37,Moving Average
+excel,2024-03-11,11,1755.01,Moving Average
+excel,2024-03-18,12,1756.65,Moving Average
+express,2024-01-01,1,82.0,Previous Week
+express,2024-01-08,2,82.0,Previous Week
+express,2024-01-15,3,82.0,Previous Week
+express,2024-01-22,4,82.0,Previous Week
+express,2024-01-29,5,82.0,Previous Week
+express,2024-02-05,6,82.0,Previous Week
+express,2024-02-12,7,82.0,Previous Week
+express,2024-02-19,8,82.0,Previous Week
+express,2024-02-26,9,82.0,Previous Week
+express,2024-03-04,10,82.0,Previous Week
+express,2024-03-11,11,82.0,Previous Week
+express,2024-03-18,12,82.0,Previous Week
+f#,2024-01-01,1,1.74,XGBoost
+f#,2024-01-08,2,1.52,XGBoost
+f#,2024-01-15,3,1.72,XGBoost
+f#,2024-01-22,4,1.72,XGBoost
+f#,2024-01-29,5,1.72,XGBoost
+f#,2024-02-05,6,1.72,XGBoost
+f#,2024-02-12,7,1.72,XGBoost
+f#,2024-02-19,8,1.72,XGBoost
+f#,2024-02-26,9,1.72,XGBoost
+f#,2024-03-04,10,1.72,XGBoost
+f#,2024-03-11,11,1.72,XGBoost
+f#,2024-03-18,12,1.72,XGBoost
+fastapi,2024-01-01,1,32.0,Previous Week
+fastapi,2024-01-08,2,32.0,Previous Week
+fastapi,2024-01-15,3,32.0,Previous Week
+fastapi,2024-01-22,4,32.0,Previous Week
+fastapi,2024-01-29,5,32.0,Previous Week
+fastapi,2024-02-05,6,32.0,Previous Week
+fastapi,2024-02-12,7,32.0,Previous Week
+fastapi,2024-02-19,8,32.0,Previous Week
+fastapi,2024-02-26,9,32.0,Previous Week
+fastapi,2024-03-04,10,32.0,Previous Week
+fastapi,2024-03-11,11,32.0,Previous Week
+fastapi,2024-03-18,12,32.0,Previous Week
+fastify,2024-01-01,1,2.25,Moving Average
+fastify,2024-01-08,2,1.56,Moving Average
+fastify,2024-01-15,3,1.7,Moving Average
+fastify,2024-01-22,4,1.88,Moving Average
+fastify,2024-01-29,5,1.85,Moving Average
+fastify,2024-02-05,6,1.75,Moving Average
+fastify,2024-02-12,7,1.79,Moving Average
+fastify,2024-02-19,8,1.82,Moving Average
+fastify,2024-02-26,9,1.8,Moving Average
+fastify,2024-03-04,10,1.79,Moving Average
+fastify,2024-03-11,11,1.8,Moving Average
+fastify,2024-03-18,12,1.8,Moving Average
+fedora,2024-01-01,1,2.14,XGBoost
+fedora,2024-01-08,2,0.42,XGBoost
+fedora,2024-01-15,3,1.58,XGBoost
+fedora,2024-01-22,4,0.36,XGBoost
+fedora,2024-01-29,5,1.69,XGBoost
+fedora,2024-02-05,6,0.36,XGBoost
+fedora,2024-02-12,7,1.42,XGBoost
+fedora,2024-02-19,8,0.42,XGBoost
+fedora,2024-02-26,9,1.42,XGBoost
+fedora,2024-03-04,10,0.42,XGBoost
+fedora,2024-03-11,11,1.42,XGBoost
+fedora,2024-03-18,12,0.42,XGBoost
+firebase,2024-01-01,1,37.0,Moving Average
+firebase,2024-01-08,2,33.25,Moving Average
+firebase,2024-01-15,3,32.06,Moving Average
+firebase,2024-01-22,4,31.58,Moving Average
+firebase,2024-01-29,5,33.47,Moving Average
+firebase,2024-02-05,6,32.59,Moving Average
+firebase,2024-02-12,7,32.43,Moving Average
+firebase,2024-02-19,8,32.52,Moving Average
+firebase,2024-02-26,9,32.75,Moving Average
+firebase,2024-03-04,10,32.57,Moving Average
+firebase,2024-03-11,11,32.57,Moving Average
+firebase,2024-03-18,12,32.6,Moving Average
+firestore,2024-01-01,1,3.0,Previous Week
+firestore,2024-01-08,2,3.0,Previous Week
+firestore,2024-01-15,3,3.0,Previous Week
+firestore,2024-01-22,4,3.0,Previous Week
+firestore,2024-01-29,5,3.0,Previous Week
+firestore,2024-02-05,6,3.0,Previous Week
+firestore,2024-02-12,7,3.0,Previous Week
+firestore,2024-02-19,8,3.0,Previous Week
+firestore,2024-02-26,9,3.0,Previous Week
+firestore,2024-03-04,10,3.0,Previous Week
+firestore,2024-03-11,11,3.0,Previous Week
+firestore,2024-03-18,12,3.0,Previous Week
+flask,2024-01-01,1,70.5,Moving Average
+flask,2024-01-08,2,69.88,Moving Average
+flask,2024-01-15,3,64.34,Moving Average
+flask,2024-01-22,4,64.18,Moving Average
+flask,2024-01-29,5,67.22,Moving Average
+flask,2024-02-05,6,66.41,Moving Average
+flask,2024-02-12,7,65.54,Moving Average
+flask,2024-02-19,8,65.84,Moving Average
+flask,2024-02-26,9,66.25,Moving Average
+flask,2024-03-04,10,66.01,Moving Average
+flask,2024-03-11,11,65.91,Moving Average
+flask,2024-03-18,12,66.0,Moving Average
+flow,2024-01-01,1,485.5,Moving Average
+flow,2024-01-08,2,458.38,Moving Average
+flow,2024-01-15,3,431.22,Moving Average
+flow,2024-01-22,4,425.77,Moving Average
+flow,2024-01-29,5,450.22,Moving Average
+flow,2024-02-05,6,441.4,Moving Average
+flow,2024-02-12,7,437.15,Moving Average
+flow,2024-02-19,8,438.63,Moving Average
+flow,2024-02-26,9,441.85,Moving Average
+flow,2024-03-04,10,439.76,Moving Average
+flow,2024-03-11,11,439.35,Moving Average
+flow,2024-03-18,12,439.9,Moving Average
+flutter,2024-01-01,1,8.5,Moving Average
+flutter,2024-01-08,2,8.62,Moving Average
+flutter,2024-01-15,3,9.03,Moving Average
+flutter,2024-01-22,4,8.54,Moving Average
+flutter,2024-01-29,5,8.67,Moving Average
+flutter,2024-02-05,6,8.72,Moving Average
+flutter,2024-02-12,7,8.74,Moving Average
+flutter,2024-02-19,8,8.67,Moving Average
+flutter,2024-02-26,9,8.7,Moving Average
+flutter,2024-03-04,10,8.71,Moving Average
+flutter,2024-03-11,11,8.7,Moving Average
+flutter,2024-03-18,12,8.69,Moving Average
+fortran,2024-01-01,1,6.38,XGBoost
+fortran,2024-01-08,2,4.69,XGBoost
+fortran,2024-01-15,3,7.21,XGBoost
+fortran,2024-01-22,4,7.02,XGBoost
+fortran,2024-01-29,5,4.47,XGBoost
+fortran,2024-02-05,6,3.42,XGBoost
+fortran,2024-02-12,7,4.65,XGBoost
+fortran,2024-02-19,8,3.5,XGBoost
+fortran,2024-02-26,9,6.41,XGBoost
+fortran,2024-03-04,10,4.87,XGBoost
+fortran,2024-03-11,11,4.29,XGBoost
+fortran,2024-03-18,12,4.76,XGBoost
+gatsby,2024-01-01,1,1.14,XGBoost
+gatsby,2024-01-08,2,0.89,XGBoost
+gatsby,2024-01-15,3,0.99,XGBoost
+gatsby,2024-01-22,4,0.73,XGBoost
+gatsby,2024-01-29,5,1.13,XGBoost
+gatsby,2024-02-05,6,1.14,XGBoost
+gatsby,2024-02-12,7,0.89,XGBoost
+gatsby,2024-02-19,8,0.99,XGBoost
+gatsby,2024-02-26,9,0.73,XGBoost
+gatsby,2024-03-04,10,1.13,XGBoost
+gatsby,2024-03-11,11,1.14,XGBoost
+gatsby,2024-03-18,12,0.89,XGBoost
+gcp,2024-01-01,1,613.0,Previous Week
+gcp,2024-01-08,2,613.0,Previous Week
+gcp,2024-01-15,3,613.0,Previous Week
+gcp,2024-01-22,4,613.0,Previous Week
+gcp,2024-01-29,5,613.0,Previous Week
+gcp,2024-02-05,6,613.0,Previous Week
+gcp,2024-02-12,7,613.0,Previous Week
+gcp,2024-02-19,8,613.0,Previous Week
+gcp,2024-02-26,9,613.0,Previous Week
+gcp,2024-03-04,10,613.0,Previous Week
+gcp,2024-03-11,11,613.0,Previous Week
+gcp,2024-03-18,12,613.0,Previous Week
+gdpr,2024-01-01,1,60.0,Previous Week
+gdpr,2024-01-08,2,60.0,Previous Week
+gdpr,2024-01-15,3,60.0,Previous Week
+gdpr,2024-01-22,4,60.0,Previous Week
+gdpr,2024-01-29,5,60.0,Previous Week
+gdpr,2024-02-05,6,60.0,Previous Week
+gdpr,2024-02-12,7,60.0,Previous Week
+gdpr,2024-02-19,8,60.0,Previous Week
+gdpr,2024-02-26,9,60.0,Previous Week
+gdpr,2024-03-04,10,60.0,Previous Week
+gdpr,2024-03-11,11,60.0,Previous Week
+gdpr,2024-03-18,12,60.0,Previous Week
+ggplot2,2024-01-01,1,18.68,XGBoost
+ggplot2,2024-01-08,2,21.2,XGBoost
+ggplot2,2024-01-15,3,20.36,XGBoost
+ggplot2,2024-01-22,4,21.84,XGBoost
+ggplot2,2024-01-29,5,15.97,XGBoost
+ggplot2,2024-02-05,6,15.94,XGBoost
+ggplot2,2024-02-12,7,21.27,XGBoost
+ggplot2,2024-02-19,8,22.32,XGBoost
+ggplot2,2024-02-26,9,21.25,XGBoost
+ggplot2,2024-03-04,10,16.99,XGBoost
+ggplot2,2024-03-11,11,16.02,XGBoost
+ggplot2,2024-03-18,12,20.94,XGBoost
+git,2024-01-01,1,643.74,XGBoost
+git,2024-01-08,2,795.89,XGBoost
+git,2024-01-15,3,916.24,XGBoost
+git,2024-01-22,4,959.48,XGBoost
+git,2024-01-29,5,951.6,XGBoost
+git,2024-02-05,6,983.95,XGBoost
+git,2024-02-12,7,949.39,XGBoost
+git,2024-02-19,8,935.12,XGBoost
+git,2024-02-26,9,949.39,XGBoost
+git,2024-03-04,10,943.31,XGBoost
+git,2024-03-11,11,1013.2,XGBoost
+git,2024-03-18,12,949.39,XGBoost
+github,2024-01-01,1,207.0,Previous Week
+github,2024-01-08,2,207.0,Previous Week
+github,2024-01-15,3,207.0,Previous Week
+github,2024-01-22,4,207.0,Previous Week
+github,2024-01-29,5,207.0,Previous Week
+github,2024-02-05,6,207.0,Previous Week
+github,2024-02-12,7,207.0,Previous Week
+github,2024-02-19,8,207.0,Previous Week
+github,2024-02-26,9,207.0,Previous Week
+github,2024-03-04,10,207.0,Previous Week
+github,2024-03-11,11,207.0,Previous Week
+github,2024-03-18,12,207.0,Previous Week
+gitlab,2024-01-01,1,104.0,Previous Week
+gitlab,2024-01-08,2,104.0,Previous Week
+gitlab,2024-01-15,3,104.0,Previous Week
+gitlab,2024-01-22,4,104.0,Previous Week
+gitlab,2024-01-29,5,104.0,Previous Week
+gitlab,2024-02-05,6,104.0,Previous Week
+gitlab,2024-02-12,7,104.0,Previous Week
+gitlab,2024-02-19,8,104.0,Previous Week
+gitlab,2024-02-26,9,104.0,Previous Week
+gitlab,2024-03-04,10,104.0,Previous Week
+gitlab,2024-03-11,11,104.0,Previous Week
+gitlab,2024-03-18,12,104.0,Previous Week
+go,2024-01-01,1,567.25,Moving Average
+go,2024-01-08,2,540.56,Moving Average
+go,2024-01-15,3,517.7,Moving Average
+go,2024-01-22,4,506.13,Moving Average
+go,2024-01-29,5,532.91,Moving Average
+go,2024-02-05,6,524.33,Moving Average
+go,2024-02-12,7,520.27,Moving Average
+go,2024-02-19,8,520.91,Moving Average
+go,2024-02-26,9,524.6,Moving Average
+go,2024-03-04,10,522.53,Moving Average
+go,2024-03-11,11,522.08,Moving Average
+go,2024-03-18,12,522.53,Moving Average
+golang,2024-01-01,1,53.0,Previous Week
+golang,2024-01-08,2,53.0,Previous Week
+golang,2024-01-15,3,53.0,Previous Week
+golang,2024-01-22,4,53.0,Previous Week
+golang,2024-01-29,5,53.0,Previous Week
+golang,2024-02-05,6,53.0,Previous Week
+golang,2024-02-12,7,53.0,Previous Week
+golang,2024-02-19,8,53.0,Previous Week
+golang,2024-02-26,9,53.0,Previous Week
+golang,2024-03-04,10,53.0,Previous Week
+golang,2024-03-11,11,53.0,Previous Week
+golang,2024-03-18,12,53.0,Previous Week
+google chat,2024-01-01,1,0.42,XGBoost
+google chat,2024-01-08,2,0.77,XGBoost
+google chat,2024-01-15,3,1.09,XGBoost
+google chat,2024-01-22,4,1.5,XGBoost
+google chat,2024-01-29,5,0.78,XGBoost
+google chat,2024-02-05,6,0.7,XGBoost
+google chat,2024-02-12,7,0.45,XGBoost
+google chat,2024-02-19,8,0.32,XGBoost
+google chat,2024-02-26,9,1.18,XGBoost
+google chat,2024-03-04,10,1.5,XGBoost
+google chat,2024-03-11,11,0.78,XGBoost
+google chat,2024-03-18,12,0.58,XGBoost
+graphql,2024-01-01,1,42.5,Moving Average
+graphql,2024-01-08,2,41.12,Moving Average
+graphql,2024-01-15,3,38.66,Moving Average
+graphql,2024-01-22,4,40.07,Moving Average
+graphql,2024-01-29,5,40.59,Moving Average
+graphql,2024-02-05,6,40.11,Moving Average
+graphql,2024-02-12,7,39.86,Moving Average
+graphql,2024-02-19,8,40.16,Moving Average
+graphql,2024-02-26,9,40.18,Moving Average
+graphql,2024-03-04,10,40.07,Moving Average
+graphql,2024-03-11,11,40.07,Moving Average
+graphql,2024-03-18,12,40.12,Moving Average
+groovy,2024-01-01,1,14.25,Moving Average
+groovy,2024-01-08,2,13.81,Moving Average
+groovy,2024-01-15,3,12.77,Moving Average
+groovy,2024-01-22,4,12.71,Moving Average
+groovy,2024-01-29,5,13.38,Moving Average
+groovy,2024-02-05,6,13.17,Moving Average
+groovy,2024-02-12,7,13.01,Moving Average
+groovy,2024-02-19,8,13.07,Moving Average
+groovy,2024-02-26,9,13.16,Moving Average
+groovy,2024-03-04,10,13.1,Moving Average
+groovy,2024-03-11,11,13.08,Moving Average
+groovy,2024-03-18,12,13.1,Moving Average
+hadoop,2024-01-01,1,947.25,Moving Average
+hadoop,2024-01-08,2,916.31,Moving Average
+hadoop,2024-01-15,3,856.14,Moving Average
+hadoop,2024-01-22,4,843.18,Moving Average
+hadoop,2024-01-29,5,890.72,Moving Average
+hadoop,2024-02-05,6,876.59,Moving Average
+hadoop,2024-02-12,7,866.66,Moving Average
+hadoop,2024-02-19,8,869.28,Moving Average
+hadoop,2024-02-26,9,875.81,Moving Average
+hadoop,2024-03-04,10,872.08,Moving Average
+hadoop,2024-03-11,11,870.96,Moving Average
+hadoop,2024-03-18,12,872.04,Moving Average
+haskell,2024-01-01,1,4.75,Moving Average
+haskell,2024-01-08,2,4.94,Moving Average
+haskell,2024-01-15,3,4.92,Moving Average
+haskell,2024-01-22,4,4.9,Moving Average
+haskell,2024-01-29,5,4.88,Moving Average
+haskell,2024-02-05,6,4.91,Moving Average
+haskell,2024-02-12,7,4.9,Moving Average
+haskell,2024-02-19,8,4.9,Moving Average
+haskell,2024-02-26,9,4.9,Moving Average
+haskell,2024-03-04,10,4.9,Moving Average
+haskell,2024-03-11,11,4.9,Moving Average
+haskell,2024-03-18,12,4.9,Moving Average
+heroku,2024-01-01,1,1.5,Moving Average
+heroku,2024-01-08,2,1.62,Moving Average
+heroku,2024-01-15,3,1.28,Moving Average
+heroku,2024-01-22,4,1.35,Moving Average
+heroku,2024-01-29,5,1.44,Moving Average
+heroku,2024-02-05,6,1.42,Moving Average
+heroku,2024-02-12,7,1.37,Moving Average
+heroku,2024-02-19,8,1.4,Moving Average
+heroku,2024-02-26,9,1.41,Moving Average
+heroku,2024-03-04,10,1.4,Moving Average
+heroku,2024-03-11,11,1.4,Moving Average
+heroku,2024-03-18,12,1.4,Moving Average
+html,2024-01-01,1,128.0,Moving Average
+html,2024-01-08,2,129.0,Moving Average
+html,2024-01-15,3,126.0,Moving Average
+html,2024-01-22,4,126.0,Moving Average
+html,2024-01-29,5,127.25,Moving Average
+html,2024-02-05,6,127.06,Moving Average
+html,2024-02-12,7,126.58,Moving Average
+html,2024-02-19,8,126.72,Moving Average
+html,2024-02-26,9,126.9,Moving Average
+html,2024-03-04,10,126.82,Moving Average
+html,2024-03-11,11,126.76,Moving Average
+html,2024-03-18,12,126.8,Moving Average
+hugging face,2024-01-01,1,18.5,Moving Average
+hugging face,2024-01-08,2,17.88,Moving Average
+hugging face,2024-01-15,3,17.84,Moving Average
+hugging face,2024-01-22,4,17.8,Moving Average
+hugging face,2024-01-29,5,18.01,Moving Average
+hugging face,2024-02-05,6,17.88,Moving Average
+hugging face,2024-02-12,7,17.88,Moving Average
+hugging face,2024-02-19,8,17.89,Moving Average
+hugging face,2024-02-26,9,17.92,Moving Average
+hugging face,2024-03-04,10,17.89,Moving Average
+hugging face,2024-03-11,11,17.9,Moving Average
+hugging face,2024-03-18,12,17.9,Moving Average
+ibm cloud,2024-01-01,1,24.5,Moving Average
+ibm cloud,2024-01-08,2,25.38,Moving Average
+ibm cloud,2024-01-15,3,27.72,Moving Average
+ibm cloud,2024-01-22,4,22.4,Moving Average
+ibm cloud,2024-01-29,5,25.0,Moving Average
+ibm cloud,2024-02-05,6,25.12,Moving Average
+ibm cloud,2024-02-12,7,25.06,Moving Average
+ibm cloud,2024-02-19,8,24.39,Moving Average
+ibm cloud,2024-02-26,9,24.89,Moving Average
+ibm cloud,2024-03-04,10,24.87,Moving Average
+ibm cloud,2024-03-11,11,24.8,Moving Average
+ibm cloud,2024-03-18,12,24.74,Moving Average
+ionic,2024-01-01,1,3.95,XGBoost
+ionic,2024-01-08,2,1.08,XGBoost
+ionic,2024-01-15,3,1.26,XGBoost
+ionic,2024-01-22,4,2.87,XGBoost
+ionic,2024-01-29,5,2.26,XGBoost
+ionic,2024-02-05,6,2.72,XGBoost
+ionic,2024-02-12,7,2.66,XGBoost
+ionic,2024-02-19,8,2.68,XGBoost
+ionic,2024-02-26,9,2.68,XGBoost
+ionic,2024-03-04,10,2.68,XGBoost
+ionic,2024-03-11,11,2.68,XGBoost
+ionic,2024-03-18,12,2.68,XGBoost
+java,2024-01-01,1,1320.25,Moving Average
+java,2024-01-08,2,1295.56,Moving Average
+java,2024-01-15,3,1240.7,Moving Average
+java,2024-01-22,4,1232.63,Moving Average
+java,2024-01-29,5,1272.29,Moving Average
+java,2024-02-05,6,1260.3,Moving Average
+java,2024-02-12,7,1251.48,Moving Average
+java,2024-02-19,8,1254.17,Moving Average
+java,2024-02-26,9,1259.56,Moving Average
+java,2024-03-04,10,1256.38,Moving Average
+java,2024-03-11,11,1255.4,Moving Average
+java,2024-03-18,12,1256.38,Moving Average
+javascript,2024-01-01,1,410.5,Moving Average
+javascript,2024-01-08,2,392.62,Moving Average
+javascript,2024-01-15,3,384.28,Moving Average
+javascript,2024-01-22,4,383.35,Moving Average
+javascript,2024-01-29,5,392.69,Moving Average
+javascript,2024-02-05,6,388.24,Moving Average
+javascript,2024-02-12,7,387.14,Moving Average
+javascript,2024-02-19,8,387.85,Moving Average
+javascript,2024-02-26,9,388.98,Moving Average
+javascript,2024-03-04,10,388.05,Moving Average
+javascript,2024-03-11,11,388.01,Moving Average
+javascript,2024-03-18,12,388.22,Moving Average
+jenkins,2024-01-01,1,192.0,Previous Week
+jenkins,2024-01-08,2,192.0,Previous Week
+jenkins,2024-01-15,3,192.0,Previous Week
+jenkins,2024-01-22,4,192.0,Previous Week
+jenkins,2024-01-29,5,192.0,Previous Week
+jenkins,2024-02-05,6,192.0,Previous Week
+jenkins,2024-02-12,7,192.0,Previous Week
+jenkins,2024-02-19,8,192.0,Previous Week
+jenkins,2024-02-26,9,192.0,Previous Week
+jenkins,2024-03-04,10,192.0,Previous Week
+jenkins,2024-03-11,11,192.0,Previous Week
+jenkins,2024-03-18,12,192.0,Previous Week
+jira,2024-01-01,1,352.0,Moving Average
+jira,2024-01-08,2,333.0,Moving Average
+jira,2024-01-15,3,316.0,Moving Average
+jira,2024-01-22,4,311.5,Moving Average
+jira,2024-01-29,5,328.12,Moving Average
+jira,2024-02-05,6,322.16,Moving Average
+jira,2024-02-12,7,319.45,Moving Average
+jira,2024-02-19,8,320.31,Moving Average
+jira,2024-02-26,9,322.51,Moving Average
+jira,2024-03-04,10,321.1,Moving Average
+jira,2024-03-11,11,320.84,Moving Average
+jira,2024-03-18,12,321.19,Moving Average
+jquery,2024-01-01,1,19.75,Moving Average
+jquery,2024-01-08,2,18.94,Moving Average
+jquery,2024-01-15,3,18.92,Moving Average
+jquery,2024-01-22,4,18.15,Moving Average
+jquery,2024-01-29,5,18.94,Moving Average
+jquery,2024-02-05,6,18.74,Moving Average
+jquery,2024-02-12,7,18.69,Moving Average
+jquery,2024-02-19,8,18.63,Moving Average
+jquery,2024-02-26,9,18.75,Moving Average
+jquery,2024-03-04,10,18.7,Moving Average
+jquery,2024-03-11,11,18.69,Moving Average
+jquery,2024-03-18,12,18.69,Moving Average
+julia,2024-01-01,1,24.0,Previous Week
+julia,2024-01-08,2,24.0,Previous Week
+julia,2024-01-15,3,24.0,Previous Week
+julia,2024-01-22,4,24.0,Previous Week
+julia,2024-01-29,5,24.0,Previous Week
+julia,2024-02-05,6,24.0,Previous Week
+julia,2024-02-12,7,24.0,Previous Week
+julia,2024-02-19,8,24.0,Previous Week
+julia,2024-02-26,9,24.0,Previous Week
+julia,2024-03-04,10,24.0,Previous Week
+julia,2024-03-11,11,24.0,Previous Week
+julia,2024-03-18,12,24.0,Previous Week
+jupyter,2024-01-01,1,95.0,Previous Week
+jupyter,2024-01-08,2,95.0,Previous Week
+jupyter,2024-01-15,3,95.0,Previous Week
+jupyter,2024-01-22,4,95.0,Previous Week
+jupyter,2024-01-29,5,95.0,Previous Week
+jupyter,2024-02-05,6,95.0,Previous Week
+jupyter,2024-02-12,7,95.0,Previous Week
+jupyter,2024-02-19,8,95.0,Previous Week
+jupyter,2024-02-26,9,95.0,Previous Week
+jupyter,2024-03-04,10,95.0,Previous Week
+jupyter,2024-03-11,11,95.0,Previous Week
+jupyter,2024-03-18,12,95.0,Previous Week
+kafka,2024-01-01,1,746.0,Moving Average
+kafka,2024-01-08,2,725.0,Moving Average
+kafka,2024-01-15,3,691.0,Moving Average
+kafka,2024-01-22,4,680.75,Moving Average
+kafka,2024-01-29,5,710.69,Moving Average
+kafka,2024-02-05,6,701.86,Moving Average
+kafka,2024-02-12,7,696.07,Moving Average
+kafka,2024-02-19,8,697.34,Moving Average
+kafka,2024-02-26,9,701.49,Moving Average
+kafka,2024-03-04,10,699.19,Moving Average
+kafka,2024-03-11,11,698.52,Moving Average
+kafka,2024-03-18,12,699.14,Moving Average
+kali,2024-01-01,1,0.0,Previous Week
+kali,2024-01-08,2,0.0,Previous Week
+kali,2024-01-15,3,0.0,Previous Week
+kali,2024-01-22,4,0.0,Previous Week
+kali,2024-01-29,5,0.0,Previous Week
+kali,2024-02-05,6,0.0,Previous Week
+kali,2024-02-12,7,0.0,Previous Week
+kali,2024-02-19,8,0.0,Previous Week
+kali,2024-02-26,9,0.0,Previous Week
+kali,2024-03-04,10,0.0,Previous Week
+kali,2024-03-11,11,0.0,Previous Week
+kali,2024-03-18,12,0.0,Previous Week
+keras,2024-01-01,1,179.5,Moving Average
+keras,2024-01-08,2,176.38,Moving Average
+keras,2024-01-15,3,165.72,Moving Average
+keras,2024-01-22,4,157.4,Moving Average
+keras,2024-01-29,5,169.75,Moving Average
+keras,2024-02-05,6,167.31,Moving Average
+keras,2024-02-12,7,165.04,Moving Average
+keras,2024-02-19,8,164.88,Moving Average
+keras,2024-02-26,9,166.74,Moving Average
+keras,2024-03-04,10,165.99,Moving Average
+keras,2024-03-11,11,165.66,Moving Average
+keras,2024-03-18,12,165.82,Moving Average
+kotlin,2024-01-01,1,39.08,XGBoost
+kotlin,2024-01-08,2,36.48,XGBoost
+kotlin,2024-01-15,3,43.45,XGBoost
+kotlin,2024-01-22,4,45.97,XGBoost
+kotlin,2024-01-29,5,49.66,XGBoost
+kotlin,2024-02-05,6,48.7,XGBoost
+kotlin,2024-02-12,7,43.97,XGBoost
+kotlin,2024-02-19,8,44.34,XGBoost
+kotlin,2024-02-26,9,43.17,XGBoost
+kotlin,2024-03-04,10,49.0,XGBoost
+kotlin,2024-03-11,11,42.96,XGBoost
+kotlin,2024-03-18,12,49.84,XGBoost
+kubernetes,2024-01-01,1,574.0,Moving Average
+kubernetes,2024-01-08,2,549.5,Moving Average
+kubernetes,2024-01-15,3,525.62,Moving Average
+kubernetes,2024-01-22,4,520.78,Moving Average
+kubernetes,2024-01-29,5,542.48,Moving Average
+kubernetes,2024-02-05,6,534.6,Moving Average
+kubernetes,2024-02-12,7,530.87,Moving Average
+kubernetes,2024-02-19,8,532.18,Moving Average
+kubernetes,2024-02-26,9,535.03,Moving Average
+kubernetes,2024-03-04,10,533.17,Moving Average
+kubernetes,2024-03-11,11,532.81,Moving Average
+kubernetes,2024-03-18,12,533.3,Moving Average
+laravel,2024-01-01,1,2.91,XGBoost
+laravel,2024-01-08,2,8.51,XGBoost
+laravel,2024-01-15,3,8.73,XGBoost
+laravel,2024-01-22,4,6.77,XGBoost
+laravel,2024-01-29,5,7.72,XGBoost
+laravel,2024-02-05,6,6.18,XGBoost
+laravel,2024-02-12,7,6.04,XGBoost
+laravel,2024-02-19,8,8.06,XGBoost
+laravel,2024-02-26,9,8.04,XGBoost
+laravel,2024-03-04,10,8.43,XGBoost
+laravel,2024-03-11,11,6.27,XGBoost
+laravel,2024-03-18,12,6.22,XGBoost
+linode,2024-01-01,1,0.0,Previous Week
+linode,2024-01-08,2,0.0,Previous Week
+linode,2024-01-15,3,0.0,Previous Week
+linode,2024-01-22,4,0.0,Previous Week
+linode,2024-01-29,5,0.0,Previous Week
+linode,2024-02-05,6,0.0,Previous Week
+linode,2024-02-12,7,0.0,Previous Week
+linode,2024-02-19,8,0.0,Previous Week
+linode,2024-02-26,9,0.0,Previous Week
+linode,2024-03-04,10,0.0,Previous Week
+linode,2024-03-11,11,0.0,Previous Week
+linode,2024-03-18,12,0.0,Previous Week
+linux,2024-01-01,1,479.0,Moving Average
+linux,2024-01-08,2,466.0,Moving Average
+linux,2024-01-15,3,446.5,Moving Average
+linux,2024-01-22,4,440.38,Moving Average
+linux,2024-01-29,5,457.97,Moving Average
+linux,2024-02-05,6,452.71,Moving Average
+linux,2024-02-12,7,449.39,Moving Average
+linux,2024-02-19,8,450.11,Moving Average
+linux,2024-02-26,9,452.54,Moving Average
+linux,2024-03-04,10,451.19,Moving Average
+linux,2024-03-11,11,450.81,Moving Average
+linux,2024-03-18,12,451.16,Moving Average
+lisp,2024-01-01,1,0.63,XGBoost
+lisp,2024-01-08,2,1.88,XGBoost
+lisp,2024-01-15,3,1.02,XGBoost
+lisp,2024-01-22,4,1.6,XGBoost
+lisp,2024-01-29,5,1.74,XGBoost
+lisp,2024-02-05,6,1.45,XGBoost
+lisp,2024-02-12,7,2.39,XGBoost
+lisp,2024-02-19,8,1.12,XGBoost
+lisp,2024-02-26,9,1.45,XGBoost
+lisp,2024-03-04,10,1.86,XGBoost
+lisp,2024-03-11,11,1.53,XGBoost
+lisp,2024-03-18,12,2.39,XGBoost
+looker,2024-01-01,1,176.0,Previous Week
+looker,2024-01-08,2,176.0,Previous Week
+looker,2024-01-15,3,176.0,Previous Week
+looker,2024-01-22,4,176.0,Previous Week
+looker,2024-01-29,5,176.0,Previous Week
+looker,2024-02-05,6,176.0,Previous Week
+looker,2024-02-12,7,176.0,Previous Week
+looker,2024-02-19,8,176.0,Previous Week
+looker,2024-02-26,9,176.0,Previous Week
+looker,2024-03-04,10,176.0,Previous Week
+looker,2024-03-11,11,176.0,Previous Week
+looker,2024-03-18,12,176.0,Previous Week
+lua,2024-01-01,1,5.0,Moving Average
+lua,2024-01-08,2,6.0,Moving Average
+lua,2024-01-15,3,5.75,Moving Average
+lua,2024-01-22,4,4.94,Moving Average
+lua,2024-01-29,5,5.42,Moving Average
+lua,2024-02-05,6,5.53,Moving Average
+lua,2024-02-12,7,5.41,Moving Average
+lua,2024-02-19,8,5.32,Moving Average
+lua,2024-02-26,9,5.42,Moving Average
+lua,2024-03-04,10,5.42,Moving Average
+lua,2024-03-11,11,5.39,Moving Average
+lua,2024-03-18,12,5.39,Moving Average
+macos,2024-01-01,1,11.75,XGBoost
+macos,2024-01-08,2,11.7,XGBoost
+macos,2024-01-15,3,9.93,XGBoost
+macos,2024-01-22,4,10.12,XGBoost
+macos,2024-01-29,5,11.85,XGBoost
+macos,2024-02-05,6,13.34,XGBoost
+macos,2024-02-12,7,11.59,XGBoost
+macos,2024-02-19,8,10.45,XGBoost
+macos,2024-02-26,9,10.8,XGBoost
+macos,2024-03-04,10,10.05,XGBoost
+macos,2024-03-11,11,11.85,XGBoost
+macos,2024-03-18,12,11.85,XGBoost
+mariadb,2024-01-01,1,22.0,Previous Week
+mariadb,2024-01-08,2,22.0,Previous Week
+mariadb,2024-01-15,3,22.0,Previous Week
+mariadb,2024-01-22,4,22.0,Previous Week
+mariadb,2024-01-29,5,22.0,Previous Week
+mariadb,2024-02-05,6,22.0,Previous Week
+mariadb,2024-02-12,7,22.0,Previous Week
+mariadb,2024-02-19,8,22.0,Previous Week
+mariadb,2024-02-26,9,22.0,Previous Week
+mariadb,2024-03-04,10,22.0,Previous Week
+mariadb,2024-03-11,11,22.0,Previous Week
+mariadb,2024-03-18,12,22.0,Previous Week
+matlab,2024-01-01,1,185.25,Moving Average
+matlab,2024-01-08,2,179.81,Moving Average
+matlab,2024-01-15,3,168.02,Moving Average
+matlab,2024-01-22,4,161.02,Moving Average
+matlab,2024-01-29,5,173.52,Moving Average
+matlab,2024-02-05,6,170.59,Moving Average
+matlab,2024-02-12,7,168.29,Moving Average
+matlab,2024-02-19,8,168.36,Moving Average
+matlab,2024-02-26,9,170.19,Moving Average
+matlab,2024-03-04,10,169.36,Moving Average
+matlab,2024-03-11,11,169.05,Moving Average
+matlab,2024-03-18,12,169.24,Moving Average
+matplotlib,2024-01-01,1,98.0,Previous Week
+matplotlib,2024-01-08,2,98.0,Previous Week
+matplotlib,2024-01-15,3,98.0,Previous Week
+matplotlib,2024-01-22,4,98.0,Previous Week
+matplotlib,2024-01-29,5,98.0,Previous Week
+matplotlib,2024-02-05,6,98.0,Previous Week
+matplotlib,2024-02-12,7,98.0,Previous Week
+matplotlib,2024-02-19,8,98.0,Previous Week
+matplotlib,2024-02-26,9,98.0,Previous Week
+matplotlib,2024-03-04,10,98.0,Previous Week
+matplotlib,2024-03-11,11,98.0,Previous Week
+matplotlib,2024-03-18,12,98.0,Previous Week
+mattermost,2024-01-01,1,0.0,Moving Average
+mattermost,2024-01-08,2,0.0,Moving Average
+mattermost,2024-01-15,3,0.0,Moving Average
+mattermost,2024-01-22,4,0.0,Moving Average
+mattermost,2024-01-29,5,0.0,Moving Average
+mattermost,2024-02-05,6,0.0,Moving Average
+mattermost,2024-02-12,7,0.0,Moving Average
+mattermost,2024-02-19,8,0.0,Moving Average
+mattermost,2024-02-26,9,0.0,Moving Average
+mattermost,2024-03-04,10,0.0,Moving Average
+mattermost,2024-03-11,11,0.0,Moving Average
+mattermost,2024-03-18,12,0.0,Moving Average
+microsoft teams,2024-01-01,1,9.0,Previous Week
+microsoft teams,2024-01-08,2,9.0,Previous Week
+microsoft teams,2024-01-15,3,9.0,Previous Week
+microsoft teams,2024-01-22,4,9.0,Previous Week
+microsoft teams,2024-01-29,5,9.0,Previous Week
+microsoft teams,2024-02-05,6,9.0,Previous Week
+microsoft teams,2024-02-12,7,9.0,Previous Week
+microsoft teams,2024-02-19,8,9.0,Previous Week
+microsoft teams,2024-02-26,9,9.0,Previous Week
+microsoft teams,2024-03-04,10,9.0,Previous Week
+microsoft teams,2024-03-11,11,9.0,Previous Week
+microsoft teams,2024-03-18,12,9.0,Previous Week
+microstrategy,2024-01-01,1,83.75,Moving Average
+microstrategy,2024-01-08,2,81.69,Moving Average
+microstrategy,2024-01-15,3,77.86,Moving Average
+microstrategy,2024-01-22,4,75.57,Moving Average
+microstrategy,2024-01-29,5,79.72,Moving Average
+microstrategy,2024-02-05,6,78.71,Moving Average
+microstrategy,2024-02-12,7,77.97,Moving Average
+microstrategy,2024-02-19,8,77.99,Moving Average
+microstrategy,2024-02-26,9,78.6,Moving Average
+microstrategy,2024-03-04,10,78.32,Moving Average
+microstrategy,2024-03-11,11,78.22,Moving Average
+microstrategy,2024-03-18,12,78.28,Moving Average
+mlpack,2024-01-01,1,0.22,XGBoost
+mlpack,2024-01-08,2,0.8,XGBoost
+mlpack,2024-01-15,3,0.53,XGBoost
+mlpack,2024-01-22,4,0.53,XGBoost
+mlpack,2024-01-29,5,0.22,XGBoost
+mlpack,2024-02-05,6,0.22,XGBoost
+mlpack,2024-02-12,7,0.53,XGBoost
+mlpack,2024-02-19,8,0.53,XGBoost
+mlpack,2024-02-26,9,0.53,XGBoost
+mlpack,2024-03-04,10,0.53,XGBoost
+mlpack,2024-03-11,11,0.22,XGBoost
+mlpack,2024-03-18,12,0.53,XGBoost
+mlr,2024-01-01,1,2.0,Moving Average
+mlr,2024-01-08,2,1.5,Moving Average
+mlr,2024-01-15,3,1.88,Moving Average
+mlr,2024-01-22,4,1.59,Moving Average
+mlr,2024-01-29,5,1.74,Moving Average
+mlr,2024-02-05,6,1.68,Moving Average
+mlr,2024-02-12,7,1.72,Moving Average
+mlr,2024-02-19,8,1.68,Moving Average
+mlr,2024-02-26,9,1.71,Moving Average
+mlr,2024-03-04,10,1.7,Moving Average
+mlr,2024-03-11,11,1.7,Moving Average
+mlr,2024-03-18,12,1.7,Moving Average
+monday.com,2024-01-01,1,5.5,Moving Average
+monday.com,2024-01-08,2,5.88,Moving Average
+monday.com,2024-01-15,3,5.84,Moving Average
+monday.com,2024-01-22,4,5.3,Moving Average
+monday.com,2024-01-29,5,5.63,Moving Average
+monday.com,2024-02-05,6,5.66,Moving Average
+monday.com,2024-02-12,7,5.61,Moving Average
+monday.com,2024-02-19,8,5.55,Moving Average
+monday.com,2024-02-26,9,5.61,Moving Average
+monday.com,2024-03-04,10,5.61,Moving Average
+monday.com,2024-03-11,11,5.6,Moving Average
+monday.com,2024-03-18,12,5.59,Moving Average
+mongo,2024-01-01,1,72.84,XGBoost
+mongo,2024-01-08,2,99.25,XGBoost
+mongo,2024-01-15,3,66.46,XGBoost
+mongo,2024-01-22,4,85.47,XGBoost
+mongo,2024-01-29,5,87.63,XGBoost
+mongo,2024-02-05,6,86.46,XGBoost
+mongo,2024-02-12,7,89.21,XGBoost
+mongo,2024-02-19,8,86.71,XGBoost
+mongo,2024-02-26,9,88.73,XGBoost
+mongo,2024-03-04,10,86.71,XGBoost
+mongo,2024-03-11,11,88.73,XGBoost
+mongo,2024-03-18,12,86.71,XGBoost
+mongodb,2024-01-01,1,436.0,Previous Week
+mongodb,2024-01-08,2,436.0,Previous Week
+mongodb,2024-01-15,3,436.0,Previous Week
+mongodb,2024-01-22,4,436.0,Previous Week
+mongodb,2024-01-29,5,436.0,Previous Week
+mongodb,2024-02-05,6,436.0,Previous Week
+mongodb,2024-02-12,7,436.0,Previous Week
+mongodb,2024-02-19,8,436.0,Previous Week
+mongodb,2024-02-26,9,436.0,Previous Week
+mongodb,2024-03-04,10,436.0,Previous Week
+mongodb,2024-03-11,11,436.0,Previous Week
+mongodb,2024-03-18,12,436.0,Previous Week
+ms access,2024-01-01,1,37.25,Moving Average
+ms access,2024-01-08,2,35.81,Moving Average
+ms access,2024-01-15,3,31.52,Moving Average
+ms access,2024-01-22,4,30.39,Moving Average
+ms access,2024-01-29,5,33.74,Moving Average
+ms access,2024-02-05,6,32.87,Moving Average
+ms access,2024-02-12,7,32.13,Moving Average
+ms access,2024-02-19,8,32.28,Moving Average
+ms access,2024-02-26,9,32.76,Moving Average
+ms access,2024-03-04,10,32.51,Moving Average
+ms access,2024-03-11,11,32.42,Moving Average
+ms access,2024-03-18,12,32.49,Moving Average
+mxnet,2024-01-01,1,8.0,Previous Week
+mxnet,2024-01-08,2,8.0,Previous Week
+mxnet,2024-01-15,3,8.0,Previous Week
+mxnet,2024-01-22,4,8.0,Previous Week
+mxnet,2024-01-29,5,8.0,Previous Week
+mxnet,2024-02-05,6,8.0,Previous Week
+mxnet,2024-02-12,7,8.0,Previous Week
+mxnet,2024-02-19,8,8.0,Previous Week
+mxnet,2024-02-26,9,8.0,Previous Week
+mxnet,2024-03-04,10,8.0,Previous Week
+mxnet,2024-03-11,11,8.0,Previous Week
+mxnet,2024-03-18,12,8.0,Previous Week
+mysql,2024-01-01,1,428.5,Moving Average
+mysql,2024-01-08,2,420.12,Moving Average
+mysql,2024-01-15,3,397.66,Moving Average
+mysql,2024-01-22,4,399.07,Moving Average
+mysql,2024-01-29,5,411.34,Moving Average
+mysql,2024-02-05,6,407.05,Moving Average
+mysql,2024-02-12,7,403.78,Moving Average
+mysql,2024-02-19,8,405.31,Moving Average
+mysql,2024-02-26,9,406.87,Moving Average
+mysql,2024-03-04,10,405.75,Moving Average
+mysql,2024-03-11,11,405.43,Moving Average
+mysql,2024-03-18,12,405.84,Moving Average
+neo4j,2024-01-01,1,33.0,Previous Week
+neo4j,2024-01-08,2,33.0,Previous Week
+neo4j,2024-01-15,3,33.0,Previous Week
+neo4j,2024-01-22,4,33.0,Previous Week
+neo4j,2024-01-29,5,33.0,Previous Week
+neo4j,2024-02-05,6,33.0,Previous Week
+neo4j,2024-02-12,7,33.0,Previous Week
+neo4j,2024-02-19,8,33.0,Previous Week
+neo4j,2024-02-26,9,33.0,Previous Week
+neo4j,2024-03-04,10,33.0,Previous Week
+neo4j,2024-03-11,11,33.0,Previous Week
+neo4j,2024-03-18,12,33.0,Previous Week
+next.js,2024-01-01,1,5.25,Moving Average
+next.js,2024-01-08,2,5.06,Moving Average
+next.js,2024-01-15,3,4.58,Moving Average
+next.js,2024-01-22,4,4.72,Moving Average
+next.js,2024-01-29,5,4.9,Moving Average
+next.js,2024-02-05,6,4.82,Moving Average
+next.js,2024-02-12,7,4.76,Moving Average
+next.js,2024-02-19,8,4.8,Moving Average
+next.js,2024-02-26,9,4.82,Moving Average
+next.js,2024-03-04,10,4.8,Moving Average
+next.js,2024-03-11,11,4.79,Moving Average
+next.js,2024-03-18,12,4.8,Moving Average
+nltk,2024-01-01,1,40.48,XGBoost
+nltk,2024-01-08,2,35.78,XGBoost
+nltk,2024-01-15,3,38.3,XGBoost
+nltk,2024-01-22,4,35.43,XGBoost
+nltk,2024-01-29,5,36.48,XGBoost
+nltk,2024-02-05,6,36.88,XGBoost
+nltk,2024-02-12,7,36.48,XGBoost
+nltk,2024-02-19,8,36.65,XGBoost
+nltk,2024-02-26,9,36.65,XGBoost
+nltk,2024-03-04,10,36.65,XGBoost
+nltk,2024-03-11,11,36.65,XGBoost
+nltk,2024-03-18,12,36.65,XGBoost
+no-sql,2024-01-01,1,38.5,Moving Average
+no-sql,2024-01-08,2,37.62,Moving Average
+no-sql,2024-01-15,3,36.78,Moving Average
+no-sql,2024-01-22,4,34.23,Moving Average
+no-sql,2024-01-29,5,36.78,Moving Average
+no-sql,2024-02-05,6,36.35,Moving Average
+no-sql,2024-02-12,7,36.04,Moving Average
+no-sql,2024-02-19,8,35.85,Moving Average
+no-sql,2024-02-26,9,36.26,Moving Average
+no-sql,2024-03-04,10,36.12,Moving Average
+no-sql,2024-03-11,11,36.07,Moving Average
+no-sql,2024-03-18,12,36.07,Moving Average
+node,2024-01-01,1,32.19,XGBoost
+node,2024-01-08,2,37.11,XGBoost
+node,2024-01-15,3,29.12,XGBoost
+node,2024-01-22,4,32.16,XGBoost
+node,2024-01-29,5,35.86,XGBoost
+node,2024-02-05,6,31.66,XGBoost
+node,2024-02-12,7,27.09,XGBoost
+node,2024-02-19,8,30.26,XGBoost
+node,2024-02-26,9,33.1,XGBoost
+node,2024-03-04,10,31.37,XGBoost
+node,2024-03-11,11,31.19,XGBoost
+node,2024-03-18,12,30.19,XGBoost
+node.js,2024-01-01,1,37.5,Moving Average
+node.js,2024-01-08,2,34.38,Moving Average
+node.js,2024-01-15,3,31.47,Moving Average
+node.js,2024-01-22,4,32.84,Moving Average
+node.js,2024-01-29,5,34.04,Moving Average
+node.js,2024-02-05,6,33.18,Moving Average
+node.js,2024-02-12,7,32.88,Moving Average
+node.js,2024-02-19,8,33.24,Moving Average
+node.js,2024-02-26,9,33.34,Moving Average
+node.js,2024-03-04,10,33.16,Moving Average
+node.js,2024-03-11,11,33.15,Moving Average
+node.js,2024-03-18,12,33.22,Moving Average
+nosql,2024-01-01,1,733.0,Moving Average
+nosql,2024-01-08,2,715.75,Moving Average
+nosql,2024-01-15,3,678.44,Moving Average
+nosql,2024-01-22,4,673.05,Moving Average
+nosql,2024-01-29,5,700.06,Moving Average
+nosql,2024-02-05,6,691.82,Moving Average
+nosql,2024-02-12,7,685.84,Moving Average
+nosql,2024-02-19,8,687.69,Moving Average
+nosql,2024-02-26,9,691.35,Moving Average
+nosql,2024-03-04,10,689.18,Moving Average
+nosql,2024-03-11,11,688.52,Moving Average
+nosql,2024-03-18,12,689.19,Moving Average
+notion,2024-01-01,1,33.5,Moving Average
+notion,2024-01-08,2,33.62,Moving Average
+notion,2024-01-15,3,34.03,Moving Average
+notion,2024-01-22,4,31.29,Moving Average
+notion,2024-01-29,5,33.11,Moving Average
+notion,2024-02-05,6,33.01,Moving Average
+notion,2024-02-12,7,32.86,Moving Average
+notion,2024-02-19,8,32.57,Moving Average
+notion,2024-02-26,9,32.89,Moving Average
+notion,2024-03-04,10,32.83,Moving Average
+notion,2024-03-11,11,32.79,Moving Average
+notion,2024-03-18,12,32.77,Moving Average
+npm,2024-01-01,1,5.0,Moving Average
+npm,2024-01-08,2,5.25,Moving Average
+npm,2024-01-15,3,5.06,Moving Average
+npm,2024-01-22,4,4.08,Moving Average
+npm,2024-01-29,5,4.85,Moving Average
+npm,2024-02-05,6,4.81,Moving Average
+npm,2024-02-12,7,4.7,Moving Average
+npm,2024-02-19,8,4.61,Moving Average
+npm,2024-02-26,9,4.74,Moving Average
+npm,2024-03-04,10,4.71,Moving Average
+npm,2024-03-11,11,4.69,Moving Average
+npm,2024-03-18,12,4.69,Moving Average
+nuix,2024-01-01,1,1.0,Moving Average
+nuix,2024-01-08,2,1.0,Moving Average
+nuix,2024-01-15,3,1.25,Moving Average
+nuix,2024-01-22,4,1.31,Moving Average
+nuix,2024-01-29,5,1.14,Moving Average
+nuix,2024-02-05,6,1.18,Moving Average
+nuix,2024-02-12,7,1.22,Moving Average
+nuix,2024-02-19,8,1.21,Moving Average
+nuix,2024-02-26,9,1.19,Moving Average
+nuix,2024-03-04,10,1.2,Moving Average
+nuix,2024-03-11,11,1.2,Moving Average
+nuix,2024-03-18,12,1.2,Moving Average
+numpy,2024-01-01,1,371.98,XGBoost
+numpy,2024-01-08,2,359.18,XGBoost
+numpy,2024-01-15,3,398.69,XGBoost
+numpy,2024-01-22,4,429.15,XGBoost
+numpy,2024-01-29,5,391.75,XGBoost
+numpy,2024-02-05,6,387.44,XGBoost
+numpy,2024-02-12,7,405.71,XGBoost
+numpy,2024-02-19,8,390.15,XGBoost
+numpy,2024-02-26,9,387.99,XGBoost
+numpy,2024-03-04,10,405.71,XGBoost
+numpy,2024-03-11,11,411.6,XGBoost
+numpy,2024-03-18,12,393.88,XGBoost
+nuxt.js,2024-01-01,1,0.25,Moving Average
+nuxt.js,2024-01-08,2,0.31,Moving Average
+nuxt.js,2024-01-15,3,0.14,Moving Average
+nuxt.js,2024-01-22,4,0.18,Moving Average
+nuxt.js,2024-01-29,5,0.22,Moving Average
+nuxt.js,2024-02-05,6,0.21,Moving Average
+nuxt.js,2024-02-12,7,0.19,Moving Average
+nuxt.js,2024-02-19,8,0.2,Moving Average
+nuxt.js,2024-02-26,9,0.2,Moving Average
+nuxt.js,2024-03-04,10,0.2,Moving Average
+nuxt.js,2024-03-11,11,0.2,Moving Average
+nuxt.js,2024-03-18,12,0.2,Moving Average
+objective-c,2024-01-01,1,4.05,XGBoost
+objective-c,2024-01-08,2,1.98,XGBoost
+objective-c,2024-01-15,3,3.12,XGBoost
+objective-c,2024-01-22,4,2.46,XGBoost
+objective-c,2024-01-29,5,3.75,XGBoost
+objective-c,2024-02-05,6,1.15,XGBoost
+objective-c,2024-02-12,7,4.25,XGBoost
+objective-c,2024-02-19,8,1.47,XGBoost
+objective-c,2024-02-26,9,3.69,XGBoost
+objective-c,2024-03-04,10,2.15,XGBoost
+objective-c,2024-03-11,11,3.75,XGBoost
+objective-c,2024-03-18,12,1.15,XGBoost
+ocaml,2024-01-01,1,0.16,XGBoost
+ocaml,2024-01-08,2,0.29,XGBoost
+ocaml,2024-01-15,3,1.04,XGBoost
+ocaml,2024-01-22,4,1.95,XGBoost
+ocaml,2024-01-29,5,0.12,XGBoost
+ocaml,2024-02-05,6,0.41,XGBoost
+ocaml,2024-02-12,7,0.51,XGBoost
+ocaml,2024-02-19,8,0.42,XGBoost
+ocaml,2024-02-26,9,1.58,XGBoost
+ocaml,2024-03-04,10,0.51,XGBoost
+ocaml,2024-03-11,11,0.12,XGBoost
+ocaml,2024-03-18,12,0.71,XGBoost
+opencv,2024-01-01,1,32.75,Moving Average
+opencv,2024-01-08,2,31.69,Moving Average
+opencv,2024-01-15,3,29.61,Moving Average
+opencv,2024-01-22,4,29.26,Moving Average
+opencv,2024-01-29,5,30.83,Moving Average
+opencv,2024-02-05,6,30.35,Moving Average
+opencv,2024-02-12,7,30.01,Moving Average
+opencv,2024-02-19,8,30.11,Moving Average
+opencv,2024-02-26,9,30.32,Moving Average
+opencv,2024-03-04,10,30.2,Moving Average
+opencv,2024-03-11,11,30.16,Moving Average
+opencv,2024-03-18,12,30.2,Moving Average
+openstack,2024-01-01,1,13.75,Moving Average
+openstack,2024-01-08,2,13.44,Moving Average
+openstack,2024-01-15,3,11.8,Moving Average
+openstack,2024-01-22,4,12.25,Moving Average
+openstack,2024-01-29,5,12.81,Moving Average
+openstack,2024-02-05,6,12.57,Moving Average
+openstack,2024-02-12,7,12.36,Moving Average
+openstack,2024-02-19,8,12.5,Moving Average
+openstack,2024-02-26,9,12.56,Moving Average
+openstack,2024-03-04,10,12.5,Moving Average
+openstack,2024-03-11,11,12.48,Moving Average
+openstack,2024-03-18,12,12.51,Moving Average
+oracle,2024-01-01,1,516.0,Previous Week
+oracle,2024-01-08,2,516.0,Previous Week
+oracle,2024-01-15,3,516.0,Previous Week
+oracle,2024-01-22,4,516.0,Previous Week
+oracle,2024-01-29,5,516.0,Previous Week
+oracle,2024-02-05,6,516.0,Previous Week
+oracle,2024-02-12,7,516.0,Previous Week
+oracle,2024-02-19,8,516.0,Previous Week
+oracle,2024-02-26,9,516.0,Previous Week
+oracle,2024-03-04,10,516.0,Previous Week
+oracle,2024-03-11,11,516.0,Previous Week
+oracle,2024-03-18,12,516.0,Previous Week
+outlook,2024-01-01,1,128.5,Moving Average
+outlook,2024-01-08,2,121.38,Moving Average
+outlook,2024-01-15,3,116.47,Moving Average
+outlook,2024-01-22,4,111.59,Moving Average
+outlook,2024-01-29,5,119.48,Moving Average
+outlook,2024-02-05,6,117.23,Moving Average
+outlook,2024-02-12,7,116.19,Moving Average
+outlook,2024-02-19,8,116.12,Moving Average
+outlook,2024-02-26,9,117.26,Moving Average
+outlook,2024-03-04,10,116.7,Moving Average
+outlook,2024-03-11,11,116.57,Moving Average
+outlook,2024-03-18,12,116.66,Moving Average
+ovh,2024-01-01,1,0.93,XGBoost
+ovh,2024-01-08,2,1.85,XGBoost
+ovh,2024-01-15,3,1.73,XGBoost
+ovh,2024-01-22,4,2.28,XGBoost
+ovh,2024-01-29,5,1.98,XGBoost
+ovh,2024-02-05,6,1.12,XGBoost
+ovh,2024-02-12,7,1.14,XGBoost
+ovh,2024-02-19,8,1.79,XGBoost
+ovh,2024-02-26,9,1.25,XGBoost
+ovh,2024-03-04,10,1.25,XGBoost
+ovh,2024-03-11,11,1.25,XGBoost
+ovh,2024-03-18,12,1.25,XGBoost
+pandas,2024-01-01,1,356.0,Previous Week
+pandas,2024-01-08,2,356.0,Previous Week
+pandas,2024-01-15,3,356.0,Previous Week
+pandas,2024-01-22,4,356.0,Previous Week
+pandas,2024-01-29,5,356.0,Previous Week
+pandas,2024-02-05,6,356.0,Previous Week
+pandas,2024-02-12,7,356.0,Previous Week
+pandas,2024-02-19,8,356.0,Previous Week
+pandas,2024-02-26,9,356.0,Previous Week
+pandas,2024-03-04,10,356.0,Previous Week
+pandas,2024-03-11,11,356.0,Previous Week
+pandas,2024-03-18,12,356.0,Previous Week
+pascal,2024-01-01,1,0.5,Moving Average
+pascal,2024-01-08,2,0.62,Moving Average
+pascal,2024-01-15,3,0.53,Moving Average
+pascal,2024-01-22,4,0.66,Moving Average
+pascal,2024-01-29,5,0.58,Moving Average
+pascal,2024-02-05,6,0.6,Moving Average
+pascal,2024-02-12,7,0.59,Moving Average
+pascal,2024-02-19,8,0.61,Moving Average
+pascal,2024-02-26,9,0.6,Moving Average
+pascal,2024-03-04,10,0.6,Moving Average
+pascal,2024-03-11,11,0.6,Moving Average
+pascal,2024-03-18,12,0.6,Moving Average
+perl,2024-01-01,1,41.0,Previous Week
+perl,2024-01-08,2,41.0,Previous Week
+perl,2024-01-15,3,41.0,Previous Week
+perl,2024-01-22,4,41.0,Previous Week
+perl,2024-01-29,5,41.0,Previous Week
+perl,2024-02-05,6,41.0,Previous Week
+perl,2024-02-12,7,41.0,Previous Week
+perl,2024-02-19,8,41.0,Previous Week
+perl,2024-02-26,9,41.0,Previous Week
+perl,2024-03-04,10,41.0,Previous Week
+perl,2024-03-11,11,41.0,Previous Week
+perl,2024-03-18,12,41.0,Previous Week
+phoenix,2024-01-01,1,33.6,XGBoost
+phoenix,2024-01-08,2,29.92,XGBoost
+phoenix,2024-01-15,3,35.21,XGBoost
+phoenix,2024-01-22,4,40.81,XGBoost
+phoenix,2024-01-29,5,36.16,XGBoost
+phoenix,2024-02-05,6,40.73,XGBoost
+phoenix,2024-02-12,7,39.76,XGBoost
+phoenix,2024-02-19,8,40.82,XGBoost
+phoenix,2024-02-26,9,40.73,XGBoost
+phoenix,2024-03-04,10,40.82,XGBoost
+phoenix,2024-03-11,11,40.82,XGBoost
+phoenix,2024-03-18,12,40.82,XGBoost
+php,2024-01-01,1,65.25,Moving Average
+php,2024-01-08,2,60.56,Moving Average
+php,2024-01-15,3,58.95,Moving Average
+php,2024-01-22,4,59.94,Moving Average
+php,2024-01-29,5,61.18,Moving Average
+php,2024-02-05,6,60.16,Moving Average
+php,2024-02-12,7,60.06,Moving Average
+php,2024-02-19,8,60.33,Moving Average
+php,2024-02-26,9,60.43,Moving Average
+php,2024-03-04,10,60.25,Moving Average
+php,2024-03-11,11,60.27,Moving Average
+php,2024-03-18,12,60.32,Moving Average
+planner,2024-01-01,1,22.58,XGBoost
+planner,2024-01-08,2,19.41,XGBoost
+planner,2024-01-15,3,22.3,XGBoost
+planner,2024-01-22,4,18.76,XGBoost
+planner,2024-01-29,5,19.06,XGBoost
+planner,2024-02-05,6,20.45,XGBoost
+planner,2024-02-12,7,17.8,XGBoost
+planner,2024-02-19,8,20.17,XGBoost
+planner,2024-02-26,9,20.45,XGBoost
+planner,2024-03-04,10,19.86,XGBoost
+planner,2024-03-11,11,19.89,XGBoost
+planner,2024-03-18,12,18.33,XGBoost
+play framework,2024-01-01,1,0.5,Moving Average
+play framework,2024-01-08,2,0.62,Moving Average
+play framework,2024-01-15,3,0.28,Moving Average
+play framework,2024-01-22,4,0.35,Moving Average
+play framework,2024-01-29,5,0.44,Moving Average
+play framework,2024-02-05,6,0.42,Moving Average
+play framework,2024-02-12,7,0.37,Moving Average
+play framework,2024-02-19,8,0.4,Moving Average
+play framework,2024-02-26,9,0.41,Moving Average
+play framework,2024-03-04,10,0.4,Moving Average
+play framework,2024-03-11,11,0.4,Moving Average
+play framework,2024-03-18,12,0.4,Moving Average
+plotly,2024-01-01,1,44.0,Previous Week
+plotly,2024-01-08,2,44.0,Previous Week
+plotly,2024-01-15,3,44.0,Previous Week
+plotly,2024-01-22,4,44.0,Previous Week
+plotly,2024-01-29,5,44.0,Previous Week
+plotly,2024-02-05,6,44.0,Previous Week
+plotly,2024-02-12,7,44.0,Previous Week
+plotly,2024-02-19,8,44.0,Previous Week
+plotly,2024-02-26,9,44.0,Previous Week
+plotly,2024-03-04,10,44.0,Previous Week
+plotly,2024-03-11,11,44.0,Previous Week
+plotly,2024-03-18,12,44.0,Previous Week
+postgresql,2024-01-01,1,258.0,Previous Week
+postgresql,2024-01-08,2,258.0,Previous Week
+postgresql,2024-01-15,3,258.0,Previous Week
+postgresql,2024-01-22,4,258.0,Previous Week
+postgresql,2024-01-29,5,258.0,Previous Week
+postgresql,2024-02-05,6,258.0,Previous Week
+postgresql,2024-02-12,7,258.0,Previous Week
+postgresql,2024-02-19,8,258.0,Previous Week
+postgresql,2024-02-26,9,258.0,Previous Week
+postgresql,2024-03-04,10,258.0,Previous Week
+postgresql,2024-03-11,11,258.0,Previous Week
+postgresql,2024-03-18,12,258.0,Previous Week
+power bi,2024-01-01,1,1584.5,Moving Average
+power bi,2024-01-08,2,1511.62,Moving Average
+power bi,2024-01-15,3,1432.78,Moving Average
+power bi,2024-01-22,4,1393.23,Moving Average
+power bi,2024-01-29,5,1480.53,Moving Average
+power bi,2024-02-05,6,1454.54,Moving Average
+power bi,2024-02-12,7,1440.27,Moving Average
+power bi,2024-02-19,8,1442.14,Moving Average
+power bi,2024-02-26,9,1454.37,Moving Average
+power bi,2024-03-04,10,1447.83,Moving Average
+power bi,2024-03-11,11,1446.15,Moving Average
+power bi,2024-03-18,12,1447.63,Moving Average
+powerbi,2024-01-01,1,3.5,Moving Average
+powerbi,2024-01-08,2,3.62,Moving Average
+powerbi,2024-01-15,3,3.53,Moving Average
+powerbi,2024-01-22,4,3.66,Moving Average
+powerbi,2024-01-29,5,3.58,Moving Average
+powerbi,2024-02-05,6,3.6,Moving Average
+powerbi,2024-02-12,7,3.59,Moving Average
+powerbi,2024-02-19,8,3.61,Moving Average
+powerbi,2024-02-26,9,3.6,Moving Average
+powerbi,2024-03-04,10,3.6,Moving Average
+powerbi,2024-03-11,11,3.6,Moving Average
+powerbi,2024-03-18,12,3.6,Moving Average
+powerpoint,2024-01-01,1,393.5,Moving Average
+powerpoint,2024-01-08,2,381.62,Moving Average
+powerpoint,2024-01-15,3,355.03,Moving Average
+powerpoint,2024-01-22,4,341.29,Moving Average
+powerpoint,2024-01-29,5,367.86,Moving Average
+powerpoint,2024-02-05,6,361.45,Moving Average
+powerpoint,2024-02-12,7,356.41,Moving Average
+powerpoint,2024-02-19,8,356.75,Moving Average
+powerpoint,2024-02-26,9,360.62,Moving Average
+powerpoint,2024-03-04,10,358.81,Moving Average
+powerpoint,2024-03-11,11,358.15,Moving Average
+powerpoint,2024-03-18,12,358.58,Moving Average
+powershell,2024-01-01,1,99.5,Moving Average
+powershell,2024-01-08,2,98.38,Moving Average
+powershell,2024-01-15,3,93.22,Moving Average
+powershell,2024-01-22,4,90.27,Moving Average
+powershell,2024-01-29,5,95.34,Moving Average
+powershell,2024-02-05,6,94.3,Moving Average
+powershell,2024-02-12,7,93.28,Moving Average
+powershell,2024-02-19,8,93.3,Moving Average
+powershell,2024-02-26,9,94.06,Moving Average
+powershell,2024-03-04,10,93.74,Moving Average
+powershell,2024-03-11,11,93.59,Moving Average
+powershell,2024-03-18,12,93.67,Moving Average
+pulumi,2024-01-01,1,7.75,Moving Average
+pulumi,2024-01-08,2,7.19,Moving Average
+pulumi,2024-01-15,3,7.48,Moving Average
+pulumi,2024-01-22,4,7.61,Moving Average
+pulumi,2024-01-29,5,7.51,Moving Average
+pulumi,2024-02-05,6,7.45,Moving Average
+pulumi,2024-02-12,7,7.51,Moving Average
+pulumi,2024-02-19,8,7.52,Moving Average
+pulumi,2024-02-26,9,7.5,Moving Average
+pulumi,2024-03-04,10,7.49,Moving Average
+pulumi,2024-03-11,11,7.5,Moving Average
+pulumi,2024-03-18,12,7.5,Moving Average
+puppet,2024-01-01,1,26.25,Moving Average
+puppet,2024-01-08,2,26.56,Moving Average
+puppet,2024-01-15,3,24.2,Moving Average
+puppet,2024-01-22,4,24.0,Moving Average
+puppet,2024-01-29,5,25.25,Moving Average
+puppet,2024-02-05,6,25.01,Moving Average
+puppet,2024-02-12,7,24.62,Moving Average
+puppet,2024-02-19,8,24.72,Moving Average
+puppet,2024-02-26,9,24.9,Moving Average
+puppet,2024-03-04,10,24.81,Moving Average
+puppet,2024-03-11,11,24.76,Moving Average
+puppet,2024-03-18,12,24.8,Moving Average
+pyspark,2024-01-01,1,358.0,Previous Week
+pyspark,2024-01-08,2,358.0,Previous Week
+pyspark,2024-01-15,3,358.0,Previous Week
+pyspark,2024-01-22,4,358.0,Previous Week
+pyspark,2024-01-29,5,358.0,Previous Week
+pyspark,2024-02-05,6,358.0,Previous Week
+pyspark,2024-02-12,7,358.0,Previous Week
+pyspark,2024-02-19,8,358.0,Previous Week
+pyspark,2024-02-26,9,358.0,Previous Week
+pyspark,2024-03-04,10,358.0,Previous Week
+pyspark,2024-03-11,11,358.0,Previous Week
+pyspark,2024-03-18,12,358.0,Previous Week
+python,2024-01-01,1,4232.0,Previous Week
+python,2024-01-08,2,4232.0,Previous Week
+python,2024-01-15,3,4232.0,Previous Week
+python,2024-01-22,4,4232.0,Previous Week
+python,2024-01-29,5,4232.0,Previous Week
+python,2024-02-05,6,4232.0,Previous Week
+python,2024-02-12,7,4232.0,Previous Week
+python,2024-02-19,8,4232.0,Previous Week
+python,2024-02-26,9,4232.0,Previous Week
+python,2024-03-04,10,4232.0,Previous Week
+python,2024-03-11,11,4232.0,Previous Week
+python,2024-03-18,12,4232.0,Previous Week
+pytorch,2024-01-01,1,334.0,Previous Week
+pytorch,2024-01-08,2,334.0,Previous Week
+pytorch,2024-01-15,3,334.0,Previous Week
+pytorch,2024-01-22,4,334.0,Previous Week
+pytorch,2024-01-29,5,334.0,Previous Week
+pytorch,2024-02-05,6,334.0,Previous Week
+pytorch,2024-02-12,7,334.0,Previous Week
+pytorch,2024-02-19,8,334.0,Previous Week
+pytorch,2024-02-26,9,334.0,Previous Week
+pytorch,2024-03-04,10,334.0,Previous Week
+pytorch,2024-03-11,11,334.0,Previous Week
+pytorch,2024-03-18,12,334.0,Previous Week
+qlik,2024-01-01,1,242.5,Moving Average
+qlik,2024-01-08,2,227.38,Moving Average
+qlik,2024-01-15,3,218.47,Moving Average
+qlik,2024-01-22,4,204.84,Moving Average
+qlik,2024-01-29,5,223.29,Moving Average
+qlik,2024-02-05,6,218.49,Moving Average
+qlik,2024-02-12,7,216.27,Moving Average
+qlik,2024-02-19,8,215.72,Moving Average
+qlik,2024-02-26,9,218.45,Moving Average
+qlik,2024-03-04,10,217.23,Moving Average
+qlik,2024-03-11,11,216.92,Moving Average
+qlik,2024-03-18,12,217.08,Moving Average
+qt,2024-01-01,1,1.93,XGBoost
+qt,2024-01-08,2,2.45,XGBoost
+qt,2024-01-15,3,2.22,XGBoost
+qt,2024-01-22,4,3.22,XGBoost
+qt,2024-01-29,5,3.74,XGBoost
+qt,2024-02-05,6,2.74,XGBoost
+qt,2024-02-12,7,2.49,XGBoost
+qt,2024-02-19,8,1.76,XGBoost
+qt,2024-02-26,9,1.85,XGBoost
+qt,2024-03-04,10,2.56,XGBoost
+qt,2024-03-11,11,3.04,XGBoost
+qt,2024-03-18,12,3.82,XGBoost
+r,2024-01-01,1,1899.75,Moving Average
+r,2024-01-08,2,1821.69,Moving Average
+r,2024-01-15,3,1725.86,Moving Average
+r,2024-01-22,4,1675.07,Moving Average
+r,2024-01-29,5,1780.59,Moving Average
+r,2024-02-05,6,1750.8,Moving Average
+r,2024-02-12,7,1733.08,Moving Average
+r,2024-02-19,8,1734.89,Moving Average
+r,2024-02-26,9,1749.84,Moving Average
+r,2024-03-04,10,1742.15,Moving Average
+r,2024-03-11,11,1739.99,Moving Average
+r,2024-03-18,12,1741.72,Moving Average
+react,2024-01-01,1,162.0,Moving Average
+react,2024-01-08,2,153.25,Moving Average
+react,2024-01-15,3,147.06,Moving Average
+react,2024-01-22,4,147.08,Moving Average
+react,2024-01-29,5,152.35,Moving Average
+react,2024-02-05,6,149.93,Moving Average
+react,2024-02-12,7,149.11,Moving Average
+react,2024-02-19,8,149.62,Moving Average
+react,2024-02-26,9,150.25,Moving Average
+react,2024-03-04,10,149.73,Moving Average
+react,2024-03-11,11,149.68,Moving Average
+react,2024-03-18,12,149.82,Moving Average
+react.js,2024-01-01,1,9.75,Moving Average
+react.js,2024-01-08,2,8.69,Moving Average
+react.js,2024-01-15,3,8.86,Moving Average
+react.js,2024-01-22,4,8.57,Moving Average
+react.js,2024-01-29,5,8.97,Moving Average
+react.js,2024-02-05,6,8.77,Moving Average
+react.js,2024-02-12,7,8.79,Moving Average
+react.js,2024-02-19,8,8.78,Moving Average
+react.js,2024-02-26,9,8.83,Moving Average
+react.js,2024-03-04,10,8.79,Moving Average
+react.js,2024-03-11,11,8.8,Moving Average
+react.js,2024-03-18,12,8.8,Moving Average
+redhat,2024-01-01,1,15.0,Moving Average
+redhat,2024-01-08,2,14.0,Moving Average
+redhat,2024-01-15,3,14.25,Moving Average
+redhat,2024-01-22,4,14.31,Moving Average
+redhat,2024-01-29,5,14.39,Moving Average
+redhat,2024-02-05,6,14.24,Moving Average
+redhat,2024-02-12,7,14.3,Moving Average
+redhat,2024-02-19,8,14.31,Moving Average
+redhat,2024-02-26,9,14.31,Moving Average
+redhat,2024-03-04,10,14.29,Moving Average
+redhat,2024-03-11,11,14.3,Moving Average
+redhat,2024-03-18,12,14.3,Moving Average
+redis,2024-01-01,1,92.0,Moving Average
+redis,2024-01-08,2,88.5,Moving Average
+redis,2024-01-15,3,86.88,Moving Average
+redis,2024-01-22,4,84.59,Moving Average
+redis,2024-01-29,5,87.99,Moving Average
+redis,2024-02-05,6,86.99,Moving Average
+redis,2024-02-12,7,86.61,Moving Average
+redis,2024-02-19,8,86.55,Moving Average
+redis,2024-02-26,9,87.04,Moving Average
+redis,2024-03-04,10,86.8,Moving Average
+redis,2024-03-11,11,86.75,Moving Average
+redis,2024-03-18,12,86.78,Moving Average
+redshift,2024-01-01,1,546.25,Moving Average
+redshift,2024-01-08,2,531.31,Moving Average
+redshift,2024-01-15,3,507.39,Moving Average
+redshift,2024-01-22,4,501.49,Moving Average
+redshift,2024-01-29,5,521.61,Moving Average
+redshift,2024-02-05,6,515.45,Moving Average
+redshift,2024-02-12,7,511.48,Moving Average
+redshift,2024-02-19,8,512.51,Moving Average
+redshift,2024-02-26,9,515.26,Moving Average
+redshift,2024-03-04,10,513.68,Moving Average
+redshift,2024-03-11,11,513.23,Moving Average
+redshift,2024-03-18,12,513.67,Moving Average
+ringcentral,2024-01-01,1,1.0,Moving Average
+ringcentral,2024-01-08,2,1.0,Moving Average
+ringcentral,2024-01-15,3,0.5,Moving Average
+ringcentral,2024-01-22,4,0.62,Moving Average
+ringcentral,2024-01-29,5,0.78,Moving Average
+ringcentral,2024-02-05,6,0.73,Moving Average
+ringcentral,2024-02-12,7,0.66,Moving Average
+ringcentral,2024-02-19,8,0.7,Moving Average
+ringcentral,2024-02-26,9,0.72,Moving Average
+ringcentral,2024-03-04,10,0.7,Moving Average
+ringcentral,2024-03-11,11,0.69,Moving Average
+ringcentral,2024-03-18,12,0.7,Moving Average
+rshiny,2024-01-01,1,12.5,Moving Average
+rshiny,2024-01-08,2,11.12,Moving Average
+rshiny,2024-01-15,3,10.66,Moving Average
+rshiny,2024-01-22,4,10.07,Moving Average
+rshiny,2024-01-29,5,11.09,Moving Average
+rshiny,2024-02-05,6,10.73,Moving Average
+rshiny,2024-02-12,7,10.64,Moving Average
+rshiny,2024-02-19,8,10.63,Moving Average
+rshiny,2024-02-26,9,10.77,Moving Average
+rshiny,2024-03-04,10,10.69,Moving Average
+rshiny,2024-03-11,11,10.68,Moving Average
+rshiny,2024-03-18,12,10.7,Moving Average
+ruby,2024-01-01,1,130.0,Moving Average
+ruby,2024-01-08,2,134.5,Moving Average
+ruby,2024-01-15,3,129.12,Moving Average
+ruby,2024-01-22,4,122.41,Moving Average
+ruby,2024-01-29,5,129.01,Moving Average
+ruby,2024-02-05,6,128.76,Moving Average
+ruby,2024-02-12,7,127.32,Moving Average
+ruby,2024-02-19,8,126.87,Moving Average
+ruby,2024-02-26,9,127.99,Moving Average
+ruby,2024-03-04,10,127.74,Moving Average
+ruby,2024-03-11,11,127.48,Moving Average
+ruby,2024-03-18,12,127.52,Moving Average
+ruby on rails,2024-01-01,1,11.0,Previous Week
+ruby on rails,2024-01-08,2,11.0,Previous Week
+ruby on rails,2024-01-15,3,11.0,Previous Week
+ruby on rails,2024-01-22,4,11.0,Previous Week
+ruby on rails,2024-01-29,5,11.0,Previous Week
+ruby on rails,2024-02-05,6,11.0,Previous Week
+ruby on rails,2024-02-12,7,11.0,Previous Week
+ruby on rails,2024-02-19,8,11.0,Previous Week
+ruby on rails,2024-02-26,9,11.0,Previous Week
+ruby on rails,2024-03-04,10,11.0,Previous Week
+ruby on rails,2024-03-11,11,11.0,Previous Week
+ruby on rails,2024-03-18,12,11.0,Previous Week
+rust,2024-01-01,1,40.96,XGBoost
+rust,2024-01-08,2,38.58,XGBoost
+rust,2024-01-15,3,42.54,XGBoost
+rust,2024-01-22,4,38.21,XGBoost
+rust,2024-01-29,5,33.55,XGBoost
+rust,2024-02-05,6,33.1,XGBoost
+rust,2024-02-12,7,42.89,XGBoost
+rust,2024-02-19,8,42.98,XGBoost
+rust,2024-02-26,9,34.26,XGBoost
+rust,2024-03-04,10,33.27,XGBoost
+rust,2024-03-11,11,32.6,XGBoost
+rust,2024-03-18,12,42.13,XGBoost
+sap,2024-01-01,1,464.75,Moving Average
+sap,2024-01-08,2,440.44,Moving Average
+sap,2024-01-15,3,425.3,Moving Average
+sap,2024-01-22,4,408.62,Moving Average
+sap,2024-01-29,5,434.78,Moving Average
+sap,2024-02-05,6,427.28,Moving Average
+sap,2024-02-12,7,423.99,Moving Average
+sap,2024-02-19,8,423.67,Moving Average
+sap,2024-02-26,9,427.43,Moving Average
+sap,2024-03-04,10,425.59,Moving Average
+sap,2024-03-11,11,425.17,Moving Average
+sap,2024-03-18,12,425.47,Moving Average
+sas,2024-01-01,1,1147.5,Moving Average
+sas,2024-01-08,2,1121.88,Moving Average
+sas,2024-01-15,3,1046.34,Moving Average
+sas,2024-01-22,4,1013.43,Moving Average
+sas,2024-01-29,5,1082.29,Moving Average
+sas,2024-02-05,6,1065.98,Moving Average
+sas,2024-02-12,7,1052.01,Moving Average
+sas,2024-02-19,8,1053.43,Moving Average
+sas,2024-02-26,9,1063.43,Moving Average
+sas,2024-03-04,10,1058.71,Moving Average
+sas,2024-03-11,11,1056.89,Moving Average
+sas,2024-03-18,12,1058.12,Moving Average
+sass,2024-01-01,1,8.75,Moving Average
+sass,2024-01-08,2,8.94,Moving Average
+sass,2024-01-15,3,9.17,Moving Average
+sass,2024-01-22,4,8.46,Moving Average
+sass,2024-01-29,5,8.83,Moving Average
+sass,2024-02-05,6,8.85,Moving Average
+sass,2024-02-12,7,8.83,Moving Average
+sass,2024-02-19,8,8.74,Moving Average
+sass,2024-02-26,9,8.81,Moving Average
+sass,2024-03-04,10,8.81,Moving Average
+sass,2024-03-11,11,8.8,Moving Average
+sass,2024-03-18,12,8.79,Moving Average
+scala,2024-01-01,1,870.5,Moving Average
+scala,2024-01-08,2,848.88,Moving Average
+scala,2024-01-15,3,813.34,Moving Average
+scala,2024-01-22,4,805.93,Moving Average
+scala,2024-01-29,5,834.66,Moving Average
+scala,2024-02-05,6,825.7,Moving Average
+scala,2024-02-12,7,819.91,Moving Average
+scala,2024-02-19,8,821.55,Moving Average
+scala,2024-02-26,9,825.46,Moving Average
+scala,2024-03-04,10,823.15,Moving Average
+scala,2024-03-11,11,822.52,Moving Average
+scala,2024-03-18,12,823.17,Moving Average
+scikit-learn,2024-01-01,1,201.0,Previous Week
+scikit-learn,2024-01-08,2,201.0,Previous Week
+scikit-learn,2024-01-15,3,201.0,Previous Week
+scikit-learn,2024-01-22,4,201.0,Previous Week
+scikit-learn,2024-01-29,5,201.0,Previous Week
+scikit-learn,2024-02-05,6,201.0,Previous Week
+scikit-learn,2024-02-12,7,201.0,Previous Week
+scikit-learn,2024-02-19,8,201.0,Previous Week
+scikit-learn,2024-02-26,9,201.0,Previous Week
+scikit-learn,2024-03-04,10,201.0,Previous Week
+scikit-learn,2024-03-11,11,201.0,Previous Week
+scikit-learn,2024-03-18,12,201.0,Previous Week
+seaborn,2024-01-01,1,42.0,Previous Week
+seaborn,2024-01-08,2,42.0,Previous Week
+seaborn,2024-01-15,3,42.0,Previous Week
+seaborn,2024-01-22,4,42.0,Previous Week
+seaborn,2024-01-29,5,42.0,Previous Week
+seaborn,2024-02-05,6,42.0,Previous Week
+seaborn,2024-02-12,7,42.0,Previous Week
+seaborn,2024-02-19,8,42.0,Previous Week
+seaborn,2024-02-26,9,42.0,Previous Week
+seaborn,2024-03-04,10,42.0,Previous Week
+seaborn,2024-03-11,11,42.0,Previous Week
+seaborn,2024-03-18,12,42.0,Previous Week
+selenium,2024-01-01,1,38.66,XGBoost
+selenium,2024-01-08,2,49.05,XGBoost
+selenium,2024-01-15,3,45.69,XGBoost
+selenium,2024-01-22,4,44.56,XGBoost
+selenium,2024-01-29,5,41.27,XGBoost
+selenium,2024-02-05,6,44.25,XGBoost
+selenium,2024-02-12,7,46.27,XGBoost
+selenium,2024-02-19,8,47.56,XGBoost
+selenium,2024-02-26,9,42.47,XGBoost
+selenium,2024-03-04,10,39.27,XGBoost
+selenium,2024-03-11,11,38.33,XGBoost
+selenium,2024-03-18,12,47.87,XGBoost
+sharepoint,2024-01-01,1,118.25,Moving Average
+sharepoint,2024-01-08,2,117.56,Moving Average
+sharepoint,2024-01-15,3,107.95,Moving Average
+sharepoint,2024-01-22,4,105.94,Moving Average
+sharepoint,2024-01-29,5,112.43,Moving Average
+sharepoint,2024-02-05,6,110.97,Moving Average
+sharepoint,2024-02-12,7,109.32,Moving Average
+sharepoint,2024-02-19,8,109.67,Moving Average
+sharepoint,2024-02-26,9,110.6,Moving Average
+sharepoint,2024-03-04,10,110.14,Moving Average
+sharepoint,2024-03-11,11,109.93,Moving Average
+sharepoint,2024-03-18,12,110.08,Moving Average
+sheets,2024-01-01,1,83.5,Moving Average
+sheets,2024-01-08,2,78.88,Moving Average
+sheets,2024-01-15,3,74.84,Moving Average
+sheets,2024-01-22,4,73.3,Moving Average
+sheets,2024-01-29,5,77.63,Moving Average
+sheets,2024-02-05,6,76.16,Moving Average
+sheets,2024-02-12,7,75.49,Moving Average
+sheets,2024-02-19,8,75.65,Moving Average
+sheets,2024-02-26,9,76.23,Moving Average
+sheets,2024-03-04,10,75.88,Moving Average
+sheets,2024-03-11,11,75.81,Moving Average
+sheets,2024-03-18,12,75.89,Moving Average
+shell,2024-01-01,1,299.53,XGBoost
+shell,2024-01-08,2,319.68,XGBoost
+shell,2024-01-15,3,324.47,XGBoost
+shell,2024-01-22,4,361.38,XGBoost
+shell,2024-01-29,5,356.09,XGBoost
+shell,2024-02-05,6,337.57,XGBoost
+shell,2024-02-12,7,336.65,XGBoost
+shell,2024-02-19,8,353.35,XGBoost
+shell,2024-02-26,9,365.79,XGBoost
+shell,2024-03-04,10,329.79,XGBoost
+shell,2024-03-11,11,321.79,XGBoost
+shell,2024-03-18,12,354.39,XGBoost
+slack,2024-01-01,1,30.0,Previous Week
+slack,2024-01-08,2,30.0,Previous Week
+slack,2024-01-15,3,30.0,Previous Week
+slack,2024-01-22,4,30.0,Previous Week
+slack,2024-01-29,5,30.0,Previous Week
+slack,2024-02-05,6,30.0,Previous Week
+slack,2024-02-12,7,30.0,Previous Week
+slack,2024-02-19,8,30.0,Previous Week
+slack,2024-02-26,9,30.0,Previous Week
+slack,2024-03-04,10,30.0,Previous Week
+slack,2024-03-11,11,30.0,Previous Week
+slack,2024-03-18,12,30.0,Previous Week
+smartsheet,2024-01-01,1,11.95,XGBoost
+smartsheet,2024-01-08,2,9.03,XGBoost
+smartsheet,2024-01-15,3,8.4,XGBoost
+smartsheet,2024-01-22,4,10.23,XGBoost
+smartsheet,2024-01-29,5,11.33,XGBoost
+smartsheet,2024-02-05,6,8.88,XGBoost
+smartsheet,2024-02-12,7,10.86,XGBoost
+smartsheet,2024-02-19,8,11.78,XGBoost
+smartsheet,2024-02-26,9,10.58,XGBoost
+smartsheet,2024-03-04,10,13.74,XGBoost
+smartsheet,2024-03-11,11,11.3,XGBoost
+smartsheet,2024-03-18,12,10.41,XGBoost
+snowflake,2024-01-01,1,838.87,XGBoost
+snowflake,2024-01-08,2,951.14,XGBoost
+snowflake,2024-01-15,3,1072.38,XGBoost
+snowflake,2024-01-22,4,1063.43,XGBoost
+snowflake,2024-01-29,5,958.59,XGBoost
+snowflake,2024-02-05,6,996.12,XGBoost
+snowflake,2024-02-12,7,1041.04,XGBoost
+snowflake,2024-02-19,8,1027.57,XGBoost
+snowflake,2024-02-26,9,991.73,XGBoost
+snowflake,2024-03-04,10,1113.64,XGBoost
+snowflake,2024-03-11,11,1085.11,XGBoost
+snowflake,2024-03-18,12,1012.41,XGBoost
+solidity,2024-01-01,1,3.99,XGBoost
+solidity,2024-01-08,2,6.8,XGBoost
+solidity,2024-01-15,3,8.53,XGBoost
+solidity,2024-01-22,4,9.87,XGBoost
+solidity,2024-01-29,5,7.66,XGBoost
+solidity,2024-02-05,6,8.28,XGBoost
+solidity,2024-02-12,7,7.83,XGBoost
+solidity,2024-02-19,8,8.39,XGBoost
+solidity,2024-02-26,9,8.26,XGBoost
+solidity,2024-03-04,10,8.19,XGBoost
+solidity,2024-03-11,11,8.28,XGBoost
+solidity,2024-03-18,12,8.06,XGBoost
+spark,2024-01-01,1,1721.75,Moving Average
+spark,2024-01-08,2,1683.94,Moving Average
+spark,2024-01-15,3,1584.67,Moving Average
+spark,2024-01-22,4,1551.84,Moving Average
+spark,2024-01-29,5,1635.55,Moving Average
+spark,2024-02-05,6,1614.0,Moving Average
+spark,2024-02-12,7,1596.52,Moving Average
+spark,2024-02-19,8,1599.48,Moving Average
+spark,2024-02-26,9,1611.39,Moving Average
+spark,2024-03-04,10,1605.34,Moving Average
+spark,2024-03-11,11,1603.18,Moving Average
+spark,2024-03-18,12,1604.85,Moving Average
+splunk,2024-01-01,1,71.38,XGBoost
+splunk,2024-01-08,2,88.71,XGBoost
+splunk,2024-01-15,3,96.57,XGBoost
+splunk,2024-01-22,4,87.02,XGBoost
+splunk,2024-01-29,5,86.2,XGBoost
+splunk,2024-02-05,6,83.76,XGBoost
+splunk,2024-02-12,7,83.58,XGBoost
+splunk,2024-02-19,8,80.12,XGBoost
+splunk,2024-02-26,9,75.85,XGBoost
+splunk,2024-03-04,10,76.4,XGBoost
+splunk,2024-03-11,11,89.09,XGBoost
+splunk,2024-03-18,12,88.51,XGBoost
+spreadsheet,2024-01-01,1,53.0,Moving Average
+spreadsheet,2024-01-08,2,50.5,Moving Average
+spreadsheet,2024-01-15,3,45.88,Moving Average
+spreadsheet,2024-01-22,4,43.09,Moving Average
+spreadsheet,2024-01-29,5,48.12,Moving Average
+spreadsheet,2024-02-05,6,46.9,Moving Average
+spreadsheet,2024-02-12,7,46.0,Moving Average
+spreadsheet,2024-02-19,8,46.03,Moving Average
+spreadsheet,2024-02-26,9,46.76,Moving Average
+spreadsheet,2024-03-04,10,46.42,Moving Average
+spreadsheet,2024-03-11,11,46.3,Moving Average
+spreadsheet,2024-03-18,12,46.38,Moving Average
+spring,2024-01-01,1,91.0,Previous Week
+spring,2024-01-08,2,91.0,Previous Week
+spring,2024-01-15,3,91.0,Previous Week
+spring,2024-01-22,4,91.0,Previous Week
+spring,2024-01-29,5,91.0,Previous Week
+spring,2024-02-05,6,91.0,Previous Week
+spring,2024-02-12,7,91.0,Previous Week
+spring,2024-02-19,8,91.0,Previous Week
+spring,2024-02-26,9,91.0,Previous Week
+spring,2024-03-04,10,91.0,Previous Week
+spring,2024-03-11,11,91.0,Previous Week
+spring,2024-03-18,12,91.0,Previous Week
+spss,2024-01-01,1,182.12,XGBoost
+spss,2024-01-08,2,170.6,XGBoost
+spss,2024-01-15,3,174.97,XGBoost
+spss,2024-01-22,4,166.61,XGBoost
+spss,2024-01-29,5,178.55,XGBoost
+spss,2024-02-05,6,170.12,XGBoost
+spss,2024-02-12,7,175.27,XGBoost
+spss,2024-02-19,8,165.02,XGBoost
+spss,2024-02-26,9,178.55,XGBoost
+spss,2024-03-04,10,170.12,XGBoost
+spss,2024-03-11,11,175.27,XGBoost
+spss,2024-03-18,12,165.02,XGBoost
+sql,2024-01-01,1,5930.0,Moving Average
+sql,2024-01-08,2,5676.25,Moving Average
+sql,2024-01-15,3,5441.56,Moving Average
+sql,2024-01-22,4,5279.2,Moving Average
+sql,2024-01-29,5,5581.75,Moving Average
+sql,2024-02-05,6,5494.69,Moving Average
+sql,2024-02-12,7,5449.3,Moving Average
+sql,2024-02-19,8,5451.24,Moving Average
+sql,2024-02-26,9,5494.25,Moving Average
+sql,2024-03-04,10,5472.37,Moving Average
+sql,2024-03-11,11,5466.79,Moving Average
+sql,2024-03-18,12,5471.16,Moving Average
+sql server,2024-01-01,1,585.25,Moving Average
+sql server,2024-01-08,2,563.56,Moving Average
+sql server,2024-01-15,3,544.2,Moving Average
+sql server,2024-01-22,4,527.5,Moving Average
+sql server,2024-01-29,5,555.13,Moving Average
+sql server,2024-02-05,6,547.6,Moving Average
+sql server,2024-02-12,7,543.61,Moving Average
+sql server,2024-02-19,8,543.46,Moving Average
+sql server,2024-02-26,9,547.45,Moving Average
+sql server,2024-03-04,10,545.53,Moving Average
+sql server,2024-03-11,11,545.01,Moving Average
+sql server,2024-03-18,12,545.36,Moving Average
+sqlite,2024-01-01,1,4.0,Moving Average
+sqlite,2024-01-08,2,4.0,Moving Average
+sqlite,2024-01-15,3,3.75,Moving Average
+sqlite,2024-01-22,4,3.19,Moving Average
+sqlite,2024-01-29,5,3.73,Moving Average
+sqlite,2024-02-05,6,3.67,Moving Average
+sqlite,2024-02-12,7,3.58,Moving Average
+sqlite,2024-02-19,8,3.54,Moving Average
+sqlite,2024-02-26,9,3.63,Moving Average
+sqlite,2024-03-04,10,3.61,Moving Average
+sqlite,2024-03-11,11,3.59,Moving Average
+sqlite,2024-03-18,12,3.59,Moving Average
+sqlserver,2024-01-01,1,0.0,Previous Week
+sqlserver,2024-01-08,2,0.0,Previous Week
+sqlserver,2024-01-15,3,0.0,Previous Week
+sqlserver,2024-01-22,4,0.0,Previous Week
+sqlserver,2024-01-29,5,0.0,Previous Week
+sqlserver,2024-02-05,6,0.0,Previous Week
+sqlserver,2024-02-12,7,0.0,Previous Week
+sqlserver,2024-02-19,8,0.0,Previous Week
+sqlserver,2024-02-26,9,0.0,Previous Week
+sqlserver,2024-03-04,10,0.0,Previous Week
+sqlserver,2024-03-11,11,0.0,Previous Week
+sqlserver,2024-03-18,12,0.0,Previous Week
+ssis,2024-01-01,1,246.75,Moving Average
+ssis,2024-01-08,2,234.19,Moving Average
+ssis,2024-01-15,3,224.73,Moving Average
+ssis,2024-01-22,4,221.42,Moving Average
+ssis,2024-01-29,5,231.77,Moving Average
+ssis,2024-02-05,6,228.03,Moving Average
+ssis,2024-02-12,7,226.49,Moving Average
+ssis,2024-02-19,8,226.93,Moving Average
+ssis,2024-02-26,9,228.3,Moving Average
+ssis,2024-03-04,10,227.44,Moving Average
+ssis,2024-03-11,11,227.29,Moving Average
+ssis,2024-03-18,12,227.49,Moving Average
+ssrs,2024-01-01,1,95.0,Previous Week
+ssrs,2024-01-08,2,95.0,Previous Week
+ssrs,2024-01-15,3,95.0,Previous Week
+ssrs,2024-01-22,4,95.0,Previous Week
+ssrs,2024-01-29,5,95.0,Previous Week
+ssrs,2024-02-05,6,95.0,Previous Week
+ssrs,2024-02-12,7,95.0,Previous Week
+ssrs,2024-02-19,8,95.0,Previous Week
+ssrs,2024-02-26,9,95.0,Previous Week
+ssrs,2024-03-04,10,95.0,Previous Week
+ssrs,2024-03-11,11,95.0,Previous Week
+ssrs,2024-03-18,12,95.0,Previous Week
+suse,2024-01-01,1,1.25,Moving Average
+suse,2024-01-08,2,1.56,Moving Average
+suse,2024-01-15,3,1.7,Moving Average
+suse,2024-01-22,4,1.63,Moving Average
+suse,2024-01-29,5,1.54,Moving Average
+suse,2024-02-05,6,1.61,Moving Average
+suse,2024-02-12,7,1.62,Moving Average
+suse,2024-02-19,8,1.6,Moving Average
+suse,2024-02-26,9,1.59,Moving Average
+suse,2024-03-04,10,1.6,Moving Average
+suse,2024-03-11,11,1.6,Moving Average
+suse,2024-03-18,12,1.6,Moving Average
+svelte,2024-01-01,1,1.81,XGBoost
+svelte,2024-01-08,2,2.8,XGBoost
+svelte,2024-01-15,3,3.92,XGBoost
+svelte,2024-01-22,4,2.2,XGBoost
+svelte,2024-01-29,5,2.33,XGBoost
+svelte,2024-02-05,6,1.75,XGBoost
+svelte,2024-02-12,7,1.4,XGBoost
+svelte,2024-02-19,8,1.28,XGBoost
+svelte,2024-02-26,9,1.86,XGBoost
+svelte,2024-03-04,10,3.71,XGBoost
+svelte,2024-03-11,11,2.48,XGBoost
+svelte,2024-03-18,12,4.88,XGBoost
+svn,2024-01-01,1,18.5,Moving Average
+svn,2024-01-08,2,19.12,Moving Average
+svn,2024-01-15,3,18.66,Moving Average
+svn,2024-01-22,4,16.82,Moving Average
+svn,2024-01-29,5,18.28,Moving Average
+svn,2024-02-05,6,18.22,Moving Average
+svn,2024-02-12,7,17.99,Moving Average
+svn,2024-02-19,8,17.83,Moving Average
+svn,2024-02-26,9,18.08,Moving Average
+svn,2024-03-04,10,18.03,Moving Average
+svn,2024-03-11,11,17.98,Moving Average
+svn,2024-03-18,12,17.98,Moving Average
+swift,2024-01-01,1,32.75,Moving Average
+swift,2024-01-08,2,28.94,Moving Average
+swift,2024-01-15,3,26.92,Moving Average
+swift,2024-01-22,4,26.15,Moving Average
+swift,2024-01-29,5,28.69,Moving Average
+swift,2024-02-05,6,27.68,Moving Average
+swift,2024-02-12,7,27.36,Moving Average
+swift,2024-02-19,8,27.47,Moving Average
+swift,2024-02-26,9,27.8,Moving Average
+swift,2024-03-04,10,27.58,Moving Average
+swift,2024-03-11,11,27.55,Moving Average
+swift,2024-03-18,12,27.6,Moving Average
+symfony,2024-01-01,1,4.44,XGBoost
+symfony,2024-01-08,2,5.45,XGBoost
+symfony,2024-01-15,3,2.21,XGBoost
+symfony,2024-01-22,4,3.01,XGBoost
+symfony,2024-01-29,5,3.15,XGBoost
+symfony,2024-02-05,6,2.66,XGBoost
+symfony,2024-02-12,7,1.6,XGBoost
+symfony,2024-02-19,8,2.69,XGBoost
+symfony,2024-02-26,9,3.39,XGBoost
+symfony,2024-03-04,10,3.46,XGBoost
+symfony,2024-03-11,11,1.98,XGBoost
+symfony,2024-03-18,12,1.6,XGBoost
+symphony,2024-01-01,1,2.5,Moving Average
+symphony,2024-01-08,2,2.38,Moving Average
+symphony,2024-01-15,3,2.47,Moving Average
+symphony,2024-01-22,4,2.34,Moving Average
+symphony,2024-01-29,5,2.42,Moving Average
+symphony,2024-02-05,6,2.4,Moving Average
+symphony,2024-02-12,7,2.41,Moving Average
+symphony,2024-02-19,8,2.39,Moving Average
+symphony,2024-02-26,9,2.4,Moving Average
+symphony,2024-03-04,10,2.4,Moving Average
+symphony,2024-03-11,11,2.4,Moving Average
+symphony,2024-03-18,12,2.4,Moving Average
+t-sql,2024-01-01,1,125.75,Moving Average
+t-sql,2024-01-08,2,120.44,Moving Average
+t-sql,2024-01-15,3,114.55,Moving Average
+t-sql,2024-01-22,4,110.18,Moving Average
+t-sql,2024-01-29,5,117.73,Moving Average
+t-sql,2024-02-05,6,115.72,Moving Average
+t-sql,2024-02-12,7,114.55,Moving Average
+t-sql,2024-02-19,8,114.55,Moving Average
+t-sql,2024-02-26,9,115.64,Moving Average
+t-sql,2024-03-04,10,115.11,Moving Average
+t-sql,2024-03-11,11,114.96,Moving Average
+t-sql,2024-03-18,12,115.06,Moving Average
+tableau,2024-01-01,1,1893.75,Moving Average
+tableau,2024-01-08,2,1824.69,Moving Average
+tableau,2024-01-15,3,1721.36,Moving Average
+tableau,2024-01-22,4,1672.7,Moving Average
+tableau,2024-01-29,5,1778.12,Moving Average
+tableau,2024-02-05,6,1749.22,Moving Average
+tableau,2024-02-12,7,1730.35,Moving Average
+tableau,2024-02-19,8,1732.6,Moving Average
+tableau,2024-02-26,9,1747.57,Moving Average
+tableau,2024-03-04,10,1739.93,Moving Average
+tableau,2024-03-11,11,1737.61,Moving Average
+tableau,2024-03-18,12,1739.43,Moving Average
+tensorflow,2024-01-01,1,390.0,Previous Week
+tensorflow,2024-01-08,2,390.0,Previous Week
+tensorflow,2024-01-15,3,390.0,Previous Week
+tensorflow,2024-01-22,4,390.0,Previous Week
+tensorflow,2024-01-29,5,390.0,Previous Week
+tensorflow,2024-02-05,6,390.0,Previous Week
+tensorflow,2024-02-12,7,390.0,Previous Week
+tensorflow,2024-02-19,8,390.0,Previous Week
+tensorflow,2024-02-26,9,390.0,Previous Week
+tensorflow,2024-03-04,10,390.0,Previous Week
+tensorflow,2024-03-11,11,390.0,Previous Week
+tensorflow,2024-03-18,12,390.0,Previous Week
+terminal,2024-01-01,1,27.72,XGBoost
+terminal,2024-01-08,2,32.08,XGBoost
+terminal,2024-01-15,3,29.92,XGBoost
+terminal,2024-01-22,4,26.35,XGBoost
+terminal,2024-01-29,5,25.61,XGBoost
+terminal,2024-02-05,6,26.37,XGBoost
+terminal,2024-02-12,7,27.46,XGBoost
+terminal,2024-02-19,8,30.63,XGBoost
+terminal,2024-02-26,9,30.63,XGBoost
+terminal,2024-03-04,10,26.8,XGBoost
+terminal,2024-03-11,11,25.61,XGBoost
+terminal,2024-03-18,12,26.37,XGBoost
+terraform,2024-01-01,1,301.75,Moving Average
+terraform,2024-01-08,2,294.69,Moving Average
+terraform,2024-01-15,3,291.11,Moving Average
+terraform,2024-01-22,4,276.64,Moving Average
+terraform,2024-01-29,5,291.05,Moving Average
+terraform,2024-02-05,6,288.37,Moving Average
+terraform,2024-02-12,7,286.79,Moving Average
+terraform,2024-02-19,8,285.71,Moving Average
+terraform,2024-02-26,9,287.98,Moving Average
+terraform,2024-03-04,10,287.21,Moving Average
+terraform,2024-03-11,11,286.92,Moving Average
+terraform,2024-03-18,12,286.96,Moving Average
+theano,2024-01-01,1,10.75,Moving Average
+theano,2024-01-08,2,10.19,Moving Average
+theano,2024-01-15,3,9.23,Moving Average
+theano,2024-01-22,4,9.54,Moving Average
+theano,2024-01-29,5,9.93,Moving Average
+theano,2024-02-05,6,9.72,Moving Average
+theano,2024-02-12,7,9.61,Moving Average
+theano,2024-02-19,8,9.7,Moving Average
+theano,2024-02-26,9,9.74,Moving Average
+theano,2024-03-04,10,9.69,Moving Average
+theano,2024-03-11,11,9.69,Moving Average
+theano,2024-03-18,12,9.7,Moving Average
+tidyr,2024-01-01,1,1.25,Moving Average
+tidyr,2024-01-08,2,1.56,Moving Average
+tidyr,2024-01-15,3,1.45,Moving Average
+tidyr,2024-01-22,4,1.32,Moving Average
+tidyr,2024-01-29,5,1.4,Moving Average
+tidyr,2024-02-05,6,1.43,Moving Average
+tidyr,2024-02-12,7,1.4,Moving Average
+tidyr,2024-02-19,8,1.39,Moving Average
+tidyr,2024-02-26,9,1.4,Moving Average
+tidyr,2024-03-04,10,1.4,Moving Average
+tidyr,2024-03-11,11,1.4,Moving Average
+tidyr,2024-03-18,12,1.4,Moving Average
+tidyverse,2024-01-01,1,10.0,Moving Average
+tidyverse,2024-01-08,2,8.75,Moving Average
+tidyverse,2024-01-15,3,7.94,Moving Average
+tidyverse,2024-01-22,4,7.92,Moving Average
+tidyverse,2024-01-29,5,8.65,Moving Average
+tidyverse,2024-02-05,6,8.32,Moving Average
+tidyverse,2024-02-12,7,8.21,Moving Average
+tidyverse,2024-02-19,8,8.27,Moving Average
+tidyverse,2024-02-26,9,8.36,Moving Average
+tidyverse,2024-03-04,10,8.29,Moving Average
+tidyverse,2024-03-11,11,8.28,Moving Average
+tidyverse,2024-03-18,12,8.3,Moving Average
+trello,2024-01-01,1,9.25,Moving Average
+trello,2024-01-08,2,10.31,Moving Average
+trello,2024-01-15,3,10.64,Moving Average
+trello,2024-01-22,4,9.8,Moving Average
+trello,2024-01-29,5,10.0,Moving Average
+trello,2024-02-05,6,10.19,Moving Average
+trello,2024-02-12,7,10.16,Moving Average
+trello,2024-02-19,8,10.04,Moving Average
+trello,2024-02-26,9,10.1,Moving Average
+trello,2024-03-04,10,10.12,Moving Average
+trello,2024-03-11,11,10.1,Moving Average
+trello,2024-03-18,12,10.09,Moving Average
+twilio,2024-01-01,1,5.0,Moving Average
+twilio,2024-01-08,2,4.75,Moving Average
+twilio,2024-01-15,3,4.69,Moving Average
+twilio,2024-01-22,4,3.86,Moving Average
+twilio,2024-01-29,5,4.57,Moving Average
+twilio,2024-02-05,6,4.47,Moving Average
+twilio,2024-02-12,7,4.4,Moving Average
+twilio,2024-02-19,8,4.32,Moving Average
+twilio,2024-02-26,9,4.44,Moving Average
+twilio,2024-03-04,10,4.41,Moving Average
+twilio,2024-03-11,11,4.39,Moving Average
+twilio,2024-03-18,12,4.39,Moving Average
+typescript,2024-01-01,1,94.75,Moving Average
+typescript,2024-01-08,2,90.19,Moving Average
+typescript,2024-01-15,3,89.73,Moving Average
+typescript,2024-01-22,4,88.67,Moving Average
+typescript,2024-01-29,5,90.83,Moving Average
+typescript,2024-02-05,6,89.86,Moving Average
+typescript,2024-02-12,7,89.77,Moving Average
+typescript,2024-02-19,8,89.78,Moving Average
+typescript,2024-02-26,9,90.06,Moving Average
+typescript,2024-03-04,10,89.87,Moving Average
+typescript,2024-03-11,11,89.87,Moving Average
+typescript,2024-03-18,12,89.9,Moving Average
+ubuntu,2024-01-01,1,19.52,XGBoost
+ubuntu,2024-01-08,2,22.03,XGBoost
+ubuntu,2024-01-15,3,21.86,XGBoost
+ubuntu,2024-01-22,4,20.54,XGBoost
+ubuntu,2024-01-29,5,17.88,XGBoost
+ubuntu,2024-02-05,6,22.3,XGBoost
+ubuntu,2024-02-12,7,24.15,XGBoost
+ubuntu,2024-02-19,8,26.19,XGBoost
+ubuntu,2024-02-26,9,28.09,XGBoost
+ubuntu,2024-03-04,10,26.21,XGBoost
+ubuntu,2024-03-11,11,25.25,XGBoost
+ubuntu,2024-03-18,12,24.78,XGBoost
+unify,2024-01-01,1,24.5,Moving Average
+unify,2024-01-08,2,22.38,Moving Average
+unify,2024-01-15,3,21.72,Moving Average
+unify,2024-01-22,4,22.4,Moving Average
+unify,2024-01-29,5,22.75,Moving Average
+unify,2024-02-05,6,22.31,Moving Average
+unify,2024-02-12,7,22.29,Moving Average
+unify,2024-02-19,8,22.44,Moving Average
+unify,2024-02-26,9,22.45,Moving Average
+unify,2024-03-04,10,22.37,Moving Average
+unify,2024-03-11,11,22.39,Moving Average
+unify,2024-03-18,12,22.41,Moving Average
+unity,2024-01-01,1,29.25,Moving Average
+unity,2024-01-08,2,28.56,Moving Average
+unity,2024-01-15,3,28.7,Moving Average
+unity,2024-01-22,4,24.88,Moving Average
+unity,2024-01-29,5,27.85,Moving Average
+unity,2024-02-05,6,27.5,Moving Average
+unity,2024-02-12,7,27.23,Moving Average
+unity,2024-02-19,8,26.86,Moving Average
+unity,2024-02-26,9,27.36,Moving Average
+unity,2024-03-04,10,27.24,Moving Average
+unity,2024-03-11,11,27.17,Moving Average
+unity,2024-03-18,12,27.16,Moving Average
+unix,2024-01-01,1,174.81,XGBoost
+unix,2024-01-08,2,215.92,XGBoost
+unix,2024-01-15,3,213.38,XGBoost
+unix,2024-01-22,4,207.82,XGBoost
+unix,2024-01-29,5,197.95,XGBoost
+unix,2024-02-05,6,185.35,XGBoost
+unix,2024-02-12,7,222.87,XGBoost
+unix,2024-02-19,8,236.99,XGBoost
+unix,2024-02-26,9,227.95,XGBoost
+unix,2024-03-04,10,224.38,XGBoost
+unix,2024-03-11,11,197.38,XGBoost
+unix,2024-03-18,12,181.87,XGBoost
+unreal,2024-01-01,1,3.25,Moving Average
+unreal,2024-01-08,2,3.31,Moving Average
+unreal,2024-01-15,3,2.64,Moving Average
+unreal,2024-01-22,4,2.55,Moving Average
+unreal,2024-01-29,5,2.94,Moving Average
+unreal,2024-02-05,6,2.86,Moving Average
+unreal,2024-02-12,7,2.75,Moving Average
+unreal,2024-02-19,8,2.77,Moving Average
+unreal,2024-02-26,9,2.83,Moving Average
+unreal,2024-03-04,10,2.8,Moving Average
+unreal,2024-03-11,11,2.79,Moving Average
+unreal,2024-03-18,12,2.8,Moving Average
+vb.net,2024-01-01,1,6.0,Previous Week
+vb.net,2024-01-08,2,6.0,Previous Week
+vb.net,2024-01-15,3,6.0,Previous Week
+vb.net,2024-01-22,4,6.0,Previous Week
+vb.net,2024-01-29,5,6.0,Previous Week
+vb.net,2024-02-05,6,6.0,Previous Week
+vb.net,2024-02-12,7,6.0,Previous Week
+vb.net,2024-02-19,8,6.0,Previous Week
+vb.net,2024-02-26,9,6.0,Previous Week
+vb.net,2024-03-04,10,6.0,Previous Week
+vb.net,2024-03-11,11,6.0,Previous Week
+vb.net,2024-03-18,12,6.0,Previous Week
+vba,2024-01-01,1,172.5,Moving Average
+vba,2024-01-08,2,164.12,Moving Average
+vba,2024-01-15,3,161.41,Moving Average
+vba,2024-01-22,4,154.76,Moving Average
+vba,2024-01-29,5,163.2,Moving Average
+vba,2024-02-05,6,160.87,Moving Average
+vba,2024-02-12,7,160.06,Moving Average
+vba,2024-02-19,8,159.72,Moving Average
+vba,2024-02-26,9,160.96,Moving Average
+vba,2024-03-04,10,160.4,Moving Average
+vba,2024-03-11,11,160.29,Moving Average
+vba,2024-03-18,12,160.34,Moving Average
+visio,2024-01-01,1,64.0,Moving Average
+visio,2024-01-08,2,61.0,Moving Average
+visio,2024-01-15,3,57.75,Moving Average
+visio,2024-01-22,4,56.19,Moving Average
+visio,2024-01-29,5,59.73,Moving Average
+visio,2024-02-05,6,58.67,Moving Average
+visio,2024-02-12,7,58.08,Moving Average
+visio,2024-02-19,8,58.17,Moving Average
+visio,2024-02-26,9,58.66,Moving Average
+visio,2024-03-04,10,58.4,Moving Average
+visio,2024-03-11,11,58.33,Moving Average
+visio,2024-03-18,12,58.39,Moving Average
+visual basic,2024-01-01,1,21.0,Previous Week
+visual basic,2024-01-08,2,21.0,Previous Week
+visual basic,2024-01-15,3,21.0,Previous Week
+visual basic,2024-01-22,4,21.0,Previous Week
+visual basic,2024-01-29,5,21.0,Previous Week
+visual basic,2024-02-05,6,21.0,Previous Week
+visual basic,2024-02-12,7,21.0,Previous Week
+visual basic,2024-02-19,8,21.0,Previous Week
+visual basic,2024-02-26,9,21.0,Previous Week
+visual basic,2024-03-04,10,21.0,Previous Week
+visual basic,2024-03-11,11,21.0,Previous Week
+visual basic,2024-03-18,12,21.0,Previous Week
+vmware,2024-01-01,1,50.25,Moving Average
+vmware,2024-01-08,2,50.31,Moving Average
+vmware,2024-01-15,3,47.89,Moving Average
+vmware,2024-01-22,4,46.61,Moving Average
+vmware,2024-01-29,5,48.77,Moving Average
+vmware,2024-02-05,6,48.4,Moving Average
+vmware,2024-02-12,7,47.92,Moving Average
+vmware,2024-02-19,8,47.92,Moving Average
+vmware,2024-02-26,9,48.25,Moving Average
+vmware,2024-03-04,10,48.12,Moving Average
+vmware,2024-03-11,11,48.05,Moving Average
+vmware,2024-03-18,12,48.09,Moving Average
+vue,2024-01-01,1,30.0,Previous Week
+vue,2024-01-08,2,30.0,Previous Week
+vue,2024-01-15,3,30.0,Previous Week
+vue,2024-01-22,4,30.0,Previous Week
+vue,2024-01-29,5,30.0,Previous Week
+vue,2024-02-05,6,30.0,Previous Week
+vue,2024-02-12,7,30.0,Previous Week
+vue,2024-02-19,8,30.0,Previous Week
+vue,2024-02-26,9,30.0,Previous Week
+vue,2024-03-04,10,30.0,Previous Week
+vue,2024-03-11,11,30.0,Previous Week
+vue,2024-03-18,12,30.0,Previous Week
+vue.js,2024-01-01,1,4.0,Previous Week
+vue.js,2024-01-08,2,4.0,Previous Week
+vue.js,2024-01-15,3,4.0,Previous Week
+vue.js,2024-01-22,4,4.0,Previous Week
+vue.js,2024-01-29,5,4.0,Previous Week
+vue.js,2024-02-05,6,4.0,Previous Week
+vue.js,2024-02-12,7,4.0,Previous Week
+vue.js,2024-02-19,8,4.0,Previous Week
+vue.js,2024-02-26,9,4.0,Previous Week
+vue.js,2024-03-04,10,4.0,Previous Week
+vue.js,2024-03-11,11,4.0,Previous Week
+vue.js,2024-03-18,12,4.0,Previous Week
+watson,2024-01-01,1,12.25,Moving Average
+watson,2024-01-08,2,12.81,Moving Average
+watson,2024-01-15,3,12.52,Moving Average
+watson,2024-01-22,4,11.14,Moving Average
+watson,2024-01-29,5,12.18,Moving Average
+watson,2024-02-05,6,12.16,Moving Average
+watson,2024-02-12,7,12.0,Moving Average
+watson,2024-02-19,8,11.87,Moving Average
+watson,2024-02-26,9,12.05,Moving Average
+watson,2024-03-04,10,12.02,Moving Average
+watson,2024-03-11,11,11.99,Moving Average
+watson,2024-03-18,12,11.98,Moving Average
+webex,2024-01-01,1,5.5,Moving Average
+webex,2024-01-08,2,5.62,Moving Average
+webex,2024-01-15,3,6.03,Moving Average
+webex,2024-01-22,4,5.29,Moving Average
+webex,2024-01-29,5,5.61,Moving Average
+webex,2024-02-05,6,5.64,Moving Average
+webex,2024-02-12,7,5.64,Moving Average
+webex,2024-02-19,8,5.55,Moving Average
+webex,2024-02-26,9,5.61,Moving Average
+webex,2024-03-04,10,5.61,Moving Average
+webex,2024-03-11,11,5.6,Moving Average
+webex,2024-03-18,12,5.59,Moving Average
+windows,2024-01-01,1,211.75,Moving Average
+windows,2024-01-08,2,201.19,Moving Average
+windows,2024-01-15,3,194.98,Moving Average
+windows,2024-01-22,4,189.98,Moving Average
+windows,2024-01-29,5,199.48,Moving Average
+windows,2024-02-05,6,196.41,Moving Average
+windows,2024-02-12,7,195.21,Moving Average
+windows,2024-02-19,8,195.27,Moving Average
+windows,2024-02-26,9,196.59,Moving Average
+windows,2024-03-04,10,195.87,Moving Average
+windows,2024-03-11,11,195.74,Moving Average
+windows,2024-03-18,12,195.87,Moving Average
+wire,2024-01-01,1,7.86,XGBoost
+wire,2024-01-08,2,7.84,XGBoost
+wire,2024-01-15,3,7.77,XGBoost
+wire,2024-01-22,4,8.67,XGBoost
+wire,2024-01-29,5,8.87,XGBoost
+wire,2024-02-05,6,8.87,XGBoost
+wire,2024-02-12,7,8.87,XGBoost
+wire,2024-02-19,8,8.87,XGBoost
+wire,2024-02-26,9,8.87,XGBoost
+wire,2024-03-04,10,8.87,XGBoost
+wire,2024-03-11,11,8.87,XGBoost
+wire,2024-03-18,12,8.87,XGBoost
+word,2024-01-01,1,439.0,Moving Average
+word,2024-01-08,2,423.5,Moving Average
+word,2024-01-15,3,397.88,Moving Average
+word,2024-01-22,4,383.59,Moving Average
+word,2024-01-29,5,410.99,Moving Average
+word,2024-02-05,6,403.99,Moving Average
+word,2024-02-12,7,399.11,Moving Average
+word,2024-02-19,8,399.42,Moving Average
+word,2024-02-26,9,403.38,Moving Average
+word,2024-03-04,10,401.48,Moving Average
+word,2024-03-11,11,400.85,Moving Average
+word,2024-03-18,12,401.28,Moving Average
+workfront,2024-01-01,1,1.0,Moving Average
+workfront,2024-01-08,2,0.75,Moving Average
+workfront,2024-01-15,3,0.69,Moving Average
+workfront,2024-01-22,4,0.61,Moving Average
+workfront,2024-01-29,5,0.76,Moving Average
+workfront,2024-02-05,6,0.7,Moving Average
+workfront,2024-02-12,7,0.69,Moving Average
+workfront,2024-02-19,8,0.69,Moving Average
+workfront,2024-02-26,9,0.71,Moving Average
+workfront,2024-03-04,10,0.7,Moving Average
+workfront,2024-03-11,11,0.7,Moving Average
+workfront,2024-03-18,12,0.7,Moving Average
+wrike,2024-01-01,1,2.5,Moving Average
+wrike,2024-01-08,2,2.12,Moving Average
+wrike,2024-01-15,3,1.91,Moving Average
+wrike,2024-01-22,4,2.13,Moving Average
+wrike,2024-01-29,5,2.17,Moving Average
+wrike,2024-02-05,6,2.08,Moving Average
+wrike,2024-02-12,7,2.07,Moving Average
+wrike,2024-02-19,8,2.11,Moving Average
+wrike,2024-02-26,9,2.11,Moving Average
+wrike,2024-03-04,10,2.09,Moving Average
+wrike,2024-03-11,11,2.1,Moving Average
+wrike,2024-03-18,12,2.1,Moving Average
+wsl,2024-01-01,1,1.33,XGBoost
+wsl,2024-01-08,2,1.34,XGBoost
+wsl,2024-01-15,3,1.49,XGBoost
+wsl,2024-01-22,4,1.16,XGBoost
+wsl,2024-01-29,5,1.59,XGBoost
+wsl,2024-02-05,6,1.59,XGBoost
+wsl,2024-02-12,7,1.59,XGBoost
+wsl,2024-02-19,8,1.59,XGBoost
+wsl,2024-02-26,9,1.79,XGBoost
+wsl,2024-03-04,10,1.79,XGBoost
+wsl,2024-03-11,11,1.79,XGBoost
+wsl,2024-03-18,12,1.79,XGBoost
+xamarin,2024-01-01,1,0.0,Previous Week
+xamarin,2024-01-08,2,0.0,Previous Week
+xamarin,2024-01-15,3,0.0,Previous Week
+xamarin,2024-01-22,4,0.0,Previous Week
+xamarin,2024-01-29,5,0.0,Previous Week
+xamarin,2024-02-05,6,0.0,Previous Week
+xamarin,2024-02-12,7,0.0,Previous Week
+xamarin,2024-02-19,8,0.0,Previous Week
+xamarin,2024-02-26,9,0.0,Previous Week
+xamarin,2024-03-04,10,0.0,Previous Week
+xamarin,2024-03-11,11,0.0,Previous Week
+xamarin,2024-03-18,12,0.0,Previous Week
+yarn,2024-01-01,1,38.12,XGBoost
+yarn,2024-01-08,2,50.54,XGBoost
+yarn,2024-01-15,3,45.87,XGBoost
+yarn,2024-01-22,4,36.24,XGBoost
+yarn,2024-01-29,5,41.96,XGBoost
+yarn,2024-02-05,6,39.1,XGBoost
+yarn,2024-02-12,7,35.09,XGBoost
+yarn,2024-02-19,8,39.26,XGBoost
+yarn,2024-02-26,9,34.29,XGBoost
+yarn,2024-03-04,10,37.58,XGBoost
+yarn,2024-03-11,11,41.02,XGBoost
+yarn,2024-03-18,12,34.34,XGBoost
+zoom,2024-01-01,1,33.25,Moving Average
+zoom,2024-01-08,2,30.06,Moving Average
+zoom,2024-01-15,3,29.08,Moving Average
+zoom,2024-01-22,4,29.85,Moving Average
+zoom,2024-01-29,5,30.56,Moving Average
+zoom,2024-02-05,6,29.89,Moving Average
+zoom,2024-02-12,7,29.84,Moving Average
+zoom,2024-02-19,8,30.03,Moving Average
+zoom,2024-02-26,9,30.08,Moving Average
+zoom,2024-03-04,10,29.96,Moving Average
+zoom,2024-03-11,11,29.98,Moving Average
+zoom,2024-03-18,12,30.01,Moving Average

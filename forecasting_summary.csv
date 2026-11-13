@@ -1,0 +1,253 @@
+skill,eligible,reason,num_nonzero_weeks,total_weeks,best_model,forecast_generated
+airflow,True,ok,53,53,Moving Average,True
+airtable,True,ok,53,53,Moving Average,True
+alteryx,True,ok,53,53,Moving Average,True
+angular,True,ok,53,53,Moving Average,True
+angular.js,True,ok,42,53,Moving Average,True
+ansible,True,ok,53,53,Previous Week,True
+apl,True,ok,49,53,Moving Average,True
+arch,True,ok,53,53,Moving Average,True
+asana,True,ok,53,53,XGBoost,True
+asp.net,True,ok,53,53,Moving Average,True
+asp.net core,True,ok,50,53,Moving Average,True
+asp.netcore,False,only 3 non-zero demand weeks (minimum required: 12),3,53,,False
+assembly,True,ok,53,53,Moving Average,True
+atlassian,True,ok,53,53,Moving Average,True
+aurora,True,ok,53,53,Moving Average,True
+aws,True,ok,53,53,Previous Week,True
+azure,True,ok,53,53,Previous Week,True
+bash,True,ok,53,53,Moving Average,True
+bigquery,True,ok,53,53,Previous Week,True
+bitbucket,True,ok,53,53,Moving Average,True
+blazor,True,ok,31,53,XGBoost,True
+c,True,ok,53,53,Previous Week,True
+c#,True,ok,53,53,Moving Average,True
+c++,True,ok,53,53,Previous Week,True
+capacitor,True,ok,12,53,Moving Average,True
+cassandra,True,ok,53,53,Moving Average,True
+centos,True,ok,53,53,XGBoost,True
+chainer,False,only 11 non-zero demand weeks (minimum required: 12),11,53,,False
+chef,True,ok,53,53,Moving Average,True
+clickup,True,ok,44,53,XGBoost,True
+clojure,True,ok,53,53,Moving Average,True
+cobol,True,ok,53,53,Moving Average,True
+codecommit,True,ok,52,53,Moving Average,True
+cognos,True,ok,53,53,Moving Average,True
+colocation,True,ok,52,53,Moving Average,True
+confluence,True,ok,53,53,Previous Week,True
+cordova,True,ok,47,53,Previous Week,True
+couchbase,True,ok,53,53,Moving Average,True
+couchdb,True,ok,50,53,XGBoost,True
+crystal,True,ok,53,53,Previous Week,True
+css,True,ok,53,53,Moving Average,True
+dart,True,ok,52,53,XGBoost,True
+databricks,True,ok,53,53,Previous Week,True
+datarobot,True,ok,53,53,Previous Week,True
+dax,True,ok,53,53,Moving Average,True
+db2,True,ok,53,53,Moving Average,True
+debian,True,ok,51,53,XGBoost,True
+delphi,True,ok,43,53,XGBoost,True
+deno,False,only 2 non-zero demand weeks (minimum required: 12),2,53,,False
+digitalocean,True,ok,52,53,Moving Average,True
+dingtalk,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+django,True,ok,53,53,Moving Average,True
+dlib,True,ok,28,53,Moving Average,True
+docker,True,ok,53,53,Previous Week,True
+dplyr,True,ok,53,53,Moving Average,True
+drupal,True,ok,51,53,Moving Average,True
+dynamodb,True,ok,53,53,Moving Average,True
+elasticsearch,True,ok,53,53,Moving Average,True
+electron,True,ok,51,53,Moving Average,True
+elixir,True,ok,52,53,Moving Average,True
+ember.js,False,only 9 non-zero demand weeks (minimum required: 12),9,53,,False
+erlang,True,ok,44,53,Moving Average,True
+esquisse,False,only 3 non-zero demand weeks (minimum required: 12),3,53,,False
+excel,True,ok,53,53,Moving Average,True
+express,True,ok,53,53,Previous Week,True
+f#,True,ok,46,53,XGBoost,True
+fastapi,True,ok,53,53,Previous Week,True
+fastify,True,ok,18,53,Moving Average,True
+fedora,True,ok,30,53,XGBoost,True
+firebase,True,ok,53,53,Moving Average,True
+firestore,True,ok,53,53,Previous Week,True
+flask,True,ok,53,53,Moving Average,True
+flow,True,ok,53,53,Moving Average,True
+flutter,True,ok,51,53,Moving Average,True
+fortran,True,ok,52,53,XGBoost,True
+gatsby,True,ok,24,53,XGBoost,True
+gcp,True,ok,53,53,Previous Week,True
+gdpr,True,ok,53,53,Previous Week,True
+ggplot2,True,ok,53,53,XGBoost,True
+git,True,ok,53,53,XGBoost,True
+github,True,ok,53,53,Previous Week,True
+gitlab,True,ok,53,53,Previous Week,True
+go,True,ok,53,53,Moving Average,True
+golang,True,ok,53,53,Previous Week,True
+google chat,True,ok,27,53,XGBoost,True
+graphql,True,ok,53,53,Moving Average,True
+groovy,True,ok,53,53,Moving Average,True
+gtx,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+hadoop,True,ok,53,53,Moving Average,True
+haskell,True,ok,52,53,Moving Average,True
+heroku,True,ok,51,53,Moving Average,True
+homebrew,False,only 11 non-zero demand weeks (minimum required: 12),11,53,,False
+html,True,ok,53,53,Moving Average,True
+hugging face,True,ok,53,53,Moving Average,True
+huggingface,False,only 3 non-zero demand weeks (minimum required: 12),3,53,,False
+ibm cloud,True,ok,53,53,Moving Average,True
+ionic,True,ok,46,53,XGBoost,True
+java,True,ok,53,53,Moving Average,True
+javascript,True,ok,53,53,Moving Average,True
+jenkins,True,ok,53,53,Previous Week,True
+jira,True,ok,53,53,Moving Average,True
+jquery,True,ok,53,53,Moving Average,True
+julia,True,ok,53,53,Previous Week,True
+jupyter,True,ok,53,53,Previous Week,True
+kafka,True,ok,53,53,Moving Average,True
+kali,True,ok,13,53,Previous Week,True
+keras,True,ok,53,53,Moving Average,True
+kotlin,True,ok,53,53,XGBoost,True
+kubernetes,True,ok,53,53,Moving Average,True
+laravel,True,ok,53,53,XGBoost,True
+linode,True,ok,16,53,Previous Week,True
+linux,True,ok,53,53,Moving Average,True
+lisp,True,ok,38,53,XGBoost,True
+looker,True,ok,53,53,Previous Week,True
+lua,True,ok,49,53,Moving Average,True
+macos,True,ok,53,53,XGBoost,True
+mariadb,True,ok,53,53,Previous Week,True
+matlab,True,ok,53,53,Moving Average,True
+matplotlib,True,ok,53,53,Previous Week,True
+mattermost,True,ok,13,53,Moving Average,True
+microsoft lists,False,only 7 non-zero demand weeks (minimum required: 12),7,53,,False
+microsoft teams,True,ok,53,53,Previous Week,True
+microstrategy,True,ok,53,53,Moving Average,True
+mlpack,True,ok,18,53,XGBoost,True
+mlr,True,ok,42,53,Moving Average,True
+monday.com,True,ok,48,53,Moving Average,True
+mongo,True,ok,53,53,XGBoost,True
+mongodb,True,ok,53,53,Previous Week,True
+ms access,True,ok,53,53,Moving Average,True
+msaccess,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+mxnet,True,ok,53,53,Previous Week,True
+mysql,True,ok,53,53,Moving Average,True
+neo4j,True,ok,53,53,Previous Week,True
+next.js,True,ok,52,53,Moving Average,True
+nltk,True,ok,53,53,XGBoost,True
+no-sql,True,ok,53,53,Moving Average,True
+node,True,ok,53,53,XGBoost,True
+node.js,True,ok,53,53,Moving Average,True
+nosql,True,ok,53,53,Moving Average,True
+notion,True,ok,53,53,Moving Average,True
+npm,True,ok,52,53,Moving Average,True
+nuix,True,ok,28,53,Moving Average,True
+numpy,True,ok,53,53,XGBoost,True
+nuxt.js,True,ok,12,53,Moving Average,True
+objective-c,True,ok,51,53,XGBoost,True
+ocaml,True,ok,24,53,XGBoost,True
+opencv,True,ok,53,53,Moving Average,True
+openstack,True,ok,53,53,Moving Average,True
+oracle,True,ok,53,53,Previous Week,True
+outlook,True,ok,53,53,Moving Average,True
+ovh,True,ok,41,53,XGBoost,True
+pandas,True,ok,53,53,Previous Week,True
+pascal,True,ok,36,53,Moving Average,True
+perl,True,ok,53,53,Previous Week,True
+phoenix,True,ok,53,53,XGBoost,True
+php,True,ok,53,53,Moving Average,True
+planner,True,ok,53,53,XGBoost,True
+play framework,True,ok,32,53,Moving Average,True
+plotly,True,ok,53,53,Previous Week,True
+postgresql,True,ok,53,53,Previous Week,True
+power bi,True,ok,53,53,Moving Average,True
+powerbi,True,ok,51,53,Moving Average,True
+powerpoint,True,ok,53,53,Moving Average,True
+powershell,True,ok,53,53,Moving Average,True
+pulumi,True,ok,52,53,Moving Average,True
+puppet,True,ok,53,53,Moving Average,True
+pyspark,True,ok,53,53,Previous Week,True
+python,True,ok,53,53,Previous Week,True
+pytorch,True,ok,53,53,Previous Week,True
+qlik,True,ok,53,53,Moving Average,True
+qt,True,ok,49,53,XGBoost,True
+r,True,ok,53,53,Moving Average,True
+react,True,ok,53,53,Moving Average,True
+react.js,True,ok,53,53,Moving Average,True
+redhat,True,ok,53,53,Moving Average,True
+redis,True,ok,53,53,Moving Average,True
+redshift,True,ok,53,53,Moving Average,True
+ringcentral,True,ok,42,53,Moving Average,True
+rocketchat,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+rshiny,True,ok,53,53,Moving Average,True
+ruby,True,ok,53,53,Moving Average,True
+ruby on rails,True,ok,53,53,Previous Week,True
+rubyon rails,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+rust,True,ok,53,53,XGBoost,True
+sap,True,ok,53,53,Moving Average,True
+sas,True,ok,53,53,Moving Average,True
+sass,True,ok,52,53,Moving Average,True
+scala,True,ok,53,53,Moving Average,True
+scikit-learn,True,ok,53,53,Previous Week,True
+seaborn,True,ok,53,53,Previous Week,True
+selenium,True,ok,53,53,XGBoost,True
+sharepoint,True,ok,53,53,Moving Average,True
+sheets,True,ok,53,53,Moving Average,True
+shell,True,ok,53,53,XGBoost,True
+shogun,False,only 9 non-zero demand weeks (minimum required: 12),9,53,,False
+slack,True,ok,53,53,Previous Week,True
+smartsheet,True,ok,53,53,XGBoost,True
+snowflake,True,ok,53,53,XGBoost,True
+solidity,True,ok,53,53,XGBoost,True
+spark,True,ok,53,53,Moving Average,True
+splunk,True,ok,53,53,XGBoost,True
+spreadsheet,True,ok,53,53,Moving Average,True
+spring,True,ok,53,53,Previous Week,True
+spss,True,ok,53,53,XGBoost,True
+sql,True,ok,53,53,Moving Average,True
+sql server,True,ok,53,53,Moving Average,True
+sqlite,True,ok,51,53,Moving Average,True
+sqlserver,True,ok,23,53,Previous Week,True
+ssis,True,ok,53,53,Moving Average,True
+ssrs,True,ok,53,53,Previous Week,True
+suse,True,ok,47,53,Moving Average,True
+svelte,True,ok,39,53,XGBoost,True
+svn,True,ok,53,53,Moving Average,True
+swift,True,ok,53,53,Moving Average,True
+symfony,True,ok,47,53,XGBoost,True
+symphony,True,ok,52,53,Moving Average,True
+t-sql,True,ok,53,53,Moving Average,True
+tableau,True,ok,53,53,Moving Average,True
+tensorflow,True,ok,53,53,Previous Week,True
+terminal,True,ok,53,53,XGBoost,True
+terraform,True,ok,53,53,Moving Average,True
+theano,True,ok,53,53,Moving Average,True
+tidyr,True,ok,35,53,Moving Average,True
+tidyverse,True,ok,53,53,Moving Average,True
+trello,True,ok,53,53,Moving Average,True
+twilio,True,ok,52,53,Moving Average,True
+typescript,True,ok,53,53,Moving Average,True
+ubuntu,True,ok,53,53,XGBoost,True
+unify,True,ok,53,53,Moving Average,True
+unity,True,ok,53,53,Moving Average,True
+unix,True,ok,53,53,XGBoost,True
+unreal,True,ok,52,53,Moving Average,True
+vb.net,True,ok,53,53,Previous Week,True
+vba,True,ok,53,53,Moving Average,True
+visio,True,ok,53,53,Moving Average,True
+visual basic,True,ok,53,53,Previous Week,True
+visualbasic,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+vmware,True,ok,53,53,Moving Average,True
+vue,True,ok,53,53,Previous Week,True
+vue.js,True,ok,52,53,Previous Week,True
+watson,True,ok,53,53,Moving Average,True
+webex,True,ok,52,53,Moving Average,True
+wimi,False,only 1 non-zero demand weeks (minimum required: 12),1,53,,False
+windows,True,ok,53,53,Moving Average,True
+wire,True,ok,53,53,XGBoost,True
+word,True,ok,53,53,Moving Average,True
+workfront,True,ok,32,53,Moving Average,True
+wrike,True,ok,37,53,Moving Average,True
+wsl,True,ok,38,53,XGBoost,True
+xamarin,True,ok,34,53,Previous Week,True
+yarn,True,ok,53,53,XGBoost,True
+zoom,True,ok,53,53,Moving Average,True

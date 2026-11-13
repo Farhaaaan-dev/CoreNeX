@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python_env/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Browser and local files
+.chrome-profile/
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# Restricted data
+data_jobs.csv
+**/raw_data/
+**/private_data/
+
+# Preserve validation artifacts locally
+phase2_validation/
+
+# Large model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx

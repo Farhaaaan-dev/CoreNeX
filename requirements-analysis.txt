@@ -1,0 +1,14 @@
+# Analysis-only requirements (Phase 0/1/2 scripts).
+# Install:  py -m pip install -r requirements-analysis.txt
+# These are NOT required to run the Streamlit application.
+
+scikit-learn==1.9.1
+xgboost==3.4.1
+scipy==1.18.1
+matplotlib==3.11.0
+
+# Optional but recommended for fuller statistics/backtests.
+# The CoreNex scripts do not import statsmodels or tabulate; they implement
+# Holt/DampedHolt and Markdown tables inline, so these are not required.
+# statsmodels==0.14.4
+# tabulate==0.9.0

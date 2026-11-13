@@ -1,0 +1,709 @@
+skill,model,MAE,RMSE,sMAPE,is_best_model
+airflow,Previous Week,85.25,101.4655,11.4039,False
+airflow,Moving Average,79.8125,113.8414,10.8287,True
+airflow,XGBoost,109.4627,148.5188,14.1475,False
+airtable,Previous Week,3.0,3.937,46.5824,False
+airtable,Moving Average,2.9375,3.2162,48.1456,True
+airtable,XGBoost,3.2941,4.1592,55.7655,False
+alteryx,Previous Week,25.0,36.5377,16.118,False
+alteryx,Moving Average,20.9062,34.7623,13.9237,True
+alteryx,XGBoost,32.7796,46.774,19.7275,False
+angular,Previous Week,17.25,21.4301,18.6219,False
+angular,Moving Average,11.4062,15.2912,12.7253,True
+angular,XGBoost,16.3139,20.5077,17.5537,False
+angular.js,Previous Week,1.625,2.0917,127.381,False
+angular.js,Moving Average,1.5938,1.7832,136.9963,True
+angular.js,XGBoost,1.8856,2.2742,145.964,False
+ansible,Previous Week,17.375,20.9075,15.3912,True
+ansible,Moving Average,18.0,23.0407,15.7665,False
+ansible,XGBoost,19.7143,25.1582,16.9507,False
+apl,Previous Week,2.0,2.5495,93.0952,False
+apl,Moving Average,1.625,2.0194,68.8401,True
+apl,XGBoost,1.7837,2.0971,71.3915,False
+arch,Previous Week,3.5,4.062,56.2313,False
+arch,Moving Average,2.125,2.6517,37.8654,True
+arch,XGBoost,2.9158,3.6325,50.5862,False
+asana,Previous Week,3.125,4.1079,47.3812,False
+asana,Moving Average,2.875,3.3518,40.555,False
+asana,XGBoost,2.3273,2.9658,33.6322,True
+asp.net,Previous Week,4.25,5.244,22.358,False
+asp.net,Moving Average,2.5625,3.0847,13.7403,True
+asp.net,XGBoost,4.8692,7.5288,22.2463,False
+asp.net core,Previous Week,1.125,1.3693,29.9603,False
+asp.net core,Moving Average,0.7812,0.8795,20.6101,True
+asp.net core,XGBoost,1.6263,1.8566,49.9377,False
+assembly,Previous Week,13.75,16.4241,37.1552,False
+assembly,Moving Average,10.4688,11.4827,29.1083,True
+assembly,XGBoost,11.6249,12.612,32.8615,False
+atlassian,Previous Week,8.5,9.434,22.9291,False
+atlassian,Moving Average,7.4375,9.1481,19.7524,True
+atlassian,XGBoost,8.7248,10.3929,22.0431,False
+aurora,Previous Week,6.375,8.1163,12.8509,False
+aurora,Moving Average,3.9062,5.0583,7.9294,True
+aurora,XGBoost,12.1208,13.5162,22.2764,False
+aws,Previous Week,221.125,282.4887,9.2764,True
+aws,Moving Average,228.625,321.9814,9.6281,False
+aws,XGBoost,257.4111,387.9957,10.6493,False
+azure,Previous Week,209.625,285.0778,9.5724,True
+azure,Moving Average,249.2812,328.8108,11.2703,False
+azure,XGBoost,232.3383,351.2325,10.5708,False
+bash,Previous Week,27.25,29.5508,17.6298,False
+bash,Moving Average,21.5938,27.5271,14.3734,True
+bash,XGBoost,22.8709,29.4888,14.9544,False
+bigquery,Previous Week,35.625,53.0578,10.3197,True
+bigquery,Moving Average,45.125,69.0267,12.6996,False
+bigquery,XGBoost,53.1357,76.0915,14.4738,False
+bitbucket,Previous Week,17.25,20.6519,20.7328,False
+bitbucket,Moving Average,15.0625,18.4941,18.5143,True
+bitbucket,XGBoost,17.8383,22.1031,21.3915,False
+blazor,Previous Week,1.5,1.9365,116.6667,False
+blazor,Moving Average,1.375,1.6863,113.8095,False
+blazor,XGBoost,1.0407,1.167,126.9898,True
+c,Previous Week,28.375,36.1715,10.9871,True
+c,Moving Average,32.2188,43.2186,12.7637,False
+c,XGBoost,35.9552,43.6006,13.983,False
+c#,Previous Week,34.375,42.7273,12.6684,False
+c#,Moving Average,30.875,37.9136,11.8138,True
+c#,XGBoost,40.0126,50.6627,14.8717,False
+c++,Previous Week,26.625,33.9098,7.7864,True
+c++,Moving Average,43.4375,52.7373,12.8318,False
+c++,XGBoost,40.1325,51.4519,11.8425,False
+capacitor,Previous Week,0.5,0.7071,100.0,False
+capacitor,Moving Average,0.4375,0.5449,200.0,True
+capacitor,XGBoost,0.4878,0.6884,182.0942,False
+cassandra,Previous Week,51.875,66.6605,23.9728,False
+cassandra,Moving Average,36.9688,46.2518,17.6664,True
+cassandra,XGBoost,49.353,59.8433,22.8874,False
+centos,Previous Week,5.0,6.9101,39.6926,False
+centos,Moving Average,4.1875,5.4715,35.3444,False
+centos,XGBoost,3.4396,4.3485,29.3545,True
+chef,Previous Week,13.25,14.7648,20.8759,False
+chef,Moving Average,9.0938,10.8141,14.7916,True
+chef,XGBoost,14.897,15.9624,24.1506,False
+clickup,Previous Week,3.875,4.2866,117.8571,False
+clickup,Moving Average,2.375,2.5249,81.0954,False
+clickup,XGBoost,1.9996,2.4226,71.4137,True
+clojure,Previous Week,2.25,2.3452,75.6872,False
+clojure,Moving Average,2.125,2.3485,64.1303,True
+clojure,XGBoost,2.5139,3.0547,68.673,False
+cobol,Previous Week,2.75,3.4278,41.0373,False
+cobol,Moving Average,1.8125,2.2707,23.7285,True
+cobol,XGBoost,2.5533,3.0539,34.621,False
+codecommit,Previous Week,3.25,3.4641,72.4152,False
+codecommit,Moving Average,2.6562,3.3553,52.5308,True
+codecommit,XGBoost,2.7244,3.0046,59.1484,False
+cognos,Previous Week,11.875,18.8845,15.5392,False
+cognos,Moving Average,10.5,16.6775,13.9723,True
+cognos,XGBoost,13.8105,20.4569,17.253,False
+colocation,Previous Week,4.625,5.1599,57.758,False
+colocation,Moving Average,3.7812,3.9775,51.7233,True
+colocation,XGBoost,4.3061,4.9815,57.4083,False
+confluence,Previous Week,19.875,28.3791,11.7421,True
+confluence,Moving Average,23.75,34.5477,14.7038,False
+confluence,XGBoost,27.9283,37.2181,16.6387,False
+cordova,Previous Week,0.375,0.7906,37.5,True
+cordova,Moving Average,0.9375,1.2311,88.8889,False
+cordova,XGBoost,1.4932,1.6,107.5242,False
+couchbase,Previous Week,3.875,5.0374,48.948,False
+couchbase,Moving Average,3.7812,4.1711,45.0883,True
+couchbase,XGBoost,3.868,4.9633,44.3679,False
+couchdb,Previous Week,4.125,4.6503,107.0833,False
+couchdb,Moving Average,2.1875,2.8804,59.1716,False
+couchdb,XGBoost,1.6357,1.8278,53.3186,True
+crystal,Previous Week,11.25,13.3417,27.1105,True
+crystal,Moving Average,13.3125,15.2884,34.9293,False
+crystal,XGBoost,15.2357,17.7108,39.541,False
+css,Previous Week,16.5,18.6346,15.8055,False
+css,Moving Average,10.9688,13.9404,10.4625,True
+css,XGBoost,14.1601,16.0976,13.4875,False
+dart,Previous Week,2.875,3.6912,58.6472,False
+dart,Moving Average,2.0312,2.3235,45.6944,False
+dart,XGBoost,1.8374,2.011,42.5028,True
+databricks,Previous Week,78.75,108.6221,8.9335,True
+databricks,Moving Average,80.1875,124.3428,9.1389,False
+databricks,XGBoost,106.9059,137.3266,11.8607,False
+datarobot,Previous Week,1.75,2.4495,20.4688,True
+datarobot,Moving Average,2.6562,2.7599,29.647,False
+datarobot,XGBoost,4.5294,5.2713,44.5038,False
+dax,Previous Week,22.125,31.4305,15.7142,False
+dax,Moving Average,20.9688,35.0131,14.9214,True
+dax,XGBoost,21.9517,36.7791,15.3901,False
+db2,Previous Week,12.625,14.6927,17.0745,False
+db2,Moving Average,9.2188,11.6321,12.693,True
+db2,XGBoost,11.8771,15.8091,15.8431,False
+debian,Previous Week,4.75,6.265,72.1993,False
+debian,Moving Average,3.6875,4.5277,56.4837,False
+debian,XGBoost,3.5962,4.5135,58.9269,True
+delphi,Previous Week,1.375,1.7678,104.4048,False
+delphi,Moving Average,1.5312,1.656,97.6692,False
+delphi,XGBoost,1.1163,1.2471,93.2418,True
+digitalocean,Previous Week,4.0,4.3301,122.9167,False
+digitalocean,Moving Average,3.0,3.3866,82.2606,True
+digitalocean,XGBoost,4.1384,4.5382,90.9918,False
+django,Previous Week,12.625,16.0117,17.9977,False
+django,Moving Average,10.7812,12.6957,15.4224,True
+django,XGBoost,12.855,15.424,17.9407,False
+dlib,Previous Week,0.875,1.1726,91.6667,False
+dlib,Moving Average,0.75,0.9014,119.697,True
+dlib,XGBoost,0.9237,1.0254,153.3321,False
+docker,Previous Week,60.5,68.1964,9.37,True
+docker,Moving Average,65.6875,88.5122,10.2011,False
+docker,XGBoost,71.9646,107.0151,11.0324,False
+dplyr,Previous Week,4.0,4.899,36.93,False
+dplyr,Moving Average,3.6562,4.532,34.6599,True
+dplyr,XGBoost,3.7815,4.6856,36.2549,False
+drupal,Previous Week,3.25,3.7417,106.6422,False
+drupal,Moving Average,2.25,2.8804,68.0001,True
+drupal,XGBoost,3.0571,4.0797,77.7138,False
+dynamodb,Previous Week,18.75,23.076,15.2104,False
+dynamodb,Moving Average,17.2812,20.7998,14.3242,True
+dynamodb,XGBoost,23.2768,25.8579,18.7355,False
+elasticsearch,Previous Week,27.0,34.3001,17.6056,False
+elasticsearch,Moving Average,26.4062,29.5684,17.8696,True
+elasticsearch,XGBoost,34.6893,40.6048,22.702,False
+electron,Previous Week,2.0,2.2361,70.7143,False
+electron,Moving Average,1.0625,1.3636,36.9177,True
+electron,XGBoost,2.1655,2.5538,60.5146,False
+elixir,Previous Week,2.875,4.43,45.0852,False
+elixir,Moving Average,2.7188,3.3738,48.8972,True
+elixir,XGBoost,3.0749,3.6967,50.1467,False
+erlang,Previous Week,1.25,1.5811,96.6667,False
+erlang,Moving Average,0.9375,1.0969,84.6997,True
+erlang,XGBoost,1.1644,1.416,94.5039,False
+excel,Previous Week,232.25,325.0342,12.2356,False
+excel,Moving Average,217.8125,355.8302,11.5547,True
+excel,XGBoost,301.906,459.0818,15.0706,False
+express,Previous Week,15.0,21.2955,12.2703,True
+express,Moving Average,19.7812,23.8414,15.8859,False
+express,XGBoost,19.6982,25.2799,15.7511,False
+f#,Previous Week,1.625,1.8371,92.5,False
+f#,Moving Average,1.125,1.4737,57.2559,False
+f#,XGBoost,0.8894,0.9585,54.9423,True
+fastapi,Previous Week,5.0,6.5383,12.4905,True
+fastapi,Moving Average,6.3438,7.3106,15.0618,False
+fastapi,XGBoost,5.6275,6.5992,13.6667,False
+fastify,Previous Week,1.625,2.3717,125.0,False
+fastify,Moving Average,1.0625,1.6863,100.6061,True
+fastify,XGBoost,1.2494,1.8641,173.2874,False
+fedora,Previous Week,1.375,2.0917,125.0,False
+fedora,Moving Average,1.0625,1.4142,115.1211,False
+fedora,XGBoost,0.9695,1.459,147.0981,True
+firebase,Previous Week,10.0,11.5758,26.815,False
+firebase,Moving Average,7.5625,9.8187,20.5628,True
+firebase,XGBoost,10.9266,13.4424,27.9447,False
+firestore,Previous Week,1.75,2.2913,33.1349,True
+firestore,Moving Average,1.8125,2.2879,38.3143,False
+firestore,XGBoost,2.7073,3.1789,50.9851,False
+flask,Previous Week,16.125,18.7383,19.9307,False
+flask,Moving Average,13.1875,16.6555,16.9747,True
+flask,XGBoost,18.4962,24.5821,24.7052,False
+flow,Previous Week,66.625,75.7339,13.2252,False
+flow,Moving Average,66.0938,91.5078,13.2898,True
+flow,XGBoost,68.7435,97.4547,14.0517,False
+flutter,Previous Week,2.125,2.3184,22.7632,False
+flutter,Moving Average,1.5312,1.7116,16.6353,True
+flutter,XGBoost,1.5892,1.7912,16.6404,False
+fortran,Previous Week,3.5,4.2426,68.3333,False
+fortran,Moving Average,3.25,3.5838,76.0029,False
+fortran,XGBoost,3.117,3.6159,70.8938,True
+gatsby,Previous Week,0.625,0.7906,108.3333,False
+gatsby,Moving Average,0.5,0.6124,100.0,False
+gatsby,XGBoost,0.3688,0.4811,95.2616,True
+gcp,Previous Week,68.375,85.4861,8.2762,True
+gcp,Moving Average,91.9375,111.5104,10.999,False
+gcp,XGBoost,82.5872,110.4651,9.915,False
+gdpr,Previous Week,16.25,21.1896,15.6107,True
+gdpr,Moving Average,18.5625,25.3377,17.482,False
+gdpr,XGBoost,19.8953,27.9517,18.4922,False
+ggplot2,Previous Week,3.25,4.1231,17.2478,False
+ggplot2,Moving Average,4.9688,5.6104,25.3164,False
+ggplot2,XGBoost,2.9264,3.9409,16.1117,True
+git,Previous Week,78.375,101.9025,10.1032,False
+git,Moving Average,91.125,127.7042,11.6793,False
+git,XGBoost,78.2632,123.9781,10.233,True
+github,Previous Week,29.625,39.7099,9.9529,True
+github,Moving Average,29.9375,46.463,10.102,False
+github,XGBoost,39.1553,54.296,12.7227,False
+gitlab,Previous Week,19.625,24.6602,13.0436,True
+gitlab,Moving Average,20.2812,25.616,13.8099,False
+gitlab,XGBoost,23.4772,28.5627,15.6825,False
+go,Previous Week,67.75,81.2296,11.6184,False
+go,Moving Average,58.9062,88.449,10.3039,True
+go,XGBoost,80.7537,101.9283,13.5536,False
+golang,Previous Week,14.375,16.7742,18.4973,True
+golang,Moving Average,15.7812,19.2526,20.319,False
+golang,XGBoost,14.9082,18.9673,19.7457,False
+google chat,Previous Week,1.375,2.0917,125.0,False
+google chat,Moving Average,1.0,1.4031,146.3492,False
+google chat,XGBoost,0.8867,1.1964,149.0095,True
+graphql,Previous Week,5.875,7.5911,13.0995,False
+graphql,Moving Average,4.8438,7.1638,10.8821,True
+graphql,XGBoost,7.6293,10.1496,17.776,False
+groovy,Previous Week,3.625,4.4861,22.5387,False
+groovy,Moving Average,3.0312,3.5587,19.7917,True
+groovy,XGBoost,3.1957,4.0482,20.3452,False
+hadoop,Previous Week,160.875,191.0278,15.9548,False
+hadoop,Moving Average,140.7188,182.0261,14.3322,True
+hadoop,XGBoost,179.1038,224.891,17.6228,False
+haskell,Previous Week,1.0,1.4142,23.254,False
+haskell,Moving Average,1.0,1.2562,23.1536,True
+haskell,XGBoost,1.0494,1.3558,23.196,False
+heroku,Previous Week,1.625,1.9685,79.7619,False
+heroku,Moving Average,1.0625,1.2119,47.577,True
+heroku,XGBoost,2.6806,2.953,87.6938,False
+html,Previous Week,13.0,15.3216,9.8385,False
+html,Moving Average,9.9688,14.8047,7.5093,True
+html,XGBoost,19.6821,23.0292,14.8415,False
+hugging face,Previous Week,3.375,6.3147,17.2593,False
+hugging face,Moving Average,2.875,3.5045,13.452,True
+hugging face,XGBoost,4.2508,4.9334,19.4312,False
+ibm cloud,Previous Week,15.625,19.9781,48.9372,False
+ibm cloud,Moving Average,11.375,13.7142,39.2641,True
+ibm cloud,XGBoost,11.4863,13.132,40.6084,False
+ionic,Previous Week,2.625,3.2596,114.4231,False
+ionic,Moving Average,2.8438,3.1262,121.1793,False
+ionic,XGBoost,2.1103,2.6395,108.9177,True
+java,Previous Week,163.625,189.2152,11.5265,False
+java,Moving Average,162.625,186.0026,11.5826,True
+java,XGBoost,194.8643,239.1816,13.6057,False
+javascript,Previous Week,38.875,47.2374,9.048,False
+javascript,Moving Average,37.6562,45.1234,8.8693,True
+javascript,XGBoost,54.264,61.5712,12.2958,False
+jenkins,Previous Week,37.375,50.6199,12.5692,True
+jenkins,Moving Average,43.5625,51.7381,14.5078,False
+jenkins,XGBoost,49.5532,63.6607,16.2402,False
+jira,Previous Week,49.5,56.0179,13.2977,False
+jira,Moving Average,48.4375,65.279,13.2575,True
+jira,XGBoost,49.674,68.1944,13.5279,False
+jquery,Previous Week,5.875,7.0445,22.759,False
+jquery,Moving Average,5.625,6.3147,22.503,True
+jquery,XGBoost,8.9639,11.9192,32.7972,False
+julia,Previous Week,8.875,10.88,19.9704,True
+julia,Moving Average,11.4375,14.1736,25.9617,False
+julia,XGBoost,11.1493,13.5308,25.2425,False
+jupyter,Previous Week,20.375,25.8142,14.1844,True
+jupyter,Moving Average,26.6562,33.987,18.3709,False
+jupyter,XGBoost,22.0737,27.1129,15.2171,False
+kafka,Previous Week,120.875,139.0463,15.3193,False
+kafka,Moving Average,92.6875,118.1661,12.0231,True
+kafka,XGBoost,114.9915,150.2352,14.5204,False
+kali,Previous Week,0.25,0.5,50.0,True
+kali,Moving Average,0.2812,0.3853,108.3333,False
+kali,XGBoost,0.4378,0.4908,179.7745,False
+keras,Previous Week,44.375,57.3792,21.4965,False
+keras,Moving Average,38.0312,49.2731,19.1505,True
+keras,XGBoost,61.6607,69.8561,29.1433,False
+kotlin,Previous Week,13.375,14.2522,31.5786,False
+kotlin,Moving Average,9.5,12.0636,22.6327,False
+kotlin,XGBoost,7.0069,8.7649,16.905,True
+kubernetes,Previous Week,69.375,76.809,11.638,False
+kubernetes,Moving Average,62.25,81.9536,10.6468,True
+kubernetes,XGBoost,66.2918,92.8453,11.249,False
+laravel,Previous Week,3.625,4.9117,47.318,False
+laravel,Moving Average,3.1875,3.941,44.3259,False
+laravel,XGBoost,2.9591,3.3867,43.1266,True
+linode,Previous Week,0.375,0.6124,75.0,True
+linode,Moving Average,0.5,0.5303,150.0,False
+linode,XGBoost,0.4561,0.6186,135.9148,False
+linux,Previous Week,63.25,78.7782,12.4626,False
+linux,Moving Average,50.5312,68.8643,10.182,True
+linux,XGBoost,62.9493,85.1298,12.3337,False
+lisp,Previous Week,2.0,2.4495,162.5,False
+lisp,Moving Average,1.25,1.5712,131.5435,False
+lisp,XGBoost,1.121,1.3202,126.7295,True
+looker,Previous Week,39.25,61.3025,13.1006,True
+looker,Moving Average,46.6562,66.8321,15.0991,False
+looker,XGBoost,44.674,74.0719,14.4562,False
+lua,Previous Week,3.0,3.6056,75.6448,False
+lua,Moving Average,2.625,2.7979,66.5249,True
+lua,XGBoost,2.7921,3.44,62.0147,False
+macos,Previous Week,4.5,5.099,40.8812,False
+macos,Moving Average,3.3125,3.6379,27.9206,False
+macos,XGBoost,2.7164,3.4484,22.3936,True
+mariadb,Previous Week,4.25,5.4314,21.4882,True
+mariadb,Moving Average,4.4375,5.1962,22.1932,False
+mariadb,XGBoost,4.9675,6.6007,23.4415,False
+matlab,Previous Week,36.25,43.2811,18.605,False
+matlab,Moving Average,33.125,44.2419,17.3418,True
+matlab,XGBoost,38.7219,51.055,19.7924,False
+matplotlib,Previous Week,19.75,22.1642,12.8381,True
+matplotlib,Moving Average,26.625,31.4643,17.2411,False
+matplotlib,XGBoost,24.0534,29.8669,15.8472,False
+mattermost,Previous Week,0.25,0.5,50.0,False
+mattermost,Moving Average,0.25,0.3953,125.0,True
+mattermost,XGBoost,0.3578,0.4385,187.774,False
+microsoft teams,Previous Week,3.375,4.2573,24.2025,True
+microsoft teams,Moving Average,3.9688,4.4678,26.7917,False
+microsoft teams,XGBoost,4.0392,4.7388,26.8097,False
+microstrategy,Previous Week,15.625,16.9374,18.9745,False
+microstrategy,Moving Average,10.25,13.2659,12.504,True
+microstrategy,XGBoost,12.525,17.0059,14.7445,False
+mlpack,Previous Week,0.75,1.0,108.3333,False
+mlpack,Moving Average,0.7188,0.8432,163.0159,False
+mlpack,XGBoost,0.5788,0.6881,154.6789,True
+mlr,Previous Week,2.125,2.4238,127.5,False
+mlr,Moving Average,1.25,1.4948,74.9747,True
+mlr,XGBoost,1.572,2.2095,78.4971,False
+monday.com,Previous Week,2.5,2.7386,76.9048,False
+monday.com,Moving Average,2.2812,2.6265,73.6042,True
+monday.com,XGBoost,2.6586,2.9376,83.4144,False
+mongo,Previous Week,24.375,30.0604,27.1784,False
+mongo,Moving Average,17.1562,23.0599,19.5118,False
+mongo,XGBoost,16.7435,22.6459,19.6089,True
+mongodb,Previous Week,58.75,72.1838,10.2673,True
+mongodb,Moving Average,61.8125,70.9192,10.8903,False
+mongodb,XGBoost,62.7405,79.5383,11.0069,False
+ms access,Previous Week,12.5,13.9463,30.8894,False
+ms access,Moving Average,11.5312,14.2327,29.0357,True
+ms access,XGBoost,13.0584,16.6604,31.1934,False
+mxnet,Previous Week,4.625,6.1135,23.5715,True
+mxnet,Moving Average,7.2188,7.5317,37.3144,False
+mxnet,XGBoost,8.2457,9.0591,41.278,False
+mysql,Previous Week,63.0,76.9691,13.922,False
+mysql,Moving Average,51.4062,62.6979,11.6612,True
+mysql,XGBoost,87.4064,107.0231,19.1316,False
+neo4j,Previous Week,12.75,15.7321,22.3256,True
+neo4j,Moving Average,13.0938,14.1474,23.5447,False
+neo4j,XGBoost,16.4335,18.1956,28.4658,False
+next.js,Previous Week,1.625,2.0917,38.6024,False
+next.js,Moving Average,1.4062,1.6417,33.0308,True
+next.js,XGBoost,1.8107,2.0342,43.5818,False
+nltk,Previous Week,7.375,8.2538,17.8354,False
+nltk,Moving Average,7.4688,9.1954,18.0982,False
+nltk,XGBoost,7.1619,10.7014,17.6562,True
+no-sql,Previous Week,7.75,10.332,19.7126,False
+no-sql,Moving Average,5.8125,7.9844,15.2796,True
+no-sql,XGBoost,9.195,11.0593,22.2651,False
+node,Previous Week,9.125,11.0736,25.348,False
+node,Moving Average,6.75,8.8397,19.2098,False
+node,XGBoost,4.4965,7.5341,13.7319,True
+node.js,Previous Week,7.0,9.0139,17.0099,False
+node.js,Moving Average,6.4688,9.22,16.7256,True
+node.js,XGBoost,9.7692,11.7968,23.2111,False
+nosql,Previous Week,101.125,117.1895,13.0707,False
+nosql,Moving Average,89.5938,113.0727,11.8848,True
+nosql,XGBoost,93.223,110.7325,12.3403,False
+notion,Previous Week,10.625,12.5549,30.5288,False
+notion,Moving Average,7.6875,9.1856,22.6088,True
+notion,XGBoost,8.5345,9.6147,24.8523,False
+npm,Previous Week,4.125,4.7828,58.6454,False
+npm,Moving Average,3.2188,3.7801,48.0615,True
+npm,XGBoost,3.43,4.4088,47.8064,False
+nuix,Previous Week,1.375,1.4577,112.5,False
+nuix,Moving Average,0.8438,1.0421,63.1002,True
+nuix,XGBoost,1.4985,1.7702,108.0999,False
+numpy,Previous Week,49.0,61.9839,14.8339,False
+numpy,Moving Average,57.4062,66.9581,17.3261,False
+numpy,XGBoost,42.3552,64.7829,13.1148,True
+nuxt.js,Previous Week,0.5,0.7071,100.0,False
+nuxt.js,Moving Average,0.375,0.4841,165.0,True
+nuxt.js,XGBoost,0.3969,0.5293,168.6988,False
+objective-c,Previous Week,2.375,3.0208,80.2976,False
+objective-c,Moving Average,1.5,1.8243,51.9613,False
+objective-c,XGBoost,1.387,1.6511,56.1035,True
+ocaml,Previous Week,0.875,1.1726,125.0,False
+ocaml,Moving Average,0.9062,0.9803,135.2381,False
+ocaml,XGBoost,0.7335,0.9516,163.0954,True
+opencv,Previous Week,12.5,17.066,32.2256,False
+opencv,Moving Average,8.9375,9.9137,24.5239,True
+opencv,XGBoost,10.999,12.327,29.0001,False
+openstack,Previous Week,5.0,6.3836,28.9377,False
+openstack,Moving Average,4.5,5.3356,29.2747,True
+openstack,XGBoost,4.5266,5.1223,29.7881,False
+oracle,Previous Week,58.625,90.0451,8.2407,True
+oracle,Moving Average,72.4062,95.3649,10.0517,False
+oracle,XGBoost,80.6117,109.5827,11.0206,False
+outlook,Previous Week,22.5,27.4454,17.2701,False
+outlook,Moving Average,19.375,26.3213,14.9552,True
+outlook,XGBoost,32.0229,43.4821,22.3895,False
+ovh,Previous Week,1.5,1.8708,125.0,False
+ovh,Moving Average,1.25,1.5612,115.5252,False
+ovh,XGBoost,1.1929,1.4918,100.6482,True
+pandas,Previous Week,65.125,76.3716,12.3996,True
+pandas,Moving Average,74.3438,95.2767,14.0326,False
+pandas,XGBoost,68.4799,93.4352,12.986,False
+pascal,Previous Week,0.875,1.0607,150.0,False
+pascal,Moving Average,0.6562,0.7552,123.8095,True
+pascal,XGBoost,0.9282,1.1889,115.9867,False
+perl,Previous Week,10.875,13.8969,14.7372,True
+perl,Moving Average,14.9375,18.6342,19.9995,False
+perl,XGBoost,15.525,18.6611,20.1741,False
+phoenix,Previous Week,10.625,13.5508,29.5652,False
+phoenix,Moving Average,11.0,12.8446,31.6382,False
+phoenix,XGBoost,9.7643,11.2028,27.1469,True
+php,Previous Week,11.125,12.723,15.4235,False
+php,Moving Average,9.6875,10.9701,13.9791,True
+php,XGBoost,12.874,15.5092,17.8543,False
+planner,Previous Week,8.875,9.9184,45.7949,False
+planner,Moving Average,5.9062,6.8824,31.1154,False
+planner,XGBoost,5.7736,6.8837,30.8096,True
+play framework,Previous Week,0.75,1.118,100.0,False
+play framework,Moving Average,0.7188,0.8432,154.0404,True
+play framework,XGBoost,1.1086,1.5139,160.4804,False
+plotly,Previous Week,10.125,13.1577,14.8846,True
+plotly,Moving Average,14.5312,15.3686,21.3934,False
+plotly,XGBoost,11.6006,14.1589,17.0911,False
+postgresql,Previous Week,42.125,48.1858,11.8329,True
+postgresql,Moving Average,42.5312,50.0254,12.0745,False
+postgresql,XGBoost,47.3825,65.7536,13.202,False
+power bi,Previous Week,158.75,227.6197,10.3253,False
+power bi,Moving Average,153.2812,265.964,10.0191,True
+power bi,XGBoost,177.7487,288.3915,11.3812,False
+powerbi,Previous Week,1.75,2.1794,44.881,False
+powerbi,Moving Average,0.9688,1.296,28.3575,True
+powerbi,XGBoost,1.1809,1.3528,34.4186,False
+powerpoint,Previous Week,65.375,80.6203,16.4299,False
+powerpoint,Moving Average,58.0938,81.3562,14.8125,True
+powerpoint,XGBoost,81.0658,110.0049,19.3711,False
+powershell,Previous Week,17.25,20.3899,16.0337,False
+powershell,Moving Average,17.0,21.754,15.5607,True
+powershell,XGBoost,23.7195,29.0549,21.0777,False
+pulumi,Previous Week,2.5,3.0,34.4102,False
+pulumi,Moving Average,1.8125,2.2291,25.0452,True
+pulumi,XGBoost,2.875,3.4685,34.881,False
+puppet,Previous Week,7.625,7.9136,26.7718,False
+puppet,Moving Average,5.9375,6.9451,21.1053,True
+puppet,XGBoost,6.1552,8.122,21.1975,False
+pyspark,Previous Week,50.75,71.3583,9.7196,True
+pyspark,Moving Average,57.4688,85.4237,10.8842,False
+pyspark,XGBoost,51.865,83.601,9.9981,False
+python,Previous Week,658.625,877.1125,10.6875,True
+python,Moving Average,658.9688,966.999,10.7569,False
+python,XGBoost,983.7189,1263.4361,15.8287,False
+pytorch,Previous Week,62.125,85.0581,12.3385,True
+pytorch,Moving Average,71.1562,90.6496,14.0863,False
+pytorch,XGBoost,72.705,101.7361,13.99,False
+qlik,Previous Week,43.5,60.2308,18.5931,False
+qlik,Moving Average,33.9688,54.6056,15.0554,True
+qlik,XGBoost,46.4097,59.7261,19.3096,False
+qt,Previous Week,1.625,2.3184,72.3214,False
+qt,Moving Average,1.25,1.663,51.8397,False
+qt,XGBoost,1.1863,1.5895,54.0083,True
+r,Previous Week,259.625,333.6164,13.292,False
+r,Moving Average,239.0,345.0894,12.4072,True
+r,XGBoost,276.8397,419.9633,13.9877,False
+react,Previous Week,23.0,24.97,13.7243,False
+react,Moving Average,20.1875,23.9655,12.2291,True
+react,XGBoost,23.6874,28.7938,14.2464,False
+react.js,Previous Week,3.75,4.3589,37.0945,False
+react.js,Moving Average,2.75,2.9817,26.1145,True
+react.js,XGBoost,3.3066,3.7367,29.1659,False
+redhat,Previous Week,3.125,3.5882,18.4222,False
+redhat,Moving Average,2.5625,2.8422,15.4909,True
+redhat,XGBoost,3.5821,4.3264,20.5021,False
+redis,Previous Week,27.375,35.7439,26.5994,False
+redis,Moving Average,18.0,23.7322,17.9882,True
+redis,XGBoost,24.7888,30.9365,24.6959,False
+redshift,Previous Week,70.75,83.8496,12.1372,False
+redshift,Moving Average,62.0938,81.4271,10.8935,True
+redshift,XGBoost,95.7041,105.6047,16.5547,False
+ringcentral,Previous Week,1.375,1.6202,145.8333,False
+ringcentral,Moving Average,1.0625,1.2311,127.4351,True
+ringcentral,XGBoost,1.5475,1.7021,135.9337,False
+rshiny,Previous Week,5.25,6.3246,44.2249,False
+rshiny,Moving Average,4.3438,5.4033,39.2573,True
+rshiny,XGBoost,6.5507,8.2678,49.9942,False
+ruby,Previous Week,24.5,31.1609,17.7579,False
+ruby,Moving Average,24.0,27.2156,17.1735,True
+ruby,XGBoost,28.7061,35.5363,20.8335,False
+ruby on rails,Previous Week,2.5,3.4641,18.2905,True
+ruby on rails,Moving Average,3.1875,3.8079,23.95,False
+ruby on rails,XGBoost,3.4715,4.151,27.157,False
+rust,Previous Week,11.375,13.7523,31.3674,False
+rust,Moving Average,7.9688,8.7397,23.0039,False
+rust,XGBoost,7.9174,9.3917,23.0382,True
+sap,Previous Week,59.5,79.621,12.8157,False
+sap,Moving Average,53.9375,80.9659,11.7329,True
+sap,XGBoost,67.9243,92.8617,14.4974,False
+sas,Previous Week,178.0,209.4159,15.0936,False
+sas,Moving Average,158.6875,228.1843,13.6232,True
+sas,XGBoost,185.5546,256.5998,15.5466,False
+sass,Previous Week,1.875,2.5249,23.5128,False
+sass,Moving Average,1.7188,2.3235,22.9708,True
+sass,XGBoost,2.1173,2.4724,28.1551,False
+scala,Previous Week,108.375,125.3241,11.7098,False
+scala,Moving Average,96.1875,122.7482,10.6143,True
+scala,XGBoost,117.0161,141.0155,12.7035,False
+scikit-learn,Previous Week,45.125,53.6621,13.8556,True
+scikit-learn,Moving Average,54.7812,67.46,16.7029,False
+scikit-learn,XGBoost,49.9547,67.4063,15.507,False
+seaborn,Previous Week,16.125,17.885,22.8658,True
+seaborn,Moving Average,16.1562,17.952,22.6446,False
+seaborn,XGBoost,19.1253,22.8039,26.3985,False
+selenium,Previous Week,10.875,11.7739,23.3088,False
+selenium,Moving Average,10.75,12.05,23.7963,False
+selenium,XGBoost,9.5141,10.6949,21.4349,True
+sharepoint,Previous Week,26.25,28.8617,20.0315,False
+sharepoint,Moving Average,23.0312,26.8714,17.8601,True
+sharepoint,XGBoost,36.5265,41.0899,26.1033,False
+sheets,Previous Week,18.25,20.8626,20.7676,False
+sheets,Moving Average,14.4375,18.7775,16.4678,True
+sheets,XGBoost,16.3775,20.8639,18.8393,False
+shell,Previous Week,61.25,76.225,17.8647,False
+shell,Moving Average,53.1562,65.4191,16.2422,False
+shell,XGBoost,51.5731,61.8336,15.6691,True
+slack,Previous Week,6.125,8.0078,14.5648,True
+slack,Moving Average,8.2812,8.5991,20.2037,False
+slack,XGBoost,11.7205,12.7484,27.4351,False
+smartsheet,Previous Week,3.875,4.9624,40.5315,False
+smartsheet,Moving Average,4.25,4.7037,41.0638,False
+smartsheet,XGBoost,3.5597,5.0565,32.6012,True
+snowflake,Previous Week,110.25,134.7498,11.8746,False
+snowflake,Moving Average,112.125,154.8805,12.2568,False
+snowflake,XGBoost,96.7236,139.3219,10.7727,True
+solidity,Previous Week,4.875,6.7546,52.8612,False
+solidity,Moving Average,4.1875,5.1235,48.3206,False
+solidity,XGBoost,3.5039,4.1775,43.3486,True
+spark,Previous Week,242.625,289.4734,13.3166,False
+spark,Moving Average,233.2812,299.0818,13.026,True
+spark,XGBoost,273.9778,347.6728,14.9524,False
+splunk,Previous Week,15.25,16.9706,21.5223,False
+splunk,Moving Average,13.7812,18.2382,19.8053,False
+splunk,XGBoost,13.1753,19.7227,18.882,True
+spreadsheet,Previous Week,14.0,17.7623,26.1237,False
+spreadsheet,Moving Average,11.0938,16.885,21.315,True
+spreadsheet,XGBoost,13.3778,17.778,24.941,False
+spring,Previous Week,18.75,22.0,15.2097,True
+spring,Moving Average,21.125,22.492,17.2894,False
+spring,XGBoost,19.3033,27.0929,17.1253,False
+spss,Previous Week,25.0,31.5159,15.5872,False
+spss,Moving Average,21.75,29.8857,13.6192,False
+spss,XGBoost,19.2977,26.4065,12.2039,True
+sql,Previous Week,634.125,856.77,10.5899,False
+sql,Moving Average,633.2812,962.7109,10.6263,True
+sql,XGBoost,738.1158,1144.0451,12.0682,False
+sql server,Previous Week,69.75,87.8877,11.4712,False
+sql server,Moving Average,60.375,87.0911,10.1014,True
+sql server,XGBoost,99.6196,139.4321,15.4491,False
+sqlite,Previous Week,2.375,2.7157,48.3838,False
+sqlite,Moving Average,2.25,2.5156,46.542,True
+sqlite,XGBoost,2.4662,3.6687,44.3527,False
+sqlserver,Previous Week,0.5,0.866,58.3333,True
+sqlserver,Moving Average,0.9375,1.0078,136.3636,False
+sqlserver,XGBoost,0.6869,0.9101,165.5598,False
+ssis,Previous Week,32.25,35.5774,12.206,False
+ssis,Moving Average,30.75,41.9393,11.8816,True
+ssis,XGBoost,38.3175,47.9037,14.1642,False
+ssrs,Previous Week,15.875,17.9409,11.2253,True
+ssrs,Moving Average,21.0,23.4307,15.591,False
+ssrs,XGBoost,25.9232,31.2068,17.8191,False
+suse,Previous Week,1.0,1.3229,96.6667,False
+suse,Moving Average,0.9688,1.1558,72.5866,True
+suse,XGBoost,1.0517,1.6998,62.6349,False
+svelte,Previous Week,2.75,4.6098,67.5,False
+svelte,Moving Average,2.8438,3.7385,119.6655,False
+svelte,XGBoost,2.4605,3.5809,128.1453,True
+svn,Previous Week,7.0,7.7621,40.9925,False
+svn,Moving Average,4.7812,5.5502,28.3703,True
+svn,XGBoost,4.8555,5.8639,28.1647,False
+swift,Previous Week,8.875,9.676,26.9509,False
+swift,Moving Average,8.7812,10.9641,26.6856,True
+swift,XGBoost,10.2137,11.1106,31.4935,False
+symfony,Previous Week,2.75,4.062,75.487,False
+symfony,Moving Average,2.0312,2.5541,59.858,False
+symfony,XGBoost,1.7648,2.0356,64.3787,True
+symphony,Previous Week,2.0,2.2361,63.2143,False
+symphony,Moving Average,1.5625,1.9922,44.0662,True
+symphony,XGBoost,1.9202,2.452,51.1271,False
+t-sql,Previous Week,17.25,23.3559,13.6535,False
+t-sql,Moving Average,16.0625,23.378,12.7606,True
+t-sql,XGBoost,22.8347,30.6649,17.1038,False
+tableau,Previous Week,237.75,304.562,12.4529,False
+tableau,Moving Average,215.8125,328.8436,11.4594,True
+tableau,XGBoost,252.83,393.1686,13.0605,False
+tensorflow,Previous Week,81.5,104.342,13.5165,True
+tensorflow,Moving Average,89.8125,111.097,15.0817,False
+tensorflow,XGBoost,112.7013,134.8366,18.56,False
+terminal,Previous Week,3.25,5.3385,12.8562,False
+terminal,Moving Average,4.9688,5.7994,18.671,False
+terminal,XGBoost,1.8431,2.6842,7.1707,True
+terraform,Previous Week,41.875,56.2105,13.0042,False
+terraform,Moving Average,39.4062,49.7267,12.2876,True
+terraform,XGBoost,50.7026,63.7821,15.2818,False
+theano,Previous Week,4.75,6.2048,36.7841,False
+theano,Moving Average,3.6875,4.2038,31.2698,True
+theano,XGBoost,7.4671,8.1482,52.2739,False
+tidyr,Previous Week,0.875,1.1726,108.3333,False
+tidyr,Moving Average,0.6562,0.8432,77.4747,True
+tidyr,XGBoost,0.7504,0.9042,76.4767,False
+tidyverse,Previous Week,4.625,4.9624,39.4218,False
+tidyverse,Moving Average,4.4688,5.4779,37.2647,True
+tidyverse,XGBoost,5.6361,7.0316,41.7842,False
+trello,Previous Week,3.75,4.3012,36.8335,False
+trello,Moving Average,2.9375,3.9568,28.7974,True
+trello,XGBoost,3.8617,4.7043,38.7862,False
+twilio,Previous Week,3.25,3.8406,56.5875,False
+twilio,Moving Average,1.9375,2.5556,39.0909,True
+twilio,XGBoost,2.0963,2.5383,46.6689,False
+typescript,Previous Week,12.125,13.5231,12.4486,False
+typescript,Moving Average,9.8125,11.3482,10.164,True
+typescript,XGBoost,13.3476,15.5745,13.7732,False
+ubuntu,Previous Week,9.25,12.1655,31.9972,False
+ubuntu,Moving Average,9.6562,10.5834,36.2933,False
+ubuntu,XGBoost,7.3721,9.2539,28.0294,True
+unify,Previous Week,7.25,8.8176,27.4049,False
+unify,Moving Average,6.1875,6.5907,23.5994,True
+unify,XGBoost,6.5333,7.2508,25.1206,False
+unity,Previous Week,11.375,14.4352,35.2691,False
+unity,Moving Average,8.7188,10.5952,28.5795,True
+unity,XGBoost,12.2826,15.7647,36.2011,False
+unix,Previous Week,37.375,46.1749,20.1167,False
+unix,Moving Average,38.9688,42.6179,21.2435,False
+unix,XGBoost,35.7436,49.3911,19.506,True
+unreal,Previous Week,2.0,2.2913,55.487,False
+unreal,Moving Average,1.4375,1.625,42.9135,True
+unreal,XGBoost,2.0961,2.3835,54.9288,False
+vb.net,Previous Week,2.125,2.4238,36.0227,True
+vb.net,Moving Average,2.1875,2.5094,36.5654,False
+vb.net,XGBoost,2.9747,3.6127,44.9835,False
+vba,Previous Week,33.375,38.6798,18.0597,False
+vba,Moving Average,21.9062,30.5554,12.3083,True
+vba,XGBoost,40.2892,51.2715,20.6915,False
+visio,Previous Week,10.5,11.9896,15.6756,False
+visio,Moving Average,9.4375,12.5449,14.2811,True
+visio,XGBoost,11.5996,15.8827,16.9524,False
+visual basic,Previous Week,5.375,7.4414,15.8726,True
+visual basic,Moving Average,6.4375,7.9922,18.2619,False
+visual basic,XGBoost,8.2247,9.9751,22.1862,False
+vmware,Previous Week,10.125,12.2729,17.986,False
+vmware,Moving Average,8.8125,10.3448,16.0222,True
+vmware,XGBoost,9.3773,12.2279,16.6217,False
+vue,Previous Week,6.0,7.6811,13.715,True
+vue,Moving Average,6.4688,8.16,15.6359,False
+vue,XGBoost,9.4617,13.1998,21.9855,False
+vue.js,Previous Week,2.625,3.9528,26.9185,True
+vue.js,Moving Average,3.0625,3.4095,33.6205,False
+vue.js,XGBoost,3.4379,3.7334,36.3229,False
+watson,Previous Week,5.875,7.1327,43.6787,False
+watson,Moving Average,3.9375,4.7153,29.3813,True
+watson,XGBoost,5.5326,6.9727,40.5478,False
+webex,Previous Week,2.5,3.2404,58.1197,False
+webex,Moving Average,2.3438,2.6235,64.6744,True
+webex,XGBoost,2.4948,2.8731,68.9152,False
+windows,Previous Week,27.25,32.619,12.2348,False
+windows,Moving Average,24.875,33.2627,11.3818,True
+windows,XGBoost,29.8888,38.7318,13.2761,False
+wire,Previous Week,3.25,3.4278,37.8399,False
+wire,Moving Average,2.9062,3.5189,33.9316,False
+wire,XGBoost,2.7934,3.1987,33.2488,True
+word,Previous Week,63.375,81.3718,14.375,False
+word,Moving Average,56.5625,84.4779,13.0064,True
+word,XGBoost,88.7361,111.7992,18.9629,False
+workfront,Previous Week,1.0,1.2247,100.0,False
+workfront,Moving Average,0.8438,1.0421,98.5065,True
+workfront,XGBoost,0.8563,1.1756,99.5141,False
+wrike,Previous Week,1.25,1.5,114.4048,False
+wrike,Moving Average,1.0,1.3807,81.7627,True
+wrike,XGBoost,1.1332,1.4516,81.1397,False
+wsl,Previous Week,2.125,2.894,96.1472,False
+wsl,Moving Average,1.3438,1.7298,61.2823,False
+wsl,XGBoost,1.0944,1.5734,58.6989,True
+xamarin,Previous Week,0.625,0.9354,83.3333,True
+xamarin,Moving Average,0.7812,0.9228,101.5773,False
+xamarin,XGBoost,1.0834,1.364,113.0771,False
+yarn,Previous Week,7.875,8.7821,21.7855,False
+yarn,Moving Average,6.875,7.6649,19.9193,False
+yarn,XGBoost,6.8447,10.164,19.2163,True
+zoom,Previous Week,7.5,8.3666,22.7558,False
+zoom,Moving Average,7.2812,8.9088,22.207,True
+zoom,XGBoost,7.3021,8.7917,22.4211,False

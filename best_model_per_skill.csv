@@ -1,0 +1,237 @@
+skill,best_model,MAE,RMSE,sMAPE
+airflow,Moving Average,79.8125,113.8414,10.8287
+airtable,Moving Average,2.9375,3.2162,48.1456
+alteryx,Moving Average,20.9062,34.7623,13.9237
+angular,Moving Average,11.4062,15.2912,12.7253
+angular.js,Moving Average,1.5938,1.7832,136.9963
+ansible,Previous Week,17.375,20.9075,15.3912
+apl,Moving Average,1.625,2.0194,68.8401
+arch,Moving Average,2.125,2.6517,37.8654
+asana,XGBoost,2.3273,2.9658,33.6322
+asp.net,Moving Average,2.5625,3.0847,13.7403
+asp.net core,Moving Average,0.7812,0.8795,20.6101
+assembly,Moving Average,10.4688,11.4827,29.1083
+atlassian,Moving Average,7.4375,9.1481,19.7524
+aurora,Moving Average,3.9062,5.0583,7.9294
+aws,Previous Week,221.125,282.4887,9.2764
+azure,Previous Week,209.625,285.0778,9.5724
+bash,Moving Average,21.5938,27.5271,14.3734
+bigquery,Previous Week,35.625,53.0578,10.3197
+bitbucket,Moving Average,15.0625,18.4941,18.5143
+blazor,XGBoost,1.0407,1.167,126.9898
+c,Previous Week,28.375,36.1715,10.9871
+c#,Moving Average,30.875,37.9136,11.8138
+c++,Previous Week,26.625,33.9098,7.7864
+capacitor,Moving Average,0.4375,0.5449,200.0
+cassandra,Moving Average,36.9688,46.2518,17.6664
+centos,XGBoost,3.4396,4.3485,29.3545
+chef,Moving Average,9.0938,10.8141,14.7916
+clickup,XGBoost,1.9996,2.4226,71.4137
+clojure,Moving Average,2.125,2.3485,64.1303
+cobol,Moving Average,1.8125,2.2707,23.7285
+codecommit,Moving Average,2.6562,3.3553,52.5308
+cognos,Moving Average,10.5,16.6775,13.9723
+colocation,Moving Average,3.7812,3.9775,51.7233
+confluence,Previous Week,19.875,28.3791,11.7421
+cordova,Previous Week,0.375,0.7906,37.5
+couchbase,Moving Average,3.7812,4.1711,45.0883
+couchdb,XGBoost,1.6357,1.8278,53.3186
+crystal,Previous Week,11.25,13.3417,27.1105
+css,Moving Average,10.9688,13.9404,10.4625
+dart,XGBoost,1.8374,2.011,42.5028
+databricks,Previous Week,78.75,108.6221,8.9335
+datarobot,Previous Week,1.75,2.4495,20.4688
+dax,Moving Average,20.9688,35.0131,14.9214
+db2,Moving Average,9.2188,11.6321,12.693
+debian,XGBoost,3.5962,4.5135,58.9269
+delphi,XGBoost,1.1163,1.2471,93.2418
+digitalocean,Moving Average,3.0,3.3866,82.2606
+django,Moving Average,10.7812,12.6957,15.4224
+dlib,Moving Average,0.75,0.9014,119.697
+docker,Previous Week,60.5,68.1964,9.37
+dplyr,Moving Average,3.6562,4.532,34.6599
+drupal,Moving Average,2.25,2.8804,68.0001
+dynamodb,Moving Average,17.2812,20.7998,14.3242
+elasticsearch,Moving Average,26.4062,29.5684,17.8696
+electron,Moving Average,1.0625,1.3636,36.9177
+elixir,Moving Average,2.7188,3.3738,48.8972
+erlang,Moving Average,0.9375,1.0969,84.6997
+excel,Moving Average,217.8125,355.8302,11.5547
+express,Previous Week,15.0,21.2955,12.2703
+f#,XGBoost,0.8894,0.9585,54.9423
+fastapi,Previous Week,5.0,6.5383,12.4905
+fastify,Moving Average,1.0625,1.6863,100.6061
+fedora,XGBoost,0.9695,1.459,147.0981
+firebase,Moving Average,7.5625,9.8187,20.5628
+firestore,Previous Week,1.75,2.2913,33.1349
+flask,Moving Average,13.1875,16.6555,16.9747
+flow,Moving Average,66.0938,91.5078,13.2898
+flutter,Moving Average,1.5312,1.7116,16.6353
+fortran,XGBoost,3.117,3.6159,70.8938
+gatsby,XGBoost,0.3688,0.4811,95.2616
+gcp,Previous Week,68.375,85.4861,8.2762
+gdpr,Previous Week,16.25,21.1896,15.6107
+ggplot2,XGBoost,2.9264,3.9409,16.1117
+git,XGBoost,78.2632,123.9781,10.233
+github,Previous Week,29.625,39.7099,9.9529
+gitlab,Previous Week,19.625,24.6602,13.0436
+go,Moving Average,58.9062,88.449,10.3039
+golang,Previous Week,14.375,16.7742,18.4973
+google chat,XGBoost,0.8867,1.1964,149.0095
+graphql,Moving Average,4.8438,7.1638,10.8821
+groovy,Moving Average,3.0312,3.5587,19.7917
+hadoop,Moving Average,140.7188,182.0261,14.3322
+haskell,Moving Average,1.0,1.2562,23.1536
+heroku,Moving Average,1.0625,1.2119,47.577
+html,Moving Average,9.9688,14.8047,7.5093
+hugging face,Moving Average,2.875,3.5045,13.452
+ibm cloud,Moving Average,11.375,13.7142,39.2641
+ionic,XGBoost,2.1103,2.6395,108.9177
+java,Moving Average,162.625,186.0026,11.5826
+javascript,Moving Average,37.6562,45.1234,8.8693
+jenkins,Previous Week,37.375,50.6199,12.5692
+jira,Moving Average,48.4375,65.279,13.2575
+jquery,Moving Average,5.625,6.3147,22.503
+julia,Previous Week,8.875,10.88,19.9704
+jupyter,Previous Week,20.375,25.8142,14.1844
+kafka,Moving Average,92.6875,118.1661,12.0231
+kali,Previous Week,0.25,0.5,50.0
+keras,Moving Average,38.0312,49.2731,19.1505
+kotlin,XGBoost,7.0069,8.7649,16.905
+kubernetes,Moving Average,62.25,81.9536,10.6468
+laravel,XGBoost,2.9591,3.3867,43.1266
+linode,Previous Week,0.375,0.6124,75.0
+linux,Moving Average,50.5312,68.8643,10.182
+lisp,XGBoost,1.121,1.3202,126.7295
+looker,Previous Week,39.25,61.3025,13.1006
+lua,Moving Average,2.625,2.7979,66.5249
+macos,XGBoost,2.7164,3.4484,22.3936
+mariadb,Previous Week,4.25,5.4314,21.4882
+matlab,Moving Average,33.125,44.2419,17.3418
+matplotlib,Previous Week,19.75,22.1642,12.8381
+mattermost,Moving Average,0.25,0.3953,125.0
+microsoft teams,Previous Week,3.375,4.2573,24.2025
+microstrategy,Moving Average,10.25,13.2659,12.504
+mlpack,XGBoost,0.5788,0.6881,154.6789
+mlr,Moving Average,1.25,1.4948,74.9747
+monday.com,Moving Average,2.2812,2.6265,73.6042
+mongo,XGBoost,16.7435,22.6459,19.6089
+mongodb,Previous Week,58.75,72.1838,10.2673
+ms access,Moving Average,11.5312,14.2327,29.0357
+mxnet,Previous Week,4.625,6.1135,23.5715
+mysql,Moving Average,51.4062,62.6979,11.6612
+neo4j,Previous Week,12.75,15.7321,22.3256
+next.js,Moving Average,1.4062,1.6417,33.0308
+nltk,XGBoost,7.1619,10.7014,17.6562
+no-sql,Moving Average,5.8125,7.9844,15.2796
+node,XGBoost,4.4965,7.5341,13.7319
+node.js,Moving Average,6.4688,9.22,16.7256
+nosql,Moving Average,89.5938,113.0727,11.8848
+notion,Moving Average,7.6875,9.1856,22.6088
+npm,Moving Average,3.2188,3.7801,48.0615
+nuix,Moving Average,0.8438,1.0421,63.1002
+numpy,XGBoost,42.3552,64.7829,13.1148
+nuxt.js,Moving Average,0.375,0.4841,165.0
+objective-c,XGBoost,1.387,1.6511,56.1035
+ocaml,XGBoost,0.7335,0.9516,163.0954
+opencv,Moving Average,8.9375,9.9137,24.5239
+openstack,Moving Average,4.5,5.3356,29.2747
+oracle,Previous Week,58.625,90.0451,8.2407
+outlook,Moving Average,19.375,26.3213,14.9552
+ovh,XGBoost,1.1929,1.4918,100.6482
+pandas,Previous Week,65.125,76.3716,12.3996
+pascal,Moving Average,0.6562,0.7552,123.8095
+perl,Previous Week,10.875,13.8969,14.7372
+phoenix,XGBoost,9.7643,11.2028,27.1469
+php,Moving Average,9.6875,10.9701,13.9791
+planner,XGBoost,5.7736,6.8837,30.8096
+play framework,Moving Average,0.7188,0.8432,154.0404
+plotly,Previous Week,10.125,13.1577,14.8846
+postgresql,Previous Week,42.125,48.1858,11.8329
+power bi,Moving Average,153.2812,265.964,10.0191
+powerbi,Moving Average,0.9688,1.296,28.3575
+powerpoint,Moving Average,58.0938,81.3562,14.8125
+powershell,Moving Average,17.0,21.754,15.5607
+pulumi,Moving Average,1.8125,2.2291,25.0452
+puppet,Moving Average,5.9375,6.9451,21.1053
+pyspark,Previous Week,50.75,71.3583,9.7196
+python,Previous Week,658.625,877.1125,10.6875
+pytorch,Previous Week,62.125,85.0581,12.3385
+qlik,Moving Average,33.9688,54.6056,15.0554
+qt,XGBoost,1.1863,1.5895,54.0083
+r,Moving Average,239.0,345.0894,12.4072
+react,Moving Average,20.1875,23.9655,12.2291
+react.js,Moving Average,2.75,2.9817,26.1145
+redhat,Moving Average,2.5625,2.8422,15.4909
+redis,Moving Average,18.0,23.7322,17.9882
+redshift,Moving Average,62.0938,81.4271,10.8935
+ringcentral,Moving Average,1.0625,1.2311,127.4351
+rshiny,Moving Average,4.3438,5.4033,39.2573
+ruby,Moving Average,24.0,27.2156,17.1735
+ruby on rails,Previous Week,2.5,3.4641,18.2905
+rust,XGBoost,7.9174,9.3917,23.0382
+sap,Moving Average,53.9375,80.9659,11.7329
+sas,Moving Average,158.6875,228.1843,13.6232
+sass,Moving Average,1.7188,2.3235,22.9708
+scala,Moving Average,96.1875,122.7482,10.6143
+scikit-learn,Previous Week,45.125,53.6621,13.8556
+seaborn,Previous Week,16.125,17.885,22.8658
+selenium,XGBoost,9.5141,10.6949,21.4349
+sharepoint,Moving Average,23.0312,26.8714,17.8601
+sheets,Moving Average,14.4375,18.7775,16.4678
+shell,XGBoost,51.5731,61.8336,15.6691
+slack,Previous Week,6.125,8.0078,14.5648
+smartsheet,XGBoost,3.5597,5.0565,32.6012
+snowflake,XGBoost,96.7236,139.3219,10.7727
+solidity,XGBoost,3.5039,4.1775,43.3486
+spark,Moving Average,233.2812,299.0818,13.026
+splunk,XGBoost,13.1753,19.7227,18.882
+spreadsheet,Moving Average,11.0938,16.885,21.315
+spring,Previous Week,18.75,22.0,15.2097
+spss,XGBoost,19.2977,26.4065,12.2039
+sql,Moving Average,633.2812,962.7109,10.6263
+sql server,Moving Average,60.375,87.0911,10.1014
+sqlite,Moving Average,2.25,2.5156,46.542
+sqlserver,Previous Week,0.5,0.866,58.3333
+ssis,Moving Average,30.75,41.9393,11.8816
+ssrs,Previous Week,15.875,17.9409,11.2253
+suse,Moving Average,0.9688,1.1558,72.5866
+svelte,XGBoost,2.4605,3.5809,128.1453
+svn,Moving Average,4.7812,5.5502,28.3703
+swift,Moving Average,8.7812,10.9641,26.6856
+symfony,XGBoost,1.7648,2.0356,64.3787
+symphony,Moving Average,1.5625,1.9922,44.0662
+t-sql,Moving Average,16.0625,23.378,12.7606
+tableau,Moving Average,215.8125,328.8436,11.4594
+tensorflow,Previous Week,81.5,104.342,13.5165
+terminal,XGBoost,1.8431,2.6842,7.1707
+terraform,Moving Average,39.4062,49.7267,12.2876
+theano,Moving Average,3.6875,4.2038,31.2698
+tidyr,Moving Average,0.6562,0.8432,77.4747
+tidyverse,Moving Average,4.4688,5.4779,37.2647
+trello,Moving Average,2.9375,3.9568,28.7974
+twilio,Moving Average,1.9375,2.5556,39.0909
+typescript,Moving Average,9.8125,11.3482,10.164
+ubuntu,XGBoost,7.3721,9.2539,28.0294
+unify,Moving Average,6.1875,6.5907,23.5994
+unity,Moving Average,8.7188,10.5952,28.5795
+unix,XGBoost,35.7436,49.3911,19.506
+unreal,Moving Average,1.4375,1.625,42.9135
+vb.net,Previous Week,2.125,2.4238,36.0227
+vba,Moving Average,21.9062,30.5554,12.3083
+visio,Moving Average,9.4375,12.5449,14.2811
+visual basic,Previous Week,5.375,7.4414,15.8726
+vmware,Moving Average,8.8125,10.3448,16.0222
+vue,Previous Week,6.0,7.6811,13.715
+vue.js,Previous Week,2.625,3.9528,26.9185
+watson,Moving Average,3.9375,4.7153,29.3813
+webex,Moving Average,2.3438,2.6235,64.6744
+windows,Moving Average,24.875,33.2627,11.3818
+wire,XGBoost,2.7934,3.1987,33.2488
+word,Moving Average,56.5625,84.4779,13.0064
+workfront,Moving Average,0.8438,1.0421,98.5065
+wrike,Moving Average,1.0,1.3807,81.7627
+wsl,XGBoost,1.0944,1.5734,58.6989
+xamarin,Previous Week,0.625,0.9354,83.3333
+yarn,XGBoost,6.8447,10.164,19.2163
+zoom,Moving Average,7.2812,8.9088,22.207

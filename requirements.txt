@@ -1,0 +1,18 @@
+# CoreNex runtime requirements (Streamlit application)
+# Install:  py -m pip install -r requirements.txt
+# Run:      streamlit run app.py
+
+streamlit==1.67.0
+pandas==3.1.1
+numpy==2.5.0
+plotly==7.1.0
+pyarrow==26.0.1
+requests==2.34.2
+
+# ---------------------------------------------------------------------------
+# Optional: only needed to re-run the Phase 0/1/2 analysis scripts.
+#   pip install -r requirements-analysis.txt
+#
+# Optional: only needed to re-run verify_ui.py (real-browser checks).
+#   pip install websockets
+# ---------------------------------------------------------------------------
